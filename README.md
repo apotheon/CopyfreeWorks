@@ -10,7 +10,7 @@ collaborative maintenance of the datafile that lies behind that list.
 Process:
 
 1. Fork this repository.
-2. Commit changes in your fork.
+2. Commit changes in your fork.  Use imperative language commit messages.
 3. Use GitHub's facilities for a Pull Request.
 4. Monitor the PR for any comments we may have on your PR.
 5. Celebrate when your PR gets merged.  If it does not get merged for some

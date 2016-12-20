@@ -25,6 +25,22 @@ and whatver passes for the project's "main" webpage (the `uri` value).  The
 license terms reference should be authoritative *for the project*, and not
 simply the address for some license text at OSI.
 
+This is an example of the general format of works list datafile entries:
+
+    Project Name:
+      uri:
+      - http://projectname.example/
+      description:
+      - Project Name does something useful.
+      license:
+      - MIT/X11 License
+      license_reference:
+      - http://github.com/project-name/ProjectNameMain/blob/master/LICENSE
+      tags:
+      - client
+      - network
+      - software
+
 Any comments asking for changes -- no matter how trivial they may seem -- are
 not intended to carry any negative emotional baggage, unless you are trolling
 us.  They are intended to help you get used to how we do things, and to help us

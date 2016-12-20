@@ -16,6 +16,8 @@ Process:
 5. Celebrate when your PR gets merged.  If it does not get merged for some
    reason, congratulate yourself on the learning experience.
 
+(You get bonus points for using a descriptively named topic branch in your PR.)
+
 Please use examples in the YAML datafile as your template for adding new
 copyfree works.  At a bare minimum, a new suggestion should include project
 name, license name, and URIs for both an authoritative license terms reference

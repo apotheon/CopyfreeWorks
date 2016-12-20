@@ -1,9 +1,9 @@
 # Copyfree Works
 
 Copyfree works -- quite well, in fact.  As evidence, we maintain a [list of
-copyfree works][list] onthe Copyfree Initiative
-website.  This very small project repository exists for the sole purpose of
-collaborative maintenance of the datafile that lies behind that list.
+copyfree works][list] on the Copyfree Initiative website.  This very small
+project repository exists for the sole purpose of collaborative maintenance of
+the datafile that lies behind that list.
 
 ## Contributing
 

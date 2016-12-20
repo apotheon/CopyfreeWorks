@@ -1,0 +1,6991 @@
+---
+Bitcoin-Qt:
+  uri:
+  - http://bitcoin.org/en/download
+  category:
+  - Cryptography
+  tags:
+  - bitcoin
+  - cryptocurrency
+  - cryptography
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/bitcoin/bitcoin/blob/master/COPYING
+  description:
+  - Bitcoin is an innovative payment network and a new kind of money, and this is a GUI Bitcoin wallet application.
+Bitcoind:
+  uri:
+  - https://en.bitcoin.it/wiki/Bitcoind
+  category:
+  - Cryptography
+  tags:
+  - bitcoin
+  - blockchain
+  - cryptocurrency
+  - cryptography
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/bitcoin/bitcoin/blob/master/COPYING
+  description:
+  - This project provides the reference implementation for a Bitcoin library, daemon, and command-line wallet.
+btcd:
+  uri:
+  - https://github.com/btcsuite/btcd
+  category:
+  - Cryptography
+  tags:
+  - bitcoin
+  - blockchain
+  - cryptocurrency
+  - cryptography
+  - software
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/btcsuite/btcd/blob/master/LICENSE
+  description:
+  - As an alternative full-node implementation of the bitcoin protocol written in Go, btcd provides an alternative to bitcoind that can substantially improve the diversity and resilience of the bitcoin ecosystem and infrastructure.
+Litecoin:
+  uri:
+  - https://litecoin.org
+  category:
+  - Cryptography
+  tags:
+  - blockchain
+  - cryptocurrency
+  - cryptography
+  - software
+  license:
+  - MIT/X11 License
+  license_reference: []
+Mechiel Lukkien's DES:
+  uri:
+  - http://www.ueber.net/code/r/des
+  category:
+  - Cryptography
+  tags:
+  - cryptography
+  - software
+  license:
+  - public domain
+  license_reference: []
+Mechiel Lukkien's SHA2:
+  uri:
+  - http://www.ueber.net/code/r/sha2
+  category:
+  - Cryptography
+  tags:
+  - cryptography
+  - software
+  license:
+  - public domain
+  license_reference: []
+Namecoin:
+  uri:
+  - http://namecoin.info/
+  category:
+  - Cryptography
+  tags:
+  - cryptography
+  - dns
+  - software
+  license:
+  - MIT/X11 License
+  license_reference: []
+OpenPGP SDK:
+  uri:
+  - http://openpgp.nominet.org.uk/cgi-bin/trac.cgi/wiki
+  category:
+  - Cryptography
+  tags:
+  - cryptography
+  - encryption
+  - openpgp
+  - privacy
+  - security
+  - software
+  license:
+  - BSD License
+  license_reference: []
+OpenSSH:
+  uri:
+  - http://www.openssh.com/
+  category:
+  - Cryptography
+  tags:
+  - cryptography
+  - software
+  license:
+  - BSD License
+  license_reference: []
+pgpdsa:
+  uri:
+  - http://www.cypherspace.org/openpgp/pgpdsa/
+  category:
+  - Cryptography
+  tags:
+  - cryptography
+  - software
+  license:
+  - public domain
+  license_reference: []
+Tom Zerucha's OpenPGP:
+  uri:
+  - http://www.cypherspace.org/openpgp/zerucha/
+  category:
+  - Cryptography
+  tags:
+  - cryptography
+  - encryption
+  - openpgp
+  - privacy
+  - security
+  - software
+  license:
+  - BSD License
+  license_reference: []
+Tor:
+  uri:
+  - https://www.torproject.org/
+  category:
+  - Cryptography
+  tags:
+  - cryptography
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://gitweb.torproject.org/tor.git/blob_plain/HEAD:/LICENSE
+PostgreSQL:
+  uri:
+  - http://www.postgresql.org/
+  category:
+  - Database
+  tags:
+  - database
+  - software
+  license:
+  - PostgreSQL License
+  license_reference: []
+SQLite:
+  uri:
+  - http://www.sqlite.org/
+  category:
+  - Database
+  tags:
+  - database
+  - software
+  license:
+  - public domain
+  license_reference:
+  - http://www.sqlite.org/copyright.html
+cryptfile:
+  uri:
+  - http://www.ueber.net/code/r/cryptfile
+  category:
+  - Inferno/P9
+  tags:
+  - inferno
+  - software
+  license:
+  - public domain
+  license_reference:
+  - https://bitbucket.org/mjl/cryptfile/src/default/README
+dhcpd:
+  uri:
+  - http://www.ueber.net/code/r/dhcpd
+  category:
+  - Inferno/P9
+  tags:
+  - inferno
+  - software
+  license:
+  - public domain
+  license_reference: []
+ircfs:
+  uri:
+  - http://www.ueber.net/code/r/ircfs
+  category:
+  - Inferno/P9
+  tags:
+  - inferno
+  - software
+  license:
+  - public domain
+  license_reference: []
+ftpserv:
+  uri:
+  - http://www.ueber.net/code/r/ftpsrv
+  category:
+  - Inferno/P9
+  tags:
+  - ftp
+  - inferno
+  - software
+  license:
+  - public domain
+  license_reference: []
+hdict:
+  uri:
+  - https://github.com/polachok/hdict
+  category:
+  - Inferno/P9
+  tags:
+  - dictionary
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/polachok/hdict/blob/master/LICENSE
+hgfs:
+  uri:
+  - http://www.ueber.net/code/r/hgfs
+  category:
+  - Inferno/P9
+  tags:
+  - inferno
+  - software
+  license:
+  - public domain
+  license_reference: []
+hgweb:
+  uri:
+  - http://www.ueber.net/code/r/hgweb
+  category:
+  - Inferno/P9
+  tags:
+  - inferno
+  - software
+  license:
+  - public domain
+  license_reference: []
+http:
+  uri:
+  - http://www.ueber.net/code/r/http
+  category:
+  - Inferno/P9
+  tags:
+  - inferno
+  - software
+  license:
+  - public domain
+  license_reference: []
+torrent:
+  uri:
+  - http://www.ueber.net/code/r/torrent
+  category:
+  - Inferno/P9
+  tags:
+  - inferno
+  - software
+  license:
+  - public domain
+  license_reference: []
+nfssrv:
+  uri:
+  - http://www.ueber.net/code/r/nfssrv
+  category:
+  - Inferno/P9
+  tags:
+  - inferno
+  - software
+  license:
+  - public domain
+  license_reference: []
+nopoint:
+  uri:
+  - http://www.ueber.net/code/r/nopoint
+  category:
+  - Inferno/P9
+  tags:
+  - inferno
+  - software
+  license:
+  - public domain
+  license_reference: []
+pdfread:
+  uri:
+  - http://www.ueber.net/code/r/pdfread
+  category:
+  - Inferno/P9
+  tags:
+  - inferno
+  - software
+  license:
+  - public domain
+  license_reference: []
+playfs:
+  uri:
+  - http://www.ueber.net/code/r/playfs
+  category:
+  - Inferno/P9
+  tags:
+  - inferno
+  - software
+  license:
+  - public domain
+  license_reference: []
+scgid:
+  uri:
+  - http://www.ueber.net/code/r/scgid
+  category:
+  - Inferno/P9
+  tags:
+  - inferno
+  - software
+  license:
+  - public domain
+  license_reference: []
+shttpd:
+  uri:
+  - http://www.ueber.net/code/r/httpd
+  category:
+  - Inferno/P9
+  tags:
+  - inferno
+  - software
+  license:
+  - public domain
+  license_reference: []
+ssh:
+  uri:
+  - http://www.ueber.net/code/r/ssh
+  category:
+  - Inferno/P9
+  tags:
+  - inferno
+  - software
+  license:
+  - public domain
+  license_reference: []
+textmangle:
+  uri:
+  - http://www.ueber.net/code/r/textmangle
+  category:
+  - Inferno/P9
+  tags:
+  - inferno
+  - software
+  license:
+  - public domain
+  license_reference: []
+ventisrv:
+  uri:
+  - http://www.ueber.net/code/r/ventisrv
+  category:
+  - Inferno/P9
+  tags:
+  - inferno
+  - software
+  license:
+  - public domain
+  license_reference: []
+web:
+  uri:
+  - http://www.ueber.net/code/r/web
+  category:
+  - Inferno/P9
+  tags:
+  - inferno
+  - software
+  license:
+  - public domain
+  license_reference: []
+webdavfs:
+  uri:
+  - http://www.ueber.net/code/r/webdavfs
+  category:
+  - Inferno/P9
+  tags:
+  - inferno
+  - software
+  license:
+  - public domain
+  license_reference: []
+zipfs:
+  uri:
+  - http://www.ueber.net/code/r/zipfs
+  category:
+  - Inferno/P9
+  tags:
+  - inferno
+  - software
+  license:
+  - public domain
+  license_reference: []
+ii:
+  uri:
+  - http://tools.suckless.org/ii/
+  category:
+  - Network Client
+  tags:
+  - client
+  - network
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://git.suckless.org/ii/tree/LICENSE
+jab:
+  uri:
+  - http://bitbucket.org/sterlingcamden/jab
+  category:
+  - Network Client
+  tags:
+  - client
+  - network
+  - software
+  license:
+  - Open Works License
+  license_reference:
+  - https://bitbucket.org/sterlingcamden/jab/src/default/license.txt
+rbot:
+  uri:
+  - http://ruby-rbot.org/
+  category:
+  - Network Client
+  tags:
+  - client
+  - multilicensed
+  - network
+  - software
+  license:
+  - MIT/X11 License
+  license_alternate:
+  - GPL
+  license_reference:
+  - http://ruby-rbot.org/rbot-trac/browser/COPYING
+samblah:
+  uri:
+  - http://www.ueber.net/code/r/samblah
+  category:
+  - Network Client
+  tags:
+  - client
+  - network
+  - software
+  license:
+  - public domain
+  license_reference: []
+sic:
+  uri:
+  - http://tools.suckless.org/sic
+  category:
+  - Network Client
+  tags:
+  - client
+  - network
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://git.suckless.org/sic/tree/LICENSE
+herrie:
+  uri:
+  - http://herrie.info/
+  category:
+  - Media Player
+  tags:
+  - media player
+  - software
+  license:
+  - BSD License
+  license_reference: []
+S5:
+  uri:
+  - http://meyerweb.com/eric/tools/s5/
+  tags:
+  - office
+  - software
+  license:
+  - public domain
+  license_reference: []
+AerieBSD:
+  uri:
+  - https://github.com/mikekmv/aeriebsd-src
+  tags:
+  - bsd
+  - os
+  - software
+  - unix
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/mikekmv/aeriebsd-src/blob/master/share/doc/README
+DesktopBSD:
+  uri:
+  - http://www.desktopbsd.net/
+  tags:
+  - bsd
+  - os
+  - software
+  - unix
+  license:
+  - BSD License
+  license_reference: []
+DragonFly BSD:
+  uri:
+  - http://www.dragonflybsd.org/
+  tags:
+  - bsd
+  - os
+  - software
+  - unix
+  license:
+  - BSD License
+  license_reference: []
+  description:
+  - DragonFly BSD is a BSD Unix OS with a number of differentiating features like advanced parallelization capabilities, the HAMMER filesystem, and virtual kernels, among others.  The development community takes its own approach to system development where it makes sense to meet the project's goals, and maintains strong FreeBSD compatibility where it doesn't.
+FreeBSD:
+  uri:
+  - http://www.freebsd.org/
+  tags:
+  - bsd
+  - os
+  - software
+  - unix
+  license:
+  - BSD License
+  license_reference: []
+NetBSD:
+  uri:
+  - http://www.netbsd.org/
+  tags:
+  - bsd
+  - os
+  - software
+  - unix
+  license:
+  - BSD License
+  license_reference: []
+OpenBSD:
+  uri:
+  - http://www.openbsd.org/
+  tags:
+  - bsd
+  - os
+  - software
+  - unix
+  license:
+  - ISC Licenses
+  license_reference: []
+PC-BSD:
+  uri:
+  - http://www.pcbsd.org/
+  tags:
+  - bsd
+  - os
+  - software
+  - unix
+  license:
+  - BSD License
+  license_reference: []
+ANTLR:
+  uri:
+  - http://www.antlr.org/
+  tags:
+  - parser generator
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/antlr/antlr4/blob/master/LICENSE.txt
+Berkeley Yacc:
+  uri:
+  - http://invisible-island.net/byacc/byacc.html
+  tags:
+  - parser generator
+  - software
+  license:
+  - public domain
+  license_reference:
+  - http://invisible-island.net/byacc/byacc.html#licensing
+Cocotron:
+  uri:
+  - http://www.cocotron.org/
+  tags:
+  - objective c
+  - programming
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://www.cocotron.org/Info/MIT_License/
+Gauche:
+  uri:
+  - http://practical-scheme.net/gauche/
+  tags:
+  - interpreter
+  - language
+  - lisp
+  - programming
+  - scheme
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://sourceforge.net/p/gauche/code/ci/master/tree/COPYING
+  description:
+  - Gauche is an R7RS Scheme implementation developed to be a handy script interpreter, which allows programmers and system administrators to write small to large scripts for their daily chores. Quick startup, built-in system interface, and native multilingual support are some of its goals.
+Glasgow Haskell Compiler:
+  uri:
+  - http://www.haskell.org/ghc/
+  tags:
+  - compiler
+  - haskell
+  - language
+  - llvm
+  - programming
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://www.haskell.org/ghc/license
+  description:
+  - GHC is a state-of-the-art, open source compiler and interactive environment for the functional language Haskell.
+Hugs:
+  uri:
+  - http://www.haskell.org/hugs
+  tags:
+  - dead
+  - haskell
+  - programming
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://www.haskell.org/hugs/pages/users_guide/license.html
+  description:
+  - Hugs 98 is a functional programming system based on Haskell 98, the de facto standard for non-strict functional programming languages. Hugs 98 provides an almost complete implementation of Haskell 98
+Logo3D:
+  uri:
+  - http://sourceforge.net/projects/logo3d/
+  tags:
+  - gui
+  - jvm
+  - logo
+  - programming
+  - software
+  license:
+  - ISC License
+  license_reference:
+  - http://sourceforge.net/projects/logo3d/
+  description:
+  - This project presents an implementation of the turtle graphics system originally developed for the Logo programming language developed at MIT by Seymour Papert.
+Lua:
+  uri:
+  - http://www.lua.org/
+  tags:
+  - language
+  - lua
+  - programming
+  - software
+  - virtual machine
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://www.lua.org/license.html
+  description:
+  - Lua is a powerful, fast, lightweight, embeddable scripting language.
+MochiKit:
+  uri:
+  - http://mochi.github.io/mochikit/
+  tags:
+  - library
+  - multilicensed
+  - software
+  license:
+  - MIT/X11 License
+  license_alternate:
+  - Academic Free License
+  license_reference:
+  - https://github.com/mochi/mochikit/blob/master/LICENSE.txt
+Portable C Compiler:
+  uri:
+  - http://pcc.ludd.ltu.se/
+  tags:
+  - c
+  - programming
+  - software
+  license:
+  - BSD License
+  license_reference: []
+Reia:
+  uri:
+  - http://reia-lang.org/
+  tags:
+  - beam
+  - dead
+  - language
+  - programming
+  - reia
+  - software
+  - virtual machine
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/tarcieri/reia/blob/master/LICENSE
+  description:
+  - Reia (pronounced RAY-uh) is a Ruby-like scripting language for the Erlang virtual machine (BEAM).
+Scala:
+  uri:
+  - http://www.scala-lang.org/
+  tags:
+  - jvm
+  - language
+  - programming
+  - scala
+  - software
+  - virtual machine
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/scala/scala/blob/2.12.x/doc/LICENSE.md
+  description:
+  - Scala is a JVM language with seamless Java interop, type inference, class-based OOP facilities, and functional features like higher-order functions.
+Scheme 48:
+  uri:
+  - http://s48.org/
+  tags:
+  - language
+  - lisp
+  - programming
+  - scheme
+  - software
+  - virtual machine
+  license:
+  - BSD License
+  license_reference:
+  - http://www.s48.org/cgi-bin/hgwebdir.cgi/s48/file/default/COPYING
+  description:
+  - Scheme 48 is a bytecode interpreted implementation of R5RS designed to be used as a testbed for experiments in implementation techniques and as an expository tool.
+Squeak:
+  uri:
+  - http://www.squeak.org/
+  tags:
+  - language
+  - programming
+  - smalltalk
+  - software
+  - virtual machine
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://www.squeak.org/SqueakLicense
+  description:
+  - Squeak is an open-source Smalltalk programming system with fast execution environments for all major platforms.  It features the Morphic framework, which promotes low effort graphical, interactive application development and maintenance.
+Steel Bank Common Lisp:
+  uri:
+  - http://www.sbcl.org/
+  tags:
+  - common lisp
+  - compiler
+  - language
+  - lisp
+  - programming
+  - software
+  license:
+  - public domain
+  license_reference:
+  - https://sourceforge.net/p/sbcl/sbcl/ci/master/tree/COPYING
+  description:
+  - Steel Bank Common Lisp (SBCL) is a high performance compiler and runtime system for ANSI Common Lisp.  It provides an interactive environment including a debugger, a statistical profiler, a code coverage tool, and many other extensions.
+TenDRA:
+  uri:
+  - http://www.tendra.org/
+  tags:
+  - c
+  - compiler
+  - language
+  - programming
+  - software
+  license:
+  - DERA Copyright License + OSF License + Revised BSD License
+  license_reference: []
+TinyScheme:
+  uri:
+  - http://tinyscheme.sourceforge.net/
+  tags:
+  - interpreter
+  - language
+  - lisp
+  - programming
+  - scheme
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://tinyscheme.sourceforge.net/license.txt
+  description:
+  - TinyScheme is a lightweight Scheme interpreter that implements as large a subset of R5RS as was possible without getting very large and complicated.  It is meant to be used as an embedded scripting interpreter for other programs.  A lot of functionality in TinyScheme is included conditionally, to allow developers freedom in balancing features and footprint.
+V8:
+  uri:
+  - http://v8project.blogspot.com/
+  - https://bugs.chromium.org/p/v8/
+  tags:
+  - javascript
+  - language
+  - programming
+  - software
+  - virtual machine
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://code.google.com/p/v8/source/browse/trunk/LICENSE
+  description:
+  - V8 is a JavaScript engine originally released with the Chromium browser, but it has since been widely used as a stand-alone JavaScript implementation.
+Yasm:
+  uri:
+  - http://www.tortall.net/projects/yasm/
+  tags:
+  - assembler
+  - assembly
+  - contaminated
+  - language
+  - programming
+  - software
+  license:
+  - Artistic License + Revised BSD License + Simplified BSD License
+  - GPL + Revised BSD License + Simplified BSD License
+  - LGPL + Revised BSD License + Simplified BSD License
+  license_reference:
+  - https://github.com/yasm/yasm/blob/master/COPYING
+  description:
+  - Yasm is a complete rewrite of the NASM assembler under the Revised BSD License.
+Ypsilon Scheme:
+  uri:
+  - http://www.littlewingpinball.net/mediawiki/index.php/Ypsilon
+  tags:
+  - language
+  - lisp
+  - programming
+  - scheme
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://www.littlewingpinball.net/mediawiki/index.php/Ypsilon#License
+  description:
+  - Ypsilon is the implementation of Scheme Programming Language, which conforms to the latest standard R6RS* established in September 2007.  Ypsilon achieves a remarkably short GC pause time and the best performance in parallel execution as it implements "mostly concurrent garbage collection", which is optimized for the multi-core CPU system.
+getlessmail:
+  uri:
+  - http://bitbucket.org/apotheon/getlessmail/
+  tags:
+  - security
+  - software
+  license:
+  - Open Works License
+  license_reference:
+  - https://bitbucket.org/apotheon/getlessmail/src/default/license.txt
+isspam:
+  uri:
+  - http://bitbucket.org/sterlingcamden/isspam
+  tags:
+  - security
+  - software
+  license:
+  - Open Works License
+  license_reference:
+  - https://bitbucket.org/sterlingcamden/isspam/src/default/license.txt
+authsrv9:
+  uri:
+  - http://www.ueber.net/code/r/authsrv9
+  tags:
+  - authentication
+  - network
+  - security
+  - server
+  - software
+  license:
+  - public domain
+  license_reference:
+  - https://bitbucket.org/mjl/authsrv9/src/default/README
+dvtm:
+  uri:
+  - http://www.brain-dump.org/projects/dvtm/
+  tags:
+  - console
+  - software
+  - tiling
+  - window manager
+  license:
+  - MIT/X11 License
+  license_reference: []
+portable mg:
+  uri:
+  - http://homepage.boetes.org/software/mg/
+  tags:
+  - console
+  - editor
+  - emacs
+  - software
+  license:
+  - public domain
+  license_reference:
+  - http://homepage.boetes.org/software/mg/README
+proofread:
+  uri:
+  - http://bitbucket.org/sterlingcamden/proofread
+  tags:
+  - proofreading
+  - software
+  license:
+  - Open Works License
+  license_reference:
+  - https://bitbucket.org/sterlingcamden/proofread/src/default/license.txt
+nvi:
+  uri:
+  - http://www.bostic.com/vi/
+  tags:
+  - console
+  - editor
+  - software
+  - vi
+  license:
+  - BSD License
+  license_reference: []
+Fossil SCM:
+  uri:
+  - http://fossil-scm.org/index.html/doc/tip/www/index.wiki
+  tags:
+  - dvcs
+  - scm
+  - software
+  license:
+  - BSD License
+  license_reference:
+  - http://fossil-scm.org/index.html/artifact?ci=tip&filename=COPYRIGHT-BSD2.txt
+  description:
+  - Fossil is a simple, high-reliability, distributed software configuration management system with integrated bug tracking, wiki, and technotes; a built-in web interface; standard networking protocols; transactional, ACID-compliant versioning; simple deployment options; and a friendly license.
+Chromium:
+  uri:
+  - http://code.google.com/chromium/
+  tags:
+  - browser
+  - software
+  - web
+  license:
+  - BSD License
+  license_reference: []
+CLiki:
+  uri:
+  - http://www.cliki.net/index
+  tags:
+  - cms
+  - software
+  - web
+  - wiki
+  license:
+  - MIT/X11 License
+  license_reference: []
+diri:
+  uri:
+  - http://repo.cat-v.org/diri/
+  tags:
+  - cms
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference: []
+rump:
+  uri:
+  - http://bitbucket.org/sterlingcamden/rump
+  tags:
+  - client
+  - cms
+  - software
+  - web
+  license:
+  - Open Works License
+  license_reference:
+  - https://bitbucket.org/sterlingcamden/rump/src/default/license.txt
+Serendipity:
+  uri:
+  - http://www.s9y.org/
+  tags:
+  - blog
+  - cms
+  - software
+  - web
+  license:
+  - BSD License
+  license_reference: []
+Squib:
+  uri:
+  - http://squib.rubyforge.org/
+  tags:
+  - blog
+  - cms
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference: []
+werc:
+  uri:
+  - http://werc.cat-v.org/
+  tags:
+  - cms
+  - software
+  - web
+  license:
+  - public domain
+  license_reference: []
+AHWM:
+  uri:
+  - http://people.cs.uchicago.edu/~ahiorean/ahwm/
+  tags:
+  - floating
+  - software
+  - window manager
+  license:
+  - Simplified BSD License
+  license_reference:
+  - http://www.hioreanu.net/cs/ahwm/license.html
+AntiWM:
+  uri:
+  - http://antiwm.sourceforge.net/
+  tags:
+  - software
+  - window manager
+  license:
+  - MIT/X11 License
+  license_reference: []
+Blackbox:
+  uri:
+  - http://blackboxwm.sourceforge.net/
+  tags:
+  - floating
+  - software
+  - window manager
+  license:
+  - MIT/X11 License
+  license_reference: []
+Bluetile:
+  uri:
+  - http://www.bluetile.org/
+  tags:
+  - software
+  - tiling
+  - window manager
+  license:
+  - BSD License
+  license_reference: []
+Compiz:
+  uri:
+  - http://www.compiz.org/
+  tags:
+  - software
+  - window manager
+  license:
+  - MIT/X11 License
+  license_reference: []
+dwemo:
+  uri:
+  - http://sourceforge.net/projects/dwemo/
+  tags:
+  - software
+  - window manager
+  license:
+  - MIT/X11 License
+  license_reference: []
+dwm:
+  uri:
+  - http://dwm.suckless.org/
+  tags:
+  - software
+  - tiling
+  - window manager
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://git.suckless.org/dwm/plain/LICENSE
+dwm-gtx:
+  uri:
+  - http://git.s01.de/dwm-gtx.old/
+  tags:
+  - software
+  - tiling
+  - window manager
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://git.s01.de/dwm-gtx.old/plain/LICENSE
+echinus:
+  uri:
+  - https://github.com/polachok/echinus
+  tags:
+  - software
+  - window manager
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/polachok/echinus/blob/master/LICENSE
+euclid-wm:
+  uri:
+  - https://code.google.com/p/euclid-wm/
+  tags:
+  - software
+  - window manager
+  license:
+  - BSD License
+  license_reference: []
+Enlightenment:
+  uri:
+  - http://www.enlightenment.org/
+  tags:
+  - desktop environment
+  - software
+  - window manager
+  license:
+  - BSD License
+  license_reference: []
+Fluxbox:
+  uri:
+  - http://www.fluxbox.org/
+  tags:
+  - floating
+  - software
+  - window manager
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://git.fluxbox.org/fluxbox.git/tree/COPYING
+Golem X11 WM:
+  uri:
+  - http://golem.sourceforge.net/
+  tags:
+  - software
+  - window manager
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://golem.cvs.sourceforge.net/viewvc/golem/golem/LICENSE
+i3:
+  uri:
+  - http://i3.zekjur.net/
+  tags:
+  - software
+  - tiling
+  - window manager
+  license:
+  - BSD License
+  license_reference: []
+Lucca WM:
+  uri:
+  - http://madewokherd.nfshost.com/luccawm/
+  tags:
+  - software
+  - window manager
+  license:
+  - MIT/X11 License
+  license_reference: []
+phluid:
+  uri:
+  - http://phluid.sourceforge.net/
+  tags:
+  - software
+  - window manager
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://phluid.cvs.sourceforge.net/viewvc/phluid/phluid/COPYING
+Qtile:
+  uri:
+  - http://www.qtile.org/
+  tags:
+  - software
+  - window manager
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/qtile/qtile/blob/develop/LICENSE
+SpectrWM:
+  uri:
+  - https://opensource.conformal.com/wiki/spectrwm
+  tags:
+  - software
+  - tiling
+  - window manager
+  license:
+  - ISC License
+  license_reference:
+  - https://opensource.conformal.com/wiki/spectrwm#License
+spook:
+  uri:
+  - http://incise.org/spook-window-manager.html
+  tags:
+  - dead
+  - software
+  - window manager
+  license:
+  - MIT/X11 License
+  license_reference: []
+TAL/wm:
+  uri:
+  - http://talwm.sourceforge.net/
+  tags:
+  - software
+  - window manager
+  license:
+  - MIT/X11 License
+  license_reference: []
+TinyWM:
+  uri:
+  - http://incise.org/tinywm.html
+  tags:
+  - software
+  - window manager
+  license:
+  - public domain
+  license_reference: []
+whimsy:
+  uri:
+  - http://incise.org/whimsy.html
+  tags:
+  - software
+  - window manager
+  license:
+  - public domain
+  license_reference: []
+WMFS:
+  uri:
+  - http://wmfs.info/
+  tags:
+  - software
+  - window manager
+  license:
+  - BSD License
+  license_reference: []
+wmii:
+  uri:
+  - https://code.google.com/p/wmii/
+  tags:
+  - software
+  - tiling
+  - window manager
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://code.google.com/p/wmii/source/browse/LICENSE
+XD640:
+  uri:
+  - http://xd640.berlios.de/
+  tags:
+  - software
+  - window manager
+  license:
+  - Revised BSD License
+  license_reference: []
+xmonad:
+  uri:
+  - http://www.xmonad.org/
+  tags:
+  - software
+  - tiling
+  - window manager
+  license:
+  - BSD License
+  license_reference: []
+dmenu:
+  uri:
+  - http://tools.suckless.org/dmenu/
+  tags:
+  - menu
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://git.suckless.org/dmenu/plain/LICENSE
+feh:
+  uri:
+  - https://derf.homelinux.org/projects/feh/
+  tags:
+  - image viewer
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://git.finalrewind.org/feh/plain/COPYING
+lsw:
+  uri:
+  - http://tools.suckless.org/lsw
+  tags:
+  - software
+  - utility
+  - xtool
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://git.suckless.org/lsw/tree/LICENSE
+scrot:
+  uri:
+  - https://github.com/dreamer/scrot
+  tags:
+  - screenshot
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/dreamer/scrot/blob/master/COPYING
+slock:
+  uri:
+  - http://tools.suckless.org/slock/
+  tags:
+  - screen lock
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://git.suckless.org/slock/tree/LICENSE
+pcpustat:
+  uri:
+  - http://bitbucket.org/sterlingcamden/pcpustat
+  tags:
+  - cpu
+  - software
+  - utility
+  license:
+  - Open Works License
+  license_reference:
+  - https://bitbucket.org/sterlingcamden/pcpustat/src/default/license.txt
+remindwhen:
+  uri:
+  - http://bitbucket.org/sterlingcamden/remindwhen
+  tags:
+  - office
+  - reminder
+  - software
+  license:
+  - Open Works License
+  license_reference:
+  - https://bitbucket.org/sterlingcamden/remindwhen/src/default/license.txt
+Port Audio:
+  uri:
+  - http://www.portaudio.com/
+  tags:
+  - audio
+  - library
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://www.portaudio.com/license.html
+Pure Data:
+  uri:
+  - http://puredata.info/
+  tags:
+  - audio
+  - language
+  - programming
+  - pure data
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://sourceforge.net/p/pure-data/pure-data/ci/master/tree/LICENSE.txt
+  description:
+  - Pure Data (aka Pd) is an open source visual programming language.  Pd was created to further the Max paradigm by extending data processing to applications other than audio and MIDI, such as real-time video and web interaction.
+axTLS:
+  uri:
+  - http://axtls.sourceforge.net/
+  tags:
+  - cryptography
+  - encryption
+  - privacy
+  - security
+  - software
+  - ssl
+  - tls
+  license:
+  - Revised BSD License
+  license_reference: []
+Coinpunk:
+  uri:
+  - http://coinpunk.org/
+  tags:
+  - cryptocurrency
+  - cryptography
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/kyledrake/coinpunk/blob/master/LICENSE
+netpgp:
+  uri:
+  - http://blog.netbsd.org/tnf/entry/netpgp
+  tags:
+  - cryptography
+  - encryption
+  - openpgp
+  - privacy
+  - security
+  - software
+  license:
+  - BSD License
+  license_reference: []
+Bucardo:
+  uri:
+  - http://bucardo.org
+  tags:
+  - database
+  - replication
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - http://bucardo.org/wiki/Bucardo/LICENSE
+check_postgres:
+  uri:
+  - http://bucardo.org/wiki/Check_postgres
+  tags:
+  - database
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/bucardo/check_postgres
+LevelDB:
+  uri:
+  - http://code.google.com/p/leveldb/
+  tags:
+  - database
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://code.google.com/p/leveldb/source/browse/LICENSE
+libpqxx:
+  uri:
+  - http://pqxx.org/development/libpqxx/
+  tags:
+  - database
+  - library
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://pqxx.org/development/libpqxx/browser/trunk/COPYING
+Lightning Memory-Mapped Database:
+  uri:
+  - http://symas.com/mdb/
+  tags:
+  - database
+  - software
+  license:
+  - OpenLDAP License 2.8
+  license_reference:
+  - https://gitorious.org/mdb/mdb/blobs/mdb.master/libraries/liblmdb/LICENSE
+pgsi:
+  uri:
+  - http://bucardo.org/wiki/Pgsi
+  tags:
+  - database
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/bucardo/pgsi/blob/master/LICENSE
+Redis:
+  uri:
+  - https://github.com/antirez/redis
+  tags:
+  - database
+  - nosql
+  - software
+  license:
+  - Revised BSD License
+  license_ reference:
+  - https://github.com/antirez/redis/blob/unstable/COPYING
+  license_reference:
+  - https://github.com/antirez/redis/blob/unstable/COPYING
+SOCI:
+  uri:
+  - http://soci.sourceforge.net/
+  tags:
+  - database
+  - software
+  license:
+  - Boost License v1.0
+  license_reference:
+  - https://github.com/SOCI/soci/blob/master/src/LICENSE_1_0.txt
+Tarantool:
+  uri:
+  - http://tarantool.org/
+  tags:
+  - database
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/mailru/tarantool/blob/master/LICENSE
+Droll:
+  uri:
+  - http://droll.fossrec.com/
+  tags:
+  - dice
+  - game
+  - ircbot
+  - software
+  license:
+  - Open Works License
+  license_reference:
+  - http://fossrec.com/u/apotheon/droll/index.cgi/artifact?ci=tip&filename=COPYING
+  description:
+  - Droll is a dice rolling simulator designed for use with RPGs.  It comes with a Ruby library as well as command line and IRC dicebot interfaces.
+#Monster 2:
+#  uri:
+#  - http://www.monster-rpg.com/
+#  tags:
+#  - game
+#  - software
+#  license:
+#  - Give It Your Own License, License
+#  license_reference:
+#  - http://www.nooskewl.com/content/open-source
+oldrunner:
+  uri:
+  - http://culot.org/public/Code/oldrunner.html
+  tags:
+  - game
+  - software
+  license:
+  - Simplified BSD License
+  license_reference: []
+vitetris:
+  uri:
+  - http://www.victornils.net/tetris/
+  tags:
+  - game
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - http://www.victornils.net/tetris/licence.txt
+ANGLE:
+  uri:
+  - https://code.google.com/p/angleproject/
+  tags:
+  - graphics
+  - software
+  license:
+  - Simplified BSD License
+  license_reference: []
+GraphicsMagick:
+  uri:
+  - http://www.graphicsmagick.org/
+  tags:
+  - graphics
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://www.graphicsmagick.org/Copyright.html
+IUP:
+  uri:
+  - http://www.tecgraf.puc-rio.br/iup/
+  tags:
+  - graphics
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://www.tecgraf.puc-rio.br/iup/en/copyright.html
+jMonkeyEngine:
+  uri:
+  - http://jmonkeyengine.org/
+  tags:
+  - graphics
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://code.google.com/p/jmonkeyengine/source/browse/trunk/sdk/license-jme.txt
+libcaca:
+  uri:
+  - http://caca.zoy.org/wiki/libcaca
+  tags:
+  - graphics
+  - library
+  - software
+  license:
+  - WTFPL
+  license_reference: []
+Mesa:
+  uri:
+  - http://mesa3d.org/
+  tags:
+  - graphics
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://mesa3d.org/license.html
+OGRE:
+  uri:
+  - http://www.ogre3d.org/
+  tags:
+  - graphics
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://sourceforge.net/p/ogre/code/HEAD/tree/trunk/COPYING
+OpenCV:
+  uri:
+  - http://opencv.willowgarage.com/wiki/Welcome
+  tags:
+  - graphics
+  - software
+  license:
+  - Simplified BSD License
+  license_reference: []
+Panda3D:
+  uri:
+  - http://www.panda3d.org/
+  tags:
+  - graphics
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://www.panda3d.org/license.php
+Ren'Py:
+  uri:
+  - http://www.renpy.org/
+  tags:
+  - graphics
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://www.renpy.org/doc/html/license.html
+BitchX:
+  uri:
+  - http://www.bitchx.org/
+  tags:
+  - client
+  - irc
+  - network
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://sourceforge.net/p/bitchx/code/HEAD/tree/trunk/COPYRIGHT
+btpd:
+  uri:
+  - http://wiki.github.com/btpd/btpd/
+  tags:
+  - bittorrent
+  - client
+  - network
+  - server
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/btpd/btpd/blob/master/COPYRIGHT
+fdm:
+  uri:
+  - https://github.com/nicm/fdm
+  tags:
+  - client
+  - email
+  - imap
+  - network
+  - pop3
+  - software
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/nicm/fdm/blob/master/fdm.c
+ircII:
+  uri:
+  - http://www.eterna.com.au/ircii/
+  tags:
+  - client
+  - console
+  - irc
+  - network
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://ircii.warped.com/ircii-current/ircii/doc/Copyright
+tcpstat:
+  uri:
+  - http://www.frenchfries.net/paul/tcpstat/
+  tags:
+  - network
+  - software
+  license:
+  - Simplified BSD License
+  license_reference: []
+unworkable:
+  uri:
+  - https://code.google.com/p/unworkable/
+  tags:
+  - network
+  - software
+  license:
+  - ISC License
+  license_reference:
+  - https://code.google.com/p/unworkable/source/browse/trunk/main.c
+wpa_supplicant:
+  uri:
+  - http://hostap.epitest.fi/wpa_supplicant/
+  tags:
+  - network
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://hostap.epitest.fi/gitweb/gitweb.cgi?p=hostap.git;a=blob_plain;f=wpa_supplicant/README
+youtube_dl:
+  uri:
+  - http://rg3.github.io/youtube-dl/
+  tags:
+  - client
+  - download
+  - network
+  - software
+  license:
+  - Unlicense
+  license_reference:
+  - https://github.com/rg3/youtube-dl/blob/master/LICENSE
+vitunes:
+  uri:
+  - http://vitunes.org/
+  tags:
+  - media player
+  - software
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/ryanflannery/vitunes/blob/master/LICENSE
+calcurse:
+  uri:
+  - http://calcurse.org/
+  tags:
+  - calendar
+  - office
+  - software
+  - todo list
+  license:
+  - Simplified BSD License
+  license_reference:
+  - http://git.calcurse.org/calcurse.git/tree/COPYING
+Internet Message:
+  uri:
+  - http://tats.haun.org/im/
+  tags:
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://tats.haun.org/im/00copyright
+ledger:
+  uri:
+  - http://ledger-cli.org/
+  tags:
+  - office
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/ledger/ledger/blob/master/src/main.cc
+mmh:
+  uri:
+  - http://marmaro.de/prog/mmh/
+  tags:
+  - email
+  - mail user agent
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://git.marmaro.de/?p=mmh;a=blob;f=COPYRIGHT;hb=HEAD
+  description:
+  - Meillo's Mail Handler, or mmh, is a mail user agent for users who like the Unix philosophy.  It is a fork of the New Mail Handler, or nmh, which again is the currently most popular implementation of an MH-style mail client.
+newsbeuter:
+  uri:
+  - http://newsbeuter.org/
+  tags:
+  - news
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/akrennmair/newsbeuter/blob/master/LICENSE
+nmh:
+  uri:
+  - http://www.nongnu.org/nmh/
+  tags:
+  - email
+  - mail user agent
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://git.savannah.gnu.org/cgit/nmh.git/tree/COPYRIGHT
+  description:
+  - New MH, or nmh, is a powerful electronic mail handling system intended to be a (mostly) compatible drop-in replacement for MH.  It consists of a collection of fairly simple single-purpose programs to send, receive, save, retrieve, and manipulate e-mail messages. Since nmh is a suite rather than a single monolithic program, you may freely intersperse nmh commands with other commands at your shell prompt, or write custom scripts which use these commands in flexible ways.
+Raggle:
+  uri:
+  - http://raggle.org/
+  tags:
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://raggle.org/files/COPYING
+Bitrig:
+  uri:
+  - https://www.bitrig.org
+  tags:
+  - bsd
+  - os
+  - software
+  - unix
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/bitrig/bitrig/blob/master/share/misc/license.template
+  description:
+  - Bitrig is a free, fast, and secure Unix-like Open Source operating system based on OpenBSD.
+Contiki:
+  uri:
+  - http://contiki-os.org
+  tags:
+  - os
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://contiki-os.org/license.html
+Minix 3:
+  uri:
+  - http://www.minix3.org/
+  tags:
+  - os
+  - software
+  - unix
+  license:
+  - Minix 3 License
+  license_reference:
+  - http://git.minix3.org/?p=minix.git;a=blob_plain;f=LICENSE;hb=HEAD
+MirOS:
+  uri:
+  - https://www.mirbsd.org/
+  tags:
+  - bsd
+  - os
+  - software
+  - unix
+  license:
+  - MirOS License
+  license_reference:
+  - https://www.mirbsd.org/MirOS-Licence.htm
+ROS:
+  uri:
+  - http://www.ros.org/
+  tags:
+  - os
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - []
+Xv6:
+  uri:
+  - http://pdos.csail.mit.edu/6.828/2011/xv6.html
+  tags:
+  - software
+  license:
+  - MIT/X11 License
+  license_reference: []
+Zero:
+  uri:
+  - https://github.com/vendu/OS-Zero/
+  tags:
+  - os
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/vendu/OS-Zero/blob/master/LICENSE
+kramdown:
+  uri:
+  - http://kramdown.gettalong.org/
+  tags:
+  - library
+  - markdown
+  - parser
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/gettalong/kramdown/blob/master/COPYING
+RedCarpet:
+  uri:
+  - https://github.com/vmg/redcarpet
+  tags:
+  - markdown
+  - parser
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/vmg/redcarpet/blob/master/COPYING
+RedRug:
+  uri:
+  - http://redrug.fossrec.com/
+  tags:
+  - library
+  - markdown
+  - parser
+  - software
+  - utility
+  license:
+  - Open Works License
+  license_reference:
+  - http://fossrec.com/u/apotheon/redrug/index.cgi/artifact?ci=tip&filename=COPYING
+  description:
+  - RedRug is a simple Redcarpet wrapper for common Markdown use cases, provided as a Ruby library and a command line utility.
+Sundown:
+  uri:
+  - https://github.com/vmg/sundown
+  tags:
+  - markdown
+  - parser
+  - software
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/vmg/sundown/blob/master/README.markdown
+libsoldout:
+  uri:
+  - http://fossil.instinctive.eu/libsoldout/index
+  tags:
+  - markdown
+  - parser
+  - software
+  license:
+  - ISC License
+  license_reference:
+  - http://fossil.instinctive.eu/libsoldout/artifact/?ci=tip&filename=LICENSE
+CHICKEN:
+  uri:
+  - http://www.call-cc.org/
+  tags:
+  - language
+  - lisp
+  - programming
+  - scheme
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://code.call-cc.org/cgi-bin/gitweb.cgi?p=chicken-core.git;a=blob_plain;f=LICENSE;hb=HEAD
+FlowViewer:
+  uri:
+  - http://sourceforge.net/projects/flowviewer/
+  tags:
+  - data analysis
+  - software
+  - web
+  license:
+  - public domain
+  license_reference: []
+Say Cheese!:
+  uri:
+  - http://leemachin.github.io/say-cheese/
+  tags:
+  - library
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/leemachin/say-cheese/blob/master/LICENSE
+Slony-I:
+  uri:
+  - http://slony.info/
+  tags:
+  - database
+  - replication
+  - software
+  license:
+  - Revised BSD License
+  license_reference: []
+SML/NJ:
+  uri:
+  - http://www.smlnj.org/
+  tags:
+  - compiler
+  - language
+  - programming
+  - sml
+  - software
+  license:
+  - SML/NJ License
+  license_reference:
+  - http://www.smlnj.org/license.html
+  description:
+  - Standard ML of New Jersey (abbreviated SML/NJ) is a compiler for the Standard ML '97 programming language with associated libraries, tools, and documentation.
+bcfg2:
+  uri:
+  - http://bcfg2.org/
+  tags:
+  - automation
+  - configuration management
+  - deployment
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/Bcfg2/bcfg2/blob/master/LICENSE
+PureScript:
+  uri:
+  - http://www.purescript.org/
+  tags:
+  - cross-compiler
+  - javascript
+  - language
+  - programming
+  - purescript
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/purescript/purescript/blob/master/LICENSE
+Onyx:
+  uri:
+  - http://www.canonware.com/onyx/
+  tags:
+  - interpreter
+  - language
+  - onyx
+  - programming
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - http://www.canonware.com/onyx/license.html
+  description:
+  - Onyx is a powerful stack-based, multi-threaded, interpreted, general purpose programming language similar to PostScript.  It can be embedded as an extension language similarly to ficl (Forth), guile (scheme), librep (lisp dialect), s-lang, Lua, and Tcl.
+Utrecht Haskell Compiler:
+  uri:
+  - http://www.cs.uu.nl/wiki/UHC
+  tags:
+  - compiler
+  - haskell
+  - language
+  - programming
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/UU-ComputerScience/uhc/blob/master/EHC/LICENSE
+  description:
+  - UHC is the Utrecht Haskell Compiler. UHC supports almost all Haskell98 features plus experimental extensions.
+portsearch:
+  uri:
+  - http://people.freebsd.org/~vd/portsearch/
+  tags:
+  - package management
+  - search
+  - software
+  license:
+  - Simplified BSD License
+  license_reference: []
+RScheme:
+  uri:
+  - http://www.rscheme.org/rs/
+  tags:
+  - cross-compiler
+  - language
+  - lisp
+  - programming
+  - scheme
+  - software
+  - virtual machine
+  license:
+  - custom license
+  license_reference:
+  - https://github.com/dkolbly/rscheme/blob/master/COPYING
+  description:
+  - RScheme is an object-oriented, extended version of the Scheme dialect of Lisp that compiles to C, or to bytecode for virtual machine execution.
+Cobra:
+  uri:
+  - http://cobra-language.com/
+  tags:
+  - cobra
+  - dot net core
+  - language
+  - mono
+  - programming
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://cobra-language.com/trac/cobra/browser/cobra/trunk/License.text
+  description:
+  - Cobra is an object oriented .NET/Mono based programming language with clean, high-level syntax, and support for both static and dynamic binding.
+Emscripten:
+  uri:
+  - https://github.com/kripken/emscripten
+  tags:
+  - javascript
+  - programming
+  - software
+  license:
+  - MIT/X11 License
+  - University of Illinois/NCSA Open Source License
+  license_reference:
+  - https://github.com/kripken/emscripten/blob/master/LICENSE
+Factor:
+  uri:
+  - http://factorcode.org/
+  tags:
+  - compiler
+  - factor
+  - language
+  - programming
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - http://factorcode.org/license.txt
+  description:
+  - The Factor programming language combines powerful language features with a full-featured library. The implementation is fully compiled for performance, while still supporting interactive development. Factor applications are portable between all common platforms.
+Fay:
+  uri:
+  - https://github.com/faylang/fay/wiki
+  tags:
+  - cross-compiler
+  - fay
+  - haskell
+  - javascript
+  - language
+  - programming
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/faylang/fay/blob/master/LICENSE
+  description:
+  - Fay is a proper subset of Haskell that compiles to JavaScript, with fundamental datatypes based on what JavaScript can support, a foreign function interface to JavaScript, and support for calling Fay from JavaScript.
+Go:
+  uri:
+  - http://golang.org/
+  tags:
+  - compiler
+  - golang
+  - language
+  - programming
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://golang.org/LICENSE
+  description:
+  - Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
+Gorilla:
+  uri:
+  - http://www.gorillatoolkit.org/
+  tags:
+  - framework
+  - golang
+  - software
+  - web
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/gorilla/mux/blob/master/LICENSE
+IrrRPG Builder:
+  uri:
+  - http://irrrpgbuilder.sourceforge.net/
+  tags:
+  - game
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://sourceforge.net/p/irrrpgbuilder/code/HEAD/tree/LICENSE.txt
+Jester:
+  uri:
+  - https://github.com/dom96/jester
+  tags:
+  - framework
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/dom96/jester/blob/master/license.txt
+JQuery:
+  uri:
+  - https://jquery.org/
+  tags:
+  - library
+  - software
+  - ui
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://jquery.org/license/
+Julia:
+  uri:
+  - http://julialang.org/
+  tags:
+  - compiler
+  - julia
+  - language
+  - programming
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/JuliaLang/julia/blob/master/LICENSE.md
+  description:
+  - Julia is a high-level, high-performance dynamic programming language for technical computing, with syntax that is familiar to users of other technical computing environments. It provides a sophisticated compiler, distributed parallel execution, numerical accuracy, and an extensive mathematical function library.
+LLVM:
+  uri:
+  - http://llvm.org/
+  tags:
+  - compiler
+  - programming
+  - software
+  - virtual machine
+  license:
+  - University of Illinois/NCSA Open Source License
+  license_reference:
+  - http://llvm.org/docs/DeveloperPolicy.html#license
+Clang:
+  uri:
+  - http://clang.llvm.org/
+  tags:
+  - c
+  - c++
+  - compiler
+  - programming
+  - software
+  license:
+  - University of Illinois/NCSA Open Source License
+  license_reference: []
+LLDB:
+  uri:
+  - http://lldb.llvm.org/
+  tags:
+  - debugger
+  - software
+  license:
+  - University of Illinois/NCSA Open Source License
+  license_reference: []
+VMKit:
+  uri:
+  - http://vmkit.llvm.org/
+  tags:
+  - software
+  - virtual machine
+  license:
+  - University of Illinois/NCSA Open Source License
+  license_reference: []
+MIT App Inventor:
+  uri:
+  - http://appinventor.mit.edu/explore/
+  tags:
+  - android
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/mit-cml/appinventor-sources/blob/master/mitlicense.txt
+Nim:
+  uri:
+  - http://nim-lang.org/
+  tags:
+  - compiler
+  - language
+  - nim
+  - programming
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/Araq/Nimrod/blob/master/copying.txt
+  description:
+  - Nim (formerly known as "Nimrod") is a statically typed, imperative programming language that tries to give the programmer ultimate power without compromises on runtime efficiency.  It offers an infix/indentation based syntax with a powerful hygienic macro system, a semantic model that supports a soft realtime GC on thread local heaps, and an unsafe shared memory heap for increased efficiency.
+openFrameworks:
+  uri:
+  - http://www.openframeworks.cc/
+  tags:
+  - framework
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/openframeworks/openFrameworks/blob/master/LICENSE.md
+Papert:
+  uri:
+  - http://logo.twentygototen.org/
+  tags:
+  - interpreter
+  - language
+  - lisp
+  - logo
+  - programming
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://code.google.com/p/papert/
+  description:
+  - Papert is a Logo implementation that runs in your browser.
+Pharo:
+  uri:
+  - http://www.pharo-project.org/home
+  tags:
+  - contaminated
+  - language
+  - programming
+  - smalltalk
+  - software
+  - virtual machine
+  license:
+  - MIT/X11 License + Apache License 2.0
+  license_reference:
+  - http://www.pharo-project.org/license
+  description:
+  - Pharo is a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback (think IDE and OS rolled into one).
+Processing.js:
+  uri:
+  - http://processingjs.org/
+  tags:
+  - programming
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/processing-js/processing-js/blob/master/bundle/LICENSE
+PyPy:
+  uri:
+  - http://pypy.org/
+  tags:
+  - language
+  - programming
+  - python
+  - software
+  - virtual machine
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://bitbucket.org/pypy/pypy/src/default/LICENSE
+  description:
+  - PyPy is a fast, compliant alternative implementation of the Python language (2.7.10 and 3.2.5).
+Revel:
+  uri:
+  - https://revel.github.io/
+  tags:
+  - framework
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/robfig/revel/blob/master/LICENSE
+Ruby:
+  uri:
+  - https://www.ruby-lang.org/en/
+  tags:
+  - language
+  - programming
+  - ruby
+  - software
+  - virtual machine
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/ruby/ruby/blob/trunk/BSDL
+  description:
+  - Ruby is a dynamic, open source programming language with a focus on software simplicity and developer productivity.  It has an elegant syntax that is natural to read and easy to write.
+Ruby On Rails:
+  uri:
+  - http://rubyonrails.org/
+  tags:
+  - framework
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference: []
+Rust:
+  uri:
+  - http://www.rust-lang.org/
+  tags:
+  - compiler
+  - language
+  - multilicensed
+  - programming
+  - rust
+  - software
+  license:
+  - MIT/X11 License
+  license_alternate:
+  - Apache License 2.0
+  license_reference:
+  - https://github.com/mozilla/rust/blob/master/COPYRIGHT
+  description:
+  - Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.
+Sizzle:
+  uri:
+  - http://sizzlejs.com/
+  tags:
+  - library
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/jquery/sizzle/blob/master/MIT-LICENSE.txt
+Squirrel:
+  uri:
+  - http://squirrel-lang.org/
+  tags:
+  - compiler
+  - language
+  - programming
+  - software
+  - squirrel
+  - virtual machine
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://squirrel-lang.org/
+  description:
+  - Squirrel is a high level imperative, object-oriented programming language, designed to be a light-weight scripting language that fits in the size, memory bandwidth, and real-time requirements of applications like video games.
+Vagrant:
+  uri:
+  - http://www.vagrantup.com/
+  tags:
+  - automation
+  - configuration management
+  - deployment
+  - software
+  - virtualization
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/mitchellh/vagrant/blob/master/LICENSE
+  description:
+  - Vagrant helps you create and configure lightweight, reproducible, and portable development environments as a virtual machine configuration and deployment manager.
+OctaScript:
+  uri:
+  - https://github.com/OctaForge/OctaScript
+  tags:
+  - language
+  - lua
+  - octascript
+  - programming
+  - software
+  - virtual machine
+  license:
+  - University of Illinois/NCSA Open Source License
+  license_reference:
+  - https://github.com/OctaForge/OctaScript/blob/master/COPYING.txt
+  description:
+  - OctaScript is a LuaJIT bytecode-compiled language with support across a wide selection of editors, created for OctaForge scripting but usable as a stand-alone language as well.
+Armitage:
+  uri:
+  - http://www.fastandeasyhacking.com/
+  tags:
+  - security
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://www.fastandeasyhacking.com/download
+Metasploit:
+  uri:
+  - http://www.metasploit.com/
+  tags:
+  - security
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/rapid7/metasploit-framework/blob/master/LICENSE
+scmail:
+  uri:
+  - http://sourceforge.net/projects/scmail/
+  tags:
+  - security
+  - software
+  license:
+  - Revised BSD License + scbayes copyright license
+  license_reference:
+  - http://scmail.cvs.sourceforge.net/viewvc/scmail/scmail/COPYING?view=markup
+Epoch:
+  uri:
+  - http://universe2.us/epoch.html
+  tags:
+  - init system
+  - software
+  license:
+  - Unlicense
+  license_reference:
+  - https://github.com/Subsentient/epoch/blob/master/UNLICENSE.TXT
+AppScale:
+  uri:
+  - http://www.appscale.com/
+  tags:
+  - cloud computing
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - http://bazaar.launchpad.net/~cgb-cs/appscale/appscale-main/view/head:/LICENSE
+BIND:
+  uri:
+  - https://www.isc.org/downloads/bind/
+  tags:
+  - dns
+  - network
+  - software
+  license:
+  - ISC License
+  license_reference:
+  - https://www.isc.org/downloads/software-support-policy/isc-license/
+Hato Mail Suite:
+  uri:
+  - http://synthcode.com/scheme/hato
+  tags:
+  - email
+  - server
+  - software
+  license:
+  - Revised BSD License
+  license_reference: []
+lighttpd:
+  uri:
+  - https://www.lighttpd.net/
+  tags:
+  - server
+  - software
+  - web
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://www.lighttpd.net/assets/COPYING
+Memcached:
+  uri:
+  - http://www.memcached.org/
+  tags:
+  - cache
+  - database
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/memcached/memcached/blob/master/COPYING
+memventi:
+  uri:
+  - https://bitbucket.org/mjl/memventi/
+  tags:
+  - server
+  - software
+  - storage
+  - venti
+  license:
+  - public domain
+  license_reference:
+  - https://bitbucket.org/mjl/memventi/src/default/README
+mlmmj:
+  uri:
+  - http://mlmmj.org/
+  tags:
+  - email
+  - mailing list
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://mlmmj.org/docs/license
+Nginx:
+  uri:
+  - http://wiki.nginx.org/Main
+  tags:
+  - server
+  - software
+  - web
+  license:
+  - Simplified BSD license
+  license_reference:
+  - http://nginx.org/LICENSE
+Polipo:
+  uri:
+  - http://www.pps.univ-paris-diderot.fr/~jch/software/polipo/
+  tags:
+  - network
+  - proxy
+  - server
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://www.pps.univ-paris-diderot.fr/~jch/software/polipo/COPYING.text
+qmail:
+  uri:
+  - http://qmail.org/top.html
+  tags:
+  - email
+  - network
+  - server
+  - software
+  license:
+  - public domain
+  license_reference:
+  - http://qmail.org/not-open-source.html
+ShairPort:
+  uri:
+  - https://github.com/abrasive/shairport
+  tags:
+  - server
+  - software
+  - streaming
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/abrasive/shairport/blob/master/LICENSES
+TkRat:
+  uri:
+  - http://www.tkrat.org/
+  tags:
+  - email
+  - gui
+  - mail user agent
+  - software
+  license:
+  - Revised BSD License
+  license_reference: []
+Unbound:
+  uri:
+  - http://unbound.net/
+  tags:
+  - dns
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://unbound.nlnetlabs.nl/svn/trunk/LICENSE
+webdfs:
+  uri:
+  - https://code.google.com/p/webdfs/
+  tags:
+  - distributed
+  - filesystem
+  - software
+  - web
+  license:
+  - Revised BSD License
+  license_reference: []
+X.Org:
+  uri:
+  - http://www.x.org/wiki/
+  tags:
+  - gui
+  - server
+  - software
+  license:
+  - MIT/X11 License
+  license_reference: []
+XtreemFS:
+  uri:
+  - http://www.xtreemfs.org/
+  tags:
+  - distributed
+  - filesystem
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://code.google.com/p/xtreemfs/source/browse/LICENSE
+Yaws:
+  uri:
+  - http://yaws.hyber.org/
+  tags:
+  - server
+  - software
+  - web
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/klacke/yaws/blob/master/LICENSE
+mksh:
+  uri:
+  - https://www.mirbsd.org/mksh.htm
+  tags:
+  - interpreter
+  - programming
+  - shell
+  - software
+  license:
+  - MirOS License
+  license_reference:
+  - https://www.mirbsd.org/TaC-mksh.txt
+  description:
+  - The MirBSD Korn Shell (mksh) is an actively developed free implementation of the Korn Shell programming language and a successor to the Public Domain Korn Shell (pdksh).
+mlterm:
+  uri:
+  - http://mlterm.sourceforge.net/
+  tags:
+  - software
+  - terminal emulator
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://bitbucket.org/arakiken/mlterm/src/default/LICENCE
+scsh:
+  uri:
+  - http://scsh.net/
+  tags:
+  - programming
+  - scheme
+  - shell
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://scsh.cvs.sourceforge.net/viewvc/scsh/scsh/COPYING?view=markup
+  description:
+  - Scsh is an open-source Unix shell embedded within Scheme, running on all major Unix platforms.  It is a variant of Scheme 48 designed for writing real-life standalone Unix programs and shell scripts.
+Terminology:
+  uri:
+  - http://www.enlightenment.org/p.php?p=about/terminology
+  tags:
+  - software
+  - terminal emulator
+  license:
+  - Simplified BSD License
+  license_reference:
+  - http://git.enlightenment.org/apps/terminology.git/tree/COPYING
+tmux:
+  uri:
+  - http://tmux.sourceforge.net/
+  tags:
+  - software
+  - terminal multiplexer
+  license:
+  - ISC License
+  license_reference:
+  - http://sourceforge.net/p/tmux/tmux-code/ci/master/tree/COPYING
+Zsh:
+  uri:
+  - http://www.zsh.org/
+  tags:
+  - interpreter
+  - programming
+  - shell
+  - software
+  - zsh
+  license:
+  - Zsh License + GPL
+  license_reference:
+  - http://sourceforge.net/p/zsh/code/ci/master/tree/LICENCE
+  description:
+  - Zsh is a shell designed for interactive use, although it is also a powerful scripting language.  Many of the useful features of bash, ksh, and tcsh were incorporated into zsh; many original features were added.
+International Components for Unicode:
+  uri:
+  - http://site.icu-project.org/
+  tags:
+  - library
+  - software
+  - unicode
+  license:
+  - ICU License
+  license_reference:
+  - http://source.icu-project.org/repos/icu/icu/trunk/license.html
+less:
+  uri:
+  - http://www.greenwoodsoftware.com/less/
+  tags:
+  - pager
+  - software
+  license:
+  - Simplified BSD License
+  license_reference: []
+newfile:
+  uri:
+  - http://newfile.sourceforge.net/
+  tags:
+  - generator
+  - software
+  license:
+  - Revised BSD License
+  license_reference: []
+Notepad2:
+  uri:
+  - http://www.flos-freeware.ch/notepad2.html
+  tags:
+  - software
+  - editor
+  license:
+  - Revised BSD License
+  license_reference: []
+Programmer's Notepad:
+  uri:
+  - http://www.pnotepad.org/
+  tags:
+  - software
+  - editor
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://www.pnotepad.org/licensing/
+SciTE:
+  uri:
+  - http://www.scintilla.org/SciTE.html
+  tags:
+  - software
+  - editor
+  license:
+  - Other
+  license_reference:
+  - http://www.scintilla.org/License.txt
+  description:
+  - SciTE is a SCIntilla based Text Editor. Originally built to demonstrate Scintilla, it has grown to be a generally useful editor with facilities for building and running programs.
+SoyWiki:
+  uri:
+  - http://danielchoi.com/software/soywiki.html
+  tags:
+  - software
+  - editor
+  - wiki
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/danchoi/soywiki/blob/master/MIT-LICENSE.txt
+Abaco:
+  uri:
+  - http://plan9.bell-labs.com/sources/plan9/sys/src/cmd/abaco/
+  - http://lab-fgb.com/abaco/
+  - http://www.advogato.org/proj/abaco/
+  tags:
+  - browser
+  - software
+  - web
+  license:
+  - Lucent Public License
+  license_reference:
+  - http://plan9.bell-labs.com/plan9/license.html
+  - http://plan9.bell-labs.com/sources/plan9/sys/src/cmd/abaco/
+Sunrise:
+  uri:
+  - https://code.google.com/p/sunrisebrowser/
+  tags:
+  - browser
+  - software
+  - web
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://code.google.com/p/sunrisebrowser/source/browse/trunk/New+BSD+License.txt
+Surf:
+  uri:
+  - http://surf.suckless.org/
+  tags:
+  - browser
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://git.suckless.org/surf/plain/LICENSE
+w3m:
+  uri:
+  - http://w3m.sourceforge.net/
+  tags:
+  - browser
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://sourceforge.net/projects/w3m/
+xombrero:
+  uri:
+  - https://github.com/conformal/xombrero
+  tags:
+  - browser
+  - software
+  - web
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/conformal/xombrero/blob/master/README.md
+CMMS:
+  uri:
+  - http://paste.apotheon.net/?p=cmms
+  tags:
+  - cms
+  - software
+  - web
+  license:
+  - Nietzsche Public License
+  license_reference: []
+jekyll:
+  uri:
+  - http://jekyllrb.com/
+  tags:
+  - blog
+  - cms
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/mojombo/jekyll/blob/master/LICENSE
+nimforum:
+  uri:
+  - https://github.com/nimrod-code/nimforum/
+  tags:
+  - cms
+  - forum
+  - nim
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/nimrod-code/nimforum/blob/master/license.txt
+Pier:
+  uri:
+  - http://www.piercms.com/
+  tags:
+  - cms
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://www.piercms.com/dev/license
+Simple Machines Forum:
+  uri:
+  - http://simplemachines.org/
+  tags:
+  - cms
+  - forum
+  - software
+  - web
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://www.simplemachines.org/about/smf/license.php
+WackoWiki:
+  uri:
+  - http://wackowiki.sourceforge.net/
+  tags:
+  - cms
+  - software
+  - web
+  - wiki
+  license:
+  - BSD License
+  license_reference: []
+cwm:
+  uri:
+  - http://monkey.org/%7Emarius/pages/?page=cwm
+  tags:
+  - floating
+  - software
+  - window manager
+  license:
+  - ISC Liscense
+  license_reference: []
+Etoile:
+  uri:
+  - http://etoileos.com/
+  tags:
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://etoileos.com/dev/licensing/
+mdtwm:
+  uri:
+  - https://github.com/ziutek/mdtwm
+  tags:
+  - software
+  - window manager
+  license:
+  - Revised BSD license
+  license_reference:
+  - https://github.com/ziutek/mdtwm/blob/master/LICENSE
+Wingo:
+  uri:
+  - https://github.com/BurntSushi/wingo
+  tags:
+  - software
+  - window manager
+  license:
+  - WTFPL
+  license_reference:
+  - https://github.com/BurntSushi/wingo/blob/master/COPYING
+Vtwm:
+  uri:
+  - http://www.vtwm.org/
+  tags:
+  - software
+  - window manager
+  license:
+  - CMU variant MIT License
+  license_reference:
+  - https://sourceforge.net/p/vtwm/code/ci/master/tree/twm.c
+metalock:
+  uri:
+  - http://chiselapp.com/user/beyert/repository/metalock/index
+  tags:
+  - screen lock
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://chiselapp.com/user/beyert/repository/metalock/artifact/8e223da16b877bca77e4f82189c4776b5c83144d
+XSel:
+  uri:
+  - http://www.vergenet.net/%7Econrad/software/xsel/
+  tags:
+  - clipboard
+  - selection
+  - software
+  - utility
+  license:
+  - MIT Variant
+  license_reference:
+  - http://www.vergenet.net/%7Econrad/software/xsel/#license
+AMANDA:
+  uri:
+  - http://www.amanda.org/
+  tags:
+  - backup
+  - software
+  license:
+  - AMANDA License
+  license_reference:
+  - http://amanda.zmanda.com/amanda-license.html
+Boost:
+  uri:
+  - http://www.boost.org/
+  tags:
+  - library
+  - software
+  license:
+  - Boost License v1.0
+  license_reference:
+  - http://www.boost.org/users/license.html
+cscope:
+  uri:
+  - http://cscope.sourceforge.net/
+  tags:
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://cscope.sourceforge.net/license.html
+fasd:
+  uri:
+  - https://github.com/clvv/fasd
+  tags:
+  - file management
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/clvv/fasd/blob/master/LICENSE
+Ganglia:
+  uri:
+  - http://ganglia.info/
+  tags:
+  - monitoring
+  - software
+  license:
+  - BSD License
+  license_reference:
+  - http://sourceforge.net/p/ganglia/code/HEAD/tree/trunk/monitor-core/COPYING
+I2P:
+  uri:
+  - http://www.i2p2.de/
+  tags:
+  - cryptography
+  - multilicensed
+  - privacy
+  - security
+  - software
+  license:
+  - public domain + MIT/X11 License + Simplified BSD License
+  license_alternate:
+  - GPL
+  license_reference:
+  - http://www.i2p2.de/licenses
+  notes:
+  - Several noncritical components (I2Psnark, Susidns, and Susmail) are strictly GPLed,
+    and they are bundled with the default install package.  The rest of the standard
+    I2P system uses a tangled web of alternate licenses, where the options are such
+    that all those components can be accepted under copyfree terms.
+Joytran:
+  uri:
+  - http://chiselapp.com/user/beyert/repository/joytran/index
+  tags:
+  - driver
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://chiselapp.com/user/beyert/repository/joytran/artifact?ci=tip&filename=COPYRIGHT
+LIBSVM:
+  uri:
+  - http://www.csie.ntu.edu.tw/%7Ecjlin/libsvm/
+  tags:
+  - library
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://www.csie.ntu.edu.tw/%7Ecjlin/libsvm/COPYRIGHT
+rote:
+  uri:
+  - http://rote.rubyforge.org/
+  tags:
+  - documentation
+  - software
+  - template
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://rote.rubyforge.org/license.html
+TclMon:
+  uri:
+  - http://tclmon.sourceforge.net/
+  tags:
+  - monitoring
+  - network
+  - server
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - http://tclmon.sourceforge.net/license.php
+TTCalc:
+  uri:
+  - http://ttcalc.sourceforge.net/
+  tags:
+  - calculator
+  - software
+  license:
+  - Revised BSD License
+  license_reference: []
+Versionize:
+  uri:
+  - http://fossrec.com/u/apotheon/versionize
+  tags:
+  - library
+  - ruby
+  - software
+  license:
+  - Open Works License
+  license_reference:
+  - http://fossrec.com/u/apotheon/versionize/index.cgi/artifact?ci=tip&filename=ruby/LICENSE
+  description:
+  - Versionize is a Ruby library providing simple version identification capabilities.
+Octaforge:
+  uri:
+  - http://octaforge.org/
+  tags:
+  - game
+  - software
+  license:
+  - University of Illinois/NCSA Open Source License
+  license_reference:
+  - https://github.com/OctaForge/OF-Engine/blob/master/COPYING.txt
+  description:
+  - Octaforge is a 3D game engine.
+SIEGE:
+  uri:
+  - http://libsiege.org
+  tags:
+  - game
+  - library
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - http://libsiege.org/license/
+  description:
+  - The SIEGE 2D game engine is licensed, in its entirety, under the terms of the Simplified BSD License.  Artwork, however, is included under a mix of other terms, including (for instance) the Bitstream Vera Fonts Copyright and public domain copyrights.
+kadnode:
+  uri:
+  - https://github.com/mwarning/kadnode
+  tags:
+  - daemon
+  - distributed
+  - dns
+  - network
+  - server
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/mwarning/KadNode/blob/master/LICENSE
+influxdb:
+  uri:
+  - http://influxdb.org/
+  tags:
+  - database
+  - distributed
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/influxdb/influxdb/blob/master/LICENSE
+AngularJS:
+  uri:
+  - http://www.angularjs.org/
+  tags:
+  - framework
+  - javascript
+  - library
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/angular/angular.js/blob/master/LICENSE
+KnockoutJS:
+  uri:
+  - http://knockoutjs.com/
+  tags:
+  - framework
+  - javascript
+  - library
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/knockout/knockout/blob/master/LICENSE
+Express.js:
+  uri:
+  - http://expressjs.com/
+  tags:
+  - framework
+  - javascript
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/visionmedia/express/blob/master/LICENSE
+Backbone.js:
+  uri:
+  - http://backbonejs.org/
+  tags:
+  - framework
+  - javascript
+  - library
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/jashkenas/backbone/blob/master/LICENSE
+Ethereum:
+  uri:
+  - https://www.ethereum.org/
+  tags:
+  - cryptocurrency
+  - cryptography
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/ethereum/cpp-ethereum/blob/master/LICENSE
+  - https://github.com/ethereum/go-ethereum/blob/master/LICENSE
+flot:
+  uri:
+  - http://www.flotcharts.org/
+  tags:
+  - javascript
+  - library
+  - software
+  - visualization
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/flot/flot/blob/master/LICENSE.txt
+VIGRA:
+  uri:
+  - http://ukoethe.github.io/vigra/
+  tags:
+  - image
+  - library
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://ukoethe.github.io/vigra/LICENSE.txt
+Bitcloud:
+  uri:
+  - http://bitcloudproject.org/
+  tags:
+  - database
+  - distributed
+  - network
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/wetube/bitcloud/blob/master/License
+beets:
+  uri:
+  - http://beets.radbox.org/
+  tags:
+  - music
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/sampsyo/beets/blob/master/LICENSE
+WebRTC:
+  uri:
+  - https://sites.google.com/site/webrtc/
+  tags:
+  - communication
+  - network
+  - software
+  - web
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://sites.google.com/site/webrtc/license-rights/license
+Functional Java:
+  uri:
+  - https://github.com/functionaljava/functionaljava
+  tags:
+  - jvm
+  - library
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/functionaljava/functionaljava/blob/master/etc/LICENCE
+rock:
+  uri:
+  - http://ooc-lang.org/
+  - https://github.com/nddrylliog/rock
+  tags:
+  - cross-compiler
+  - language
+  - ooc
+  - programming
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/nddrylliog/rock/blob/master/LICENSE
+  description:
+  - The rock compiler is the reference implementation of ooc, a small programming language with a clear and concise syntax that compiles to C99.
+ZURB Foundation:
+  uri:
+  - http://foundation.zurb.com/
+  tags:
+  - framework
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/zurb/foundation/blob/master/LICENSE
+node-Tor:
+  uri:
+  - https://github.com/Ayms/node-Tor
+  tags:
+  - anonymity
+  - javascript
+  - privacy
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/Ayms/node-Tor/blob/master/LICENSE.txt
+danbooru:
+  uri:
+  - http://testbooru.donmai.us/
+  tags:
+  - software
+  - web
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/r888888888/danbooru/blob/master/LICENSE
+Bourbon Neat:
+  uri:
+  - http://neat.bourbon.io/
+  tags:
+  - framework
+  - layout
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/thoughtbot/neat/blob/master/LICENSE
+Posical:
+  uri:
+  - http://blog.zdsmith.com/posical-the-positivist-calendar-for-python.html
+  tags:
+  - calendar
+  - library
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/subsetpark/posical/blob/master/posical.py
+Octopress:
+  uri:
+  - http://octopress.org/
+  tags:
+  - blog
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/imathis/octopress/blob/master/README.markdown
+Hyde:
+  uri:
+  - http://wiki.call-cc.org/eggref/4/hyde
+  tags:
+  - blog
+  - cms
+  - software
+  - web
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://wiki.call-cc.org/eggref/4/hyde#license
+  description:
+  - The Hyde software is a static site generator, and a Scheme clone of the Ruby software, jekyll.
+Webby:
+  uri:
+  - http://webby.rubyforge.org/
+  tags:
+  - blog
+  - cms
+  - dead
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/TwP/webby/tree/master
+nanoc:
+  uri:
+  - http://nanoc.ws/
+  tags:
+  - blog
+  - cms
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/nanoc/nanoc/blob/master/LICENSE
+hyde:
+  uri:
+  - http://hyde.github.io/
+  tags:
+  - blog
+  - cms
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/hyde/hyde/blob/master/LICENSE
+  description:
+  - The hyde software is a static site generator, and a Python clone of the Ruby software, jekyll.
+Hakyll:
+  uri:
+  - http://jaspervdj.be/hakyll/
+  tags:
+  - blog
+  - cms
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/jaspervdj/hakyll/blob/master/LICENSE
+  description:
+  - Hakyll is a Haskell library for generating static sites, mostly aimed at small-to-medium sites and personal blogs.
+swk:
+  uri:
+  - http://git.suckless.org/swk/
+  tags:
+  - gui
+  - library
+  - software
+  - toolkit
+  - widgets
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://git.suckless.org/swk/tree/LICENSE
+  description:
+  - The swk software is a minimalist widget kit with support for SDL and X11.
+Agar:
+  uri:
+  - http://libagar.org/
+  tags:
+  - gui
+  - library
+  - software
+  - toolkit
+  - widgets
+  license:
+  - Simplified BSD License
+  license_reference:
+  - http://libagar.org/license.html
+  description:
+  - Agar is a powerful open-source, cross-platform toolkit for graphical applications in C, C++ or Objective-C (bindings to Perl and Ada are also available).
+herbstluftwm:
+  uri:
+  - http://herbstluftwm.org/
+  tags:
+  - software
+  - tiling
+  - window manager
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://git.informatik.uni-erlangen.de/?p=re06huxa/herbstluftwm;a=blob_plain;f=LICENSE;hb=HEAD
+  description:
+  - The herbstluftwm software is a manual tiling window manager for X11 using Xlib and Glib.
+Case for Copyright Reform:
+  uri:
+  - http://www.copyrightreform.eu/
+  tags:
+  - book
+  - nonfiction
+  license:
+  - CC0
+  license_reference: []
+  description:
+  - The Case for Copyright Reform is a book by Christian Engstrom MEP and Rick Falkvinge addressing the need for legalized file sharing, shorter protection times for the commercial copyright monopoly, free sampling, and a ban on DRM.
+Gohufont:
+  uri:
+  - http://font.gohu.org/
+  tags:
+  - font
+  - monospace
+  - unicode
+  license:
+  - WTFPL
+  license_reference: []
+  description:
+  - Gohufont is a monospace bitmap font well suited for programming and terminal use.
+Ancient Fire:
+  uri:
+  - https://stpeter.im/writings/fire/
+  tags:
+  - book
+  - collection
+  - poetry
+  license:
+  - CC0
+  license_reference: []
+  description:
+  - Ancient Fire is an English language book collecting poems and translations by Peter Saint-Andre.
+Sita Sings the Blues:
+  uri:
+  - http://sitasingstheblues.com/
+  tags:
+  - animation
+  - fiction
+  - motion picture
+  - musical
+  license:
+  - CC0
+  license_reference:
+  - http://www.sitasingstheblues.com/license.html
+Your Face is a Saxophone:
+  uri:
+  - http://yfias.com/
+  tags:
+  - animation
+  - comedy
+  - motion picture
+  - series
+  license:
+  - CC0
+  license_reference:
+  - http://plankhead.com/projects/yfias-source
+ShowOff:
+  uri:
+  - https://github.com/puppetlabs/showoff
+  tags:
+  - presentation
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/puppetlabs/showoff/blob/master/LICENSE
+Red:
+  uri:
+  - http://www.red-lang.org/
+  tags:
+  - compiler
+  - language
+  - programming
+  - red
+  - software
+  license:
+  - Revised BSD License + Boost Software License
+  license_reference:
+  - https://github.com/red/red/blob/master/README.md
+  - https://github.com/red/red/blob/master/BSD-3-License.txt
+  - https://github.com/red/red/blob/master/BSL-License.txt
+  description:
+  - Red is a homoiconic programming language strongly inspired by REBOL, with support for functional, imperative, and symbolic programming; prototype-based object support; low-level system programming; high-level scripting, including a REPL; and application embedded deployment.
+Twitter Bootstrap:
+  uri:
+  - http://getbootstrap.com/
+  tags:
+  - framework
+  - software
+  - web
+  license:
+  - MIT/X11
+  license_reference:
+  - https://github.com/twbs/bootstrap/blob/master/LICENSE
+ircloggr:
+  uri:
+  - http://irclog.gr/
+  tags:
+  - ircbot
+  - logging
+  - software
+  - web
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/lloyd/ircloggr/blob/master/LICENSE
+Leo:
+  uri:
+  - http://leoeditor.com/
+  tags:
+  - editor
+  - ide
+  - outliner
+  - pim
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://leoeditor.com/license.html
+  description:
+  - Leo is a PIM, IDE and outliner that accelerates the work flow of programmers, authors and web designers.
+LiquidFeedback:
+  uri:
+  - http://liquidfeedback.org/
+  tags:
+  - governance
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://www.public-software-group.org/mercurial/liquid_feedback_core/file/default/LICENSE
+  - http://www.public-software-group.org/mercurial/liquid_feedback_frontend/file/default/LICENSE
+  - http://www.public-software-group.org/mercurial/lfapi/file/default/LICENSE
+  description:
+  - LiquidFeedback is open-source software, powering internet platforms for proposition development and decision making.
+WebMCP:
+  uri:
+  - http://www.public-software-group.org/webmcp
+  tags:
+  - framework
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://www.public-software-group.org/mercurial/webmcp/file/default/LICENSE
+  description:
+  - WebMCP is a Model-View-Action web application framework written in Lua and C.
+mcstat:
+  uri:
+  - https://github.com/winny-/mcstat
+  tags:
+  - cli
+  - plugin
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/winny-/mcstat/blob/master/LICENSE
+  description:
+  - The mcstat project provides a PHP class, web page, CLI tool, and Munin plugin to get information from a Minecraft server.
+libjingle:
+  uri:
+  - https://code.google.com/p/libjingle/
+  tags:
+  - library
+  - software
+  - voip
+  - xmpp
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://developers.google.com/talk/libjingle/license
+  description:
+  - Libjingle is a set of components to interoperate with Google Talk's peer-to-peer voice and video chat.
+MoonScript:
+  uri:
+  - http://moonscript.org/
+  tags:
+  - cross-compiler
+  - language
+  - lua
+  - moonscript
+  - programming
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/leafo/moonscript/blob/master/README.md
+  description:
+  - MoonScript is a programmer friendly language that compiles to Lua.
+NaCl:
+  uri:
+  - http://nacl.cr.yp.to/
+  tags:
+  - cryptography
+  - library
+  - networking
+  - security
+  - software
+  license:
+  - public domain
+  license_reference:
+  - http://nacl.cr.yp.to/features.html
+libsodium:
+  uri:
+  - https://github.com/jedisct1/libsodium
+  tags:
+  - cryptography
+  - library
+  - networking
+  - security
+  - software
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/jedisct1/libsodium/blob/master/LICENSE
+RbNaCl:
+  uri:
+  - https://github.com/cryptosphere/rbnacl
+  tags:
+  - cryptography
+  - library
+  - networking
+  - security
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/cryptosphere/rbnacl/blob/master/LICENSE.txt
+softflowd:
+  uri:
+  - http://www.mindrot.org/projects/softflowd/
+  tags:
+  - networking
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://code.google.com/p/softflowd/source/browse/LICENSE
+Dojo Toolkit:
+  uri:
+  - http://dojotoolkit.org/
+  tags:
+  - javascript
+  - library
+  - multilicensed
+  - software
+  - web
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/dojo/dojo/blob/master/LICENSE
+  license_alternate:
+  - Academic Free License
+  description:
+  - Dojo is a toolkit for building high quality desktop and mobile web applications.
+Mighttpd2:
+  uri:
+  - http://mew.org/~kazu/proj/mighttpd/en/
+  tags:
+  - server
+  - software
+  - web
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/kazu-yamamoto/mighttpd2/blob/master/LICENSE
+  description:
+  - Mighttpd2 (called mighty) is a simple but practical HTTP server written in Haskell that handles static files and CGI scripts, and provides reverse proxy and URL rewriting with HTTP redirect.
+Toybox:
+  uri:
+  - http://www.landley.net/toybox/
+  tags:
+  - cli
+  - software
+  - unix
+  - utility
+  license:
+  - Toybox License
+  license_reference:
+  - http://landley.net/hg/toybox/file/tip/LICENSE
+  description:
+  - Toybox combines common command line utilities together into a single executable that's simple, small, fast, reasonably standards-compliant, and powerful enough to turn Android into a development environment.
+BeastieBox:
+  uri:
+  - http://beastiebox.sourceforge.net/
+  tags:
+  - cli
+  - software
+  - unix
+  - utility
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://beastiebox.cvs.sourceforge.net/viewvc/beastiebox/beastiebox/LICENSE?view=markup
+  description:
+  - BeastieBox is an attempt to bring a Busybox-like tool to the BSD world, aiming to be small while keeping as many features as possible.
+Meteor:
+  uri:
+  - https://www.meteor.com/
+  tags:
+  - framework
+  - javascript
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/meteor/meteor/blob/devel/LICENSE.txt
+  description:
+  - Meteor is an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
+bspwm:
+  uri:
+  - https://github.com/baskerville/bspwm
+  tags:
+  - software
+  - tiling
+  - window manager
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/baskerville/bspwm/blob/master/LICENSE
+  description:
+  - The bspwm project offers a tiling window manager based on binary space partitioning.
+Hubbub:
+  uri:
+  - http://www.netsurf-browser.org/projects/hubbub/
+  tags:
+  - browser
+  - html
+  - library
+  - parser
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://git.netsurf-browser.org/libhubbub.git/tree/COPYING
+  description:
+  - Hubbub is an HTML5 compliant parsing library, written in C.
+html5lib:
+  uri:
+  - https://github.com/html5lib
+  tags:
+  - html
+  - library
+  - parser
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/html5lib/html5lib-python/blob/master/LICENSE
+  - https://github.com/html5lib/html5lib-ruby
+  description:
+  - The html5lib Ruby and Python libraries are standards-compliant parsing and serializing HTML libraries.
+libedit:
+  uri:
+  - http://sourceforge.net/projects/libedit/
+  tags:
+  - cli
+  - editor
+  - library
+  - software
+  license:
+  - Simplified BSD License
+  license_reference: []
+  description:
+  - The libedit library spin-off from NetBSD code is a non-GPL replacement for the readline library.
+Unsplash:
+  uri:
+  - http://unsplash.com/
+  tags:
+  - collection
+  - content
+  - image
+  license:
+  - CC0
+  license_reference: []
+  description:
+  - Free (do whatever you want) hi-resolution photos.  10 new photos every 10 days.
+Archiveopteryx:
+  uri:
+  - http://www.archiveopteryx.org/
+  tags:
+  - email
+  - imap
+  - network
+  - pop3
+  - server
+  - software
+  license:
+  - PostgreSQL License
+  license_reference:
+  - https://github.com/aox/aox/blob/master/doc/readme/bsd.txt
+  description:
+  - Archiveopteryx stores email in a database and provides access to it through IMAP and more.
+Pond:
+  uri:
+  - https://pond.imperialviolet.org/
+  tags:
+  - client
+  - email
+  - network
+  - privacy
+  - security
+  - server
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/agl/pond/blob/master/LICENSE
+  description:
+  - Pond is forward secure, asynchronous messaging for the discerning.
+Foxtrot:
+  uri:
+  - https://github.com/bitpay/foxtrot
+  tags:
+  - blockchain
+  - network
+  - software
+  - encryption
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/bitpay/foxtrot/blob/master/LICENSE
+  description:
+  - Foxtrot is a simple and secure routing network based on bitcoin cryptography. Foxtrot enables easy p2p communications and has built-in mechanisms for peer discovery, creation of services addressable by public keys, and establishing encrypted connections.
+Hyperdex:
+  uri:
+  - http://hyperdex.org/
+  tags:
+  - database
+  - nosql
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/rescrv/HyperDex/blob/master/LICENSE
+  description:
+  - HyperDex is a next generation key-value store with a rich API, strong consistency, and fault tolerance -- providing strong guarantees to applications that are not matched by other NoSQL systems.
+uutils coreutils:
+  uri:
+  - https://github.com/uutils/coreutils
+  tags:
+  - cli
+  - software
+  - unix
+  - utility
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/uutils/coreutils/blob/master/LICENSE
+  description:
+  - Written in Rust, uutils is an attempt at writing universal (as in cross-platform) CLI utils in Rust; uutils coreutils is a complete rewrite of GNU Coreutils.
+structlog:
+  uri:
+  - http://www.structlog.org/
+  tags:
+  - library
+  - logging
+  - multilicensed
+  - software
+  license:
+  - MIT/X11 License
+  license_alternate:
+  - Apache License 2.0
+  license_reference:
+  - http://www.structlog.org/en/0.4.2/
+  description:
+  - Structured logging in Python is made easy with structlog by augmenting your existing logger.  It allows you to split your log entries up into key/value pairs and build them incrementally without annoying boilerplate code.
+ATLAS:
+  uri:
+  - http://math-atlas.sourceforge.net/
+  tags:
+  - library
+  - math
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://math-atlas.sourceforge.net/faq.html#license
+  description:
+  - Automatically Tuned Linear Algebra Software (ATLAS) is an ongoing research effort focusing on applying empirical techniques in order to provide portable performance for a reasonably portable BLAS implementation, with C and Fortran77 APIs.
+OpenBLAS:
+  uri:
+  - http://xianyi.github.io/OpenBLAS/
+  tags:
+  - library
+  - math
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/xianyi/OpenBLAS/blob/develop/LICENSE
+  description:
+  - OpenBLAS is an optimized BLAS library based on (discontinued) GotoBLAS2.
+Slow KDF:
+  uri:
+  - https://github.com/vstoykovbg/slowkdf
+  tags:
+  - cryptography
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/vstoykovbg/slowkdf/blob/master/LICENSE
+  description:
+  - Slow KDF provides serious key stretching based on Scrypt.  This addresses the fact that popular cryptographic tools have laughable key stretching functionality.
+Light Table:
+  uri:
+  - http://lighttable.com/
+  tags:
+  - editor
+  - ide
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/LightTable/LightTable/blob/master/LICENSE.md
+  description:
+  - Light Table is the next generation of integrated development environment organized around behaviors, objects, and tags.  It is elegant, lightweight, and beautifully designed so that your IDE is no longer cluttered.
+node-restify:
+  uri:
+  - http://mcavage.me/node-restify/
+  tags:
+  - javascript
+  - library
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/mcavage/node-restify/blob/master/LICENSE
+  description:
+  - The node-restify package provides a node.js REST framework for web service APIs.
+PureFTPd:
+  uri:
+  - http://www.pureftpd.org/project/pure-ftpd
+  tags:
+  - ftp
+  - server
+  - software
+  license:
+  - ISC License
+  license_reference:
+  - http://download.pureftpd.org/pub/pure-ftpd/releases/
+  description:
+  - Pure-FTPd is a free, secure, production-quality and standard-conformant FTP server. It doesn't provide useless bells and whistles, but focuses on efficiency and ease of use. 
+Rollem:
+  uri:
+  - https://github.com/lemtzas/Rollem/wiki
+  tags:
+  - dice
+  - game
+  - ircbot
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/lemtzas/Rollem/blob/master/LICENSE
+  description:
+  - Rollem is an IRC dicebot written in Ruby, with some additional IRC functionality.
+Do Business Without Intellectual Property:
+  uri:
+  - http://liberty.me/guides/do-business-without-intellectual-property/
+  tags:
+  - book
+  - nonfiction
+  license:
+  - CC0
+  license_reference:
+  - http://www.stephankinsella.com/2014/10/do-business-without-intellectual-property/
+  description:
+  - Do Business Without Intellectual Property is a book by Stephan Kinsella, an
+    experienced patent attorney whose intimate knowledge of IP law has led him
+    to reject it as not only unnecessary, but harmful.  This book makes the
+    case that you do not need intellectual property to succeed at business.
+hipku:
+  uri:
+  - http://gabrielmartin.net/projects/hipku/#featured-image-container
+  tags:
+  - javascript
+  - library
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/gabemart/hipku/blob/master/LICENSE
+  description:
+  - With hipku, you can encode any IP address as a haiku, and decode the haiku
+    to recover the IP address.  This can render lengthy, ugly IPv6 addresses in
+    prettier, more easily remembered forms.
+miniz:
+  uri:
+  - https://code.google.com/p/miniz/
+  tags:
+  - c
+  - compression
+  - library
+  - software
+  license:
+  - Unlicense
+  license_reference:
+  - https://code.google.com/p/miniz/source/browse/trunk/miniz.c
+  description:
+  - The miniz project provides a lossless, high performance data compression
+    library in a single source file that implements the zlib (RFC 1950) and
+    Deflate (RFC 1951) compressed data format specification standards, plus
+    more related functionality.
+jersey2-metrics:
+  uri:
+  - https://bitbucket.org/marshallpierce/jersey2-metrics
+  tags:
+  - java
+  - library
+  - software
+  - web
+  license:
+  - COIL
+  license_reference:
+  - https://bitbucket.org/marshallpierce/jersey2-metrics/src/master/LICENSE.txt
+  description:
+  - The jersey2-metrics project offers a Jersey 2 <tt>ApplicationEventListener</tt>
+    that captures information about request processing in Metrics.
+D3.js:
+  uri:
+  - http://d3js.org/
+  tags:
+  - graphics
+  - javascript
+  - library
+  - software
+  - web
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/mbostock/d3/blob/master/LICENSE
+  description:
+  - D3 is a JavaScript visualization library for manipulating documents based on data using HTML and SVG.
+Jasmine:
+  uri:
+  - http://jasmine.github.io/
+  tags:
+  - javascript
+  - framework
+  - library
+  - software
+  - testing
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/jasmine/jasmine/blob/master/MIT.LICENSE
+  description:
+  - Jasmine is a behavior-driven development framework for testing JavaScript code with no other framework dependencies, no DOM requirements, and a clean, obvious syntax.
+Textadept:
+  uri:
+  - http://foicica.com/textadept/
+  tags:
+  - editor
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://foicica.com/hg/textadept/file/tip/LICENSE
+  description:
+  - Textadept is a fast, minimalist, and remarkably extensible cross-platform text editor.
+Diakonos:
+  uri:
+  - http://diakonos.pist0s.ca/
+  tags:
+  - console
+  - editor
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/Pistos/diakonos/blob/master/LICENCE
+  description:
+  - Diakonos is the Linux console text editor with a key mapping you practically already know. Easy to use and easy to configure, but potent in the hands of power users.
+sandy:
+  uri:
+  - http://tools.suckless.org/sandy
+  tags:
+  - console
+  - editor
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://git.suckless.org/sandy/tree/LICENSE
+  description:
+  - Sandy is an ncurses text editor with an easy-to-read, hackable C source that tries to maximize screen real estate, minimize the SLOC used, and not get in your way too much.
+Scintilla:
+  uri:
+  - http://www.scintilla.org/
+  tags:
+  - editor
+  - library
+  - software
+  license:
+  - Other
+  license_reference:
+  - http://www.scintilla.org/License.txt
+  description:
+  - Scintilla is a free source code editing component.  As well as features found in standard text editing components, Scintilla includes features especially useful when editing and debugging source code.  These include support for syntax styling, error indicators, code completion and call tips.
+Aegisub:
+  uri:
+  - http://www.aegisub.org/
+  tags:
+  - software
+  - subtitles
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://devel.aegisub.org/browser/aegisub/LICENCE
+  description:
+  - Aegisub is a free, cross-platform open source tool for creating and modifying subtitles. Aegisub makes it quick and easy to time subtitles to audio, and features many powerful tools for styling them, including a built-in real-time video preview.
+Screen Editor:
+  uri:
+  - http://se-editor.org/index.html
+  tags:
+  - console
+  - editor
+  - software
+  license:
+  - public domain
+  license_reference:
+  - https://github.com/screen-editor/se/blob/master/COPYING
+  description:
+  - Screen Editor, or se for short, is a screen oriented version of the classic UNIX text editor ed. It’s similar to vi as both are modal editors with curses interfaces. However, it differs from vi in that it has the same command syntax as ed.
+Atom:
+  uri:
+  - https://atom.io/
+  tags:
+  - editor
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/atom/atom/blob/master/LICENSE.md
+  description:
+  - GitHub built the text editor its developers always wanted.  It is a tool you can customize to do anything, but also use productively on the first day without ever touching a config file.  Atom is modern, approachable, and hackable to the core.
+FreeBSD ee:
+  uri:
+  - https://www.freebsd.org/cgi/man.cgi?query=ee&sektion=1
+  tags:
+  - console
+  - editor
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/freebsd/freebsd/tree/master/contrib/ee
+  description:
+  - The command ee is a simple screen oriented text editor.  It is always in text insertion mode unless there is a prompt at the bottom of the terminal, or a menu present (in a box in the middle of the terminal).
+cpdup:
+  uri:
+  - http://apollo.backplane.com/FreeBSDPorts/
+  tags:
+  - backup
+  - console
+  - network
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - http://linux.die.net/man/1/cpdup
+  description:
+  - CPDup is a filesystem mirroring utility that attempts to retain permissions, flags, ownership, and utimes. It will create and delete files/directories on the destination as necessary to synchronize it with the source. CPDup attempts to avoid unnecssary copies (by default) by assuming that files are the same if their size and mtime (and other parameters) match. CPDup also has the ability to run MD5 checks between the source and destination and optimizes to avoid unnecessary data reads from the source by generating and maintaining MD5 checkfiles.
+xdotool:
+  uri:
+  - http://www.semicomplete.com/projects/xdotool/
+  tags:
+  - software
+  - utility
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/jordansissel/xdotool/blob/master/COPYRIGHT
+  description:
+  - The xdotool utility lets you simulate keyboard input and mouse activity, move and resize windows, etc. It does this using X11's XTEST extension and other Xlib functions.
+SubC:
+  uri:
+  - http://www.t3x.org/subc/
+  tags:
+  - c
+  - compiler
+  - programming
+  - software
+  license:
+  - public domain
+  license_reference:
+  - http://www.t3x.org/subc/README-current.html
+  description:
+  - SubC is a compiler for a (mostly) strict and sane subset of C as described in "The C Programming Language", 2nd Ed (also known informally as "ANSI C" or "C89").
+Fossilize:
+  uri:
+  - https://github.com/xiy/fossilize
+  tags:
+  - library
+  - software
+  - utility
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/xiy/fossilize/blob/master/LICENSE
+  description:
+  - Fossilize is an FFI-powered C-extension for Ruby that interfaces with the delta encoding algorithm created by D. Richard Hipp for the Fossil SCM project and an attendant command-line utility.  It enables a Ruby program to quickly generate a delta between files and strings, and apply those deltas.
+Bower:
+  uri:
+  - http://www.bower.io/
+  tags:
+  - javascript
+  - package management
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/bower/bower/blob/master/LICENSE
+  description:
+  - Bower is a software package manager for the web that works by fetching and installing packages from all over, taking care of hunting, finding, downloading, and saving the stuff you need.  It keeps track of these packages in a manifest file, bower.json.  How you use packages is up to you.
+clib:
+  uri:
+  - https://blog.ashworth.in/the-advent-of-clib-the-c-package-manager/
+  - https://medium.com/@tjholowaychuk/introducing-clib-b32e6e769cb3
+  tags:
+  - c
+  - package management
+  - programming
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/clibs/clib/blob/master/LICENSE
+  description:
+  - The clib toolset provides a package manager with package listing "registry" for the C programming language, also serving as a nice way to discover small utilities and libraries.
+Cabal:
+  uri:
+  - https://www.haskell.org/cabal/
+  tags:
+  - haskell
+  - package management
+  - programming
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/haskell/cabal/blob/master/LICENSE
+  description:
+  - Cabal (Common Architecture for Building Applications and Libraries) is a system for building and packaging Haskell libraries and programs. It defines a common interface for package authors and distributors to easily build their applications in a portable way.
+CocoaPods:
+  uri:
+  - https://cocoapods.org/
+  tags:
+  - objective c
+  - package management
+  - programming
+  - software
+  - swift
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/CocoaPods/CocoaPods/blob/master/LICENSE
+  description:
+  - CocoaPods is the dependency manager for Swift and Objective-C Cocoa projects; it manages dependencies for your Xcode projects.  It has over ten thousand libraries and can help you scale your projects elegantly.
+Composer:
+  uri:
+  - http://getcomposer.org/
+  tags:
+  - package management
+  - php
+  - programming
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/composer/composer/blob/master/LICENSE
+  description:
+  - Composer is a dependency manager that helps you declare, manage and install dependencies of PHP projects, ensuring you have the right stack everywhere.
+Quicklisp:
+  uri:
+  - https://www.quicklisp.org/
+  tags:
+  - common lisp
+  - lisp
+  - package management
+  - programming
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://www.quicklisp.org/beta/#license
+  description:
+  - Quicklisp is a library manager for Common Lisp. It works with your existing Common Lisp implementation to download, install, and load any of over 1,200 libraries with a few simple commands.
+RubyGems:
+  uri:
+  - https://rubygems.org/
+  tags:
+  - package management
+  - programming
+  - ruby
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/rubygems/rubygems.org/blob/master/MIT-LICENSE
+  description:
+  - RubyGems.org is the Ruby community’s gem hosting service. Instantly publish your gems and install them. Use the API to interact and find out more information about available gems.
+sbt:
+  uri:
+  - http://www.scala-sbt.org/
+  tags:
+  - jvm
+  - package management
+  - programming
+  - scala
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/sbt/sbt/blob/1.0.x/LICENSE
+  description:
+  - Scala Build Tool (sbt) is a build tool for Scala, Java, and more.  Use Scala to define your tasks, then run them in parallel from the shell.
+Io:
+  uri:
+  - http://iolanguage.org/
+  tags:
+  - io
+  - language
+  - programming
+  - software
+  - virtual machine
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://iolanguage.org/
+  description:
+  - Io is a dynamic prototype-based programming language focused on expressiveness through simplicity.
+JasmineIo:
+  uri:
+  - https://github.com/bekkopen/jasmineio
+  tags:
+  - io
+  - programming
+  - software
+  - test framework
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/bekkopen/jasmineio/blob/master/LICENSE.md
+  description:
+  - Jasmine.Io is an Io Language port of the popular Behavior Driven Development testing framework for JavaScript with a similar name.
+Overtone:
+  uri:
+  - http://overtone.github.io/
+  tags:
+  - audio
+  - clojure
+  - programming
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/overtone/overtone/blob/master/LICENSE
+  description:
+  - Overtone is an open source, Clojure-based audio environment and toolkit designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding, and collaborative jamming
+hashcat:
+  uri:
+  - https://hashcat.net/hashcat/
+  tags:
+  - cryptanalysis
+  - password recovery
+  - security
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/hashcat/hashcat/blob/master/docs/license.txt
+  description:
+  - Hashcat is an advanced CPU-based password recovery utility for Windows 7/8/10, Apple OS X, and GNU/Linux, supporting seven unique modes of attack for over 100 optimized hashing algorithms.
+oclHashcat:
+  uri:
+  - https://hashcat.net/oclhashcat/
+  tags:
+  - cryptanalysis
+  - password recovery
+  - security
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/hashcat/oclHashcat/blob/master/docs/license.txt
+  description:
+  - The world's fastest and most advanced GPGPU-based password recovery utility is oclHashcat, supporting five unique modes of attack for over 170 highly-optimized hashing algorithms.  It supports AMD (OpenCL) and Nvidia (CUDA) graphics processors on GNU/Linux and Windows 7/8/10, and has facilities to help enable distributed password cracking.
+keybase client:
+  uri:
+  - https://keybase.io/
+  tags:
+  - client
+  - cryptography
+  - encryption
+  - openpgp
+  - privacy
+  - security
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/keybase/client/blob/master/LICENSE
+  description:
+  - This is the keybase command line client.
+keybase libweb:
+  uri:
+  - https://keybase.io/
+  tags:
+  - cryptography
+  - library
+  - openpgp
+  - privacy
+  - security
+  - software
+  - web
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/keybase/libweb/blob/master/LICENSE
+  description:
+  - This is a library for building web clients for keybase.
+tent:
+  uri:
+  - https://tent.io/
+  tags:
+  - client
+  - network
+  - protocol
+  - server
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/tent/tentd/blob/master/LICENSE
+  description:
+  - Tent lets you control your data instead of handing it over to service and app providers.  Just like email, you choose a Tent provider or can set up your own Tent server.
+Nike:
+  uri:
+  - https://github.com/cupcake/nike
+  tags:
+  - project management
+  - software
+  - web
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/cupcake/nike/blob/master/LICENSE
+  description:
+  - Nike offers project management that isn't awful.
+IPFS:
+  uri:
+  - https://ipfs.io/
+  tags:
+  - ipfs
+  - network
+  - protocol
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/ipfs/go-ipfs/blob/master/LICENSE
+  description:
+  - IPFS is a global, versioned, peer-to-peer filesystem.  It combines good ideas from Git, BitTorrent, Kademlia, SFS, and the Web.  It is like a single bittorrent swarm, exchanging git objects.  IPFS provides an interface as simple as the HTTP web, but with permanence built in.  You can also mount the world at /ipfs.  This is the main implementation, written in Go.
+Freehold:
+  uri:
+  - https://tshannon.bitbucket.org/freehold/
+  tags:
+  - file sharing
+  - network
+  - server
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://bitbucket.org/tshannon/freehold/src/tip/LICENSE
+  description:
+  - Freehold is a personal web server for containing and managing your personal data.  Use Freehold-Sync to synchronize your desktop files with your freehold instance to make your own open, and secure Dropbox / Google Drive alternative.
+Ind.ie Pulse:
+  uri:
+  - https://source.ind.ie/project/pulse
+  tags:
+  - file sharing
+  - network
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://source.ind.ie/project/pulse/blob/master/LICENSE
+  description:
+  - Pulse is a free (as in freedom), secure, and distributed file synchronisation engine.
+Chibi-Scheme:
+  uri:
+  - http://synthcode.com/wiki/chibi-scheme
+  tags:
+  - programming
+  - scheme
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/ashinn/chibi-scheme/blob/master/COPYING
+  description:
+  - Chibi-Scheme is a very small library intended for use as an extension and scripting language in C programs.  The default language is R7RS Scheme, with support for all libraries.
+TiddlyWiki:
+  uri:
+  - http://www.tiddlywiki.com/
+  tags:
+  - cms
+  - software
+  - web
+  - wiki
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/Jermolene/TiddlyWiki5/blob/master/licenses/copyright.md
+  description:
+  - TiddlyWiki is a non-linear personal web notebook, implemented as a complete interactive wiki in JavaScript.  It can be used as a single HTML file in the browser or as a powerful Node.js application.  The entire user interface is itself implemented in hackable WikiText.
+Taskwarrior:
+  uri:
+  - https://taskwarrior.org/
+  tags:
+  - cli
+  - productivity
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://git.tasktools.org/projects/TM/repos/task/browse/COPYING
+  description:
+  - Taskwarrior is a GTD, todo list, task management, command line utility with a multitude of features.
+taskwiki:
+  uri:
+  - https://github.com/tbabej/taskwiki
+  tags:
+  - productivity
+  - software
+  - vi
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/tbabej/taskwiki/blob/master/LICENCE
+  description:
+  - Standing on the shoulders of Vimwiki and Taskwarrior, taskwiki provides proper project management in Vim.
+Vimwiki:
+  uri:
+  - http://vimwiki.github.io/
+  tags:
+  - cms
+  - software
+  - vi
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/vimwiki/vimwiki/blob/dev/doc/vimwiki.txt
+  description:
+  - Vimwiki is a personal wiki for Vim -- a number of linked text files that have their own syntax highlighting.
+Opal:
+  uri:
+  - http://opalrb.org/
+  tags:
+  - cross-compiler
+  - javascript
+  - programming
+  - ruby
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/opal/opal/blob/master/LICENSE
+  description:
+  - Opal is a source-to-source Ruby to JavaScript compiler, with a corelib and runtime implementation.
+fdupes:
+  uri:
+  - https://github.com/adrianlopezroche/fdupes
+  tags:
+  - cli
+  - search
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/adrianlopezroche/fdupes/blob/master/README
+  - https://github.com/adrianlopezroche/fdupes/blob/master/fdupes.c
+  description:
+  - FDUPES is a program for identifying duplicate files residing within specified directories.
+libmacaroons:
+  uri:
+  - https://github.com/rescrv/libmacaroons
+  tags:
+  - authorization
+  - c
+  - library
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/rescrv/libmacaroons/blob/master/LICENSE
+  description:
+  - Macaroons are flexible authorization credentials that support decentralized delegation, attenuation, and verification.  The libmacaroons library provides an implementation of macaroons.
+rust-macaroons:
+  uri:
+  - https://github.com/cryptosphere/rust-macaroons
+  tags:
+  - authorization
+  - rust
+  - library
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/cryptosphere/rust-macaroons/blob/master/LICENSE
+  description:
+  - 'Macaroons: bearer credentials with caveats for distributed authorization'
+CoffeeScript:
+  uri:
+  - http://coffeescript.org/
+  tags:
+  - cross-compiler
+  - javascript
+  - language
+  - programming
+  - coffeescript
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/jashkenas/coffeescript/blob/master/LICENSE
+  description:
+  - CoffeeScript is a little language that compiles into JavaScript.  Underneath that awkward Java-esque patina, JavaScript has always had a gorgeous heart.  CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.
+.NET Core:
+  uri:
+  - http://dotnet.github.io/
+  tags:
+  - dot net core
+  - framework
+  - programming
+  - software
+  - virtual machine
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/dotnet/core/blob/master/LICENSE
+  description:
+  - .NET Core is a cross-platform, general purpose, modular, managed code software development framework, consisting of the open source Common Language Infrastructure, including both the CoreFX implementation of the Framework Class Library and the Common Language Runtime.
+Idris:
+  uri:
+  - http://www.idris-lang.org/
+  tags:
+  - compiler
+  - idris
+  - language
+  - llvm
+  - programming
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/idris-lang/Idris-dev/blob/master/LICENSE
+  description:
+  - Idris is a general purpose pure functional programming language with dependent types and features inspired by Haskell and ML.  Dependent types allow types to be predicated on values, meaning that some aspects of a program’s behaviour can be specified precisely in the type.  It is compiled, with eager evaluation.
+Ioke:
+  uri:
+  - https://ioke.org/
+  tags:
+  - dot net core
+  - ioke
+  - jvm
+  - language
+  - programming
+  - software
+  - virtual machine
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://kenai.com/projects/ioke/sources/main/content/LICENSE
+  description:
+  - Ioke is a folding language.  It allows you to write highly expressive code that writes code.  Ioke allows you to create abstractions at any level, and expressiveness is the ultimate goal of the language.
+pdksh:
+  uri:
+  - http://www.cs.mun.ca/~michael/pdksh/
+  tags:
+  - interpreter
+  - language
+  - pdksh
+  - programming
+  - shell
+  - software
+  license:
+  - public domain + custom
+  license_reference:
+  - http://www.cs.mun.ca/~michael/pdksh/LEGAL
+  description:
+  - PD-ksh is a clone of the AT&T Korn shell. At the moment, it has most of the ksh88 features, not much of the ksh93 features, and a number of its own features.
+Tcl:
+  uri:
+  - http://tcl.tk/
+  tags:
+  - language
+  - programming
+  - software
+  - tcl
+  license:
+  - Tcl/Tk License
+  license_reference:
+  - http://tcl.tk/software/tcltk/license.html
+  description:
+  - Tcl (Tool Command Language) is a very powerful but easy to learn dynamic programming language, suitable for a very wide range of uses, including web and desktop applications, networking, administration, testing and many more.
+Apricot:
+  uri:
+  - https://github.com/apricot-lang/apricot
+  tags:
+  - apricot
+  - language
+  - programming
+  - rubinius
+  - software
+  - virtual machine
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/apricot-lang/apricot
+  description:
+  - Apricot is a programming language inspired by Clojure and Lisp that runs on the Rubinius VM. Apricot code is compiled to Rubinius bytecode which allows it to call Ruby functions directly (and vice versa).
+Huia:
+  uri:
+  - http://huia-lang.org/
+  tags:
+  - huia
+  - language
+  - programming
+  - rubinius
+  - software
+  - virtual machine
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/jamesotron/Huia/blob/master/LICENSE.txt
+  description:
+  - Huia is a whitespace-aware dynamic language with a simple object model based around traditional inheritance and closures.
+Fancy:
+  uri:
+  - http://www.fancy-lang.org/
+  tags:
+  - fancy
+  - language
+  - programming
+  - rubinius
+  - software
+  - virtual machine
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/bakkdoor/fancy/blob/master/LICENSE
+  description:
+  - Fancy is a self-hosted general-purpose programming language inspired by Smalltalk, Ruby, Io and Erlang that runs on the Rubinius VM. It has first-class integration support with Ruby and any Ruby libraries supported by Rubinius, including most C-extensions. Fancy is a dynamic, pure object-oriented, class-based programming language with built-in support for futures and actors.
+Fuby:
+  uri:
+  - https://github.com/txus/fuby
+  tags:
+  - fuby
+  - language
+  - programming
+  - rubinius
+  - software
+  - virtual machine
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/txus/fuby/blob/master/LICENSE.txt
+  description:
+  - Fuby is a hybrid functional/object-oriented programming language with the same syntax as Ruby, although pretty different semantics in many aspects.
+Lambra:
+  uri:
+  - https://github.com/txus/lambra
+  tags:
+  - lambra
+  - language
+  - lisp
+  - programming
+  - rubinius
+  - software
+  - virtual machine
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/txus/lambra/blob/master/LICENSE
+  description:
+  - Lambra is an experiment to implement a functional, distributed Lisp on the Rubinius Virtual Machine, much à la Erlang.
+Avian:
+  uri:
+  - https://readytalk.github.io/avian/
+  tags:
+  - java
+  - jvm
+  - library
+  - programming
+  - software
+  - virtual machine
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/ReadyTalk/avian/blob/master/license.txt
+  description:
+  - Avian is a lightweight virtual machine and class library designed to provide a useful subset of Java’s features, suitable for building self-contained applications.
+Capuchin:
+  uri:
+  - https://github.com/matthewd/capuchin
+  tags:
+  - javascript
+  - language
+  - programming
+  - rubinius
+  - software
+  - virtual machine
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/matthewd/capuchin
+  description:
+  - Capuchin is a JavaScript implementation for the Rubinius VM.
+ez-scheme:
+  uri:
+  - https://github.com/ezmobius/ez-scheme
+  tags:
+  - language
+  - programming
+  - rubinius
+  - software
+  - virtual machine
+  license:
+  - public domain
+  license_reference:
+  - https://github.com/ezmobius/ez-scheme/blob/master/README
+  description:
+  - "This is a simple educational scheme interpreter that runs on ruby 1.9.* or rubinius.  Source code is easy to read and understand."
+Lupin:
+  uri:
+  - https://github.com/twisol/lupin
+  tags:
+  - language
+  - lua
+  - programming
+  - rubinius
+  - software
+  - virtual machine
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/Twisol/lupin/blob/master/lupin.gemspec
+  description:
+  - Lupin is an implementation of Lua for the Rubinius VM.
+Noscript:
+  uri:
+  - https://github.com/txus/noscript
+  tags:
+  - language
+  - noscript
+  - programming
+  - rubinius
+  - software
+  - virtual machine
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/txus/noscript/blob/master/Readme.md
+  description:
+  - Noscript is an object-oriented, prototype-based language inspired by JavaScript, CoffeeScript, Self, IO, and our beloved Ruby.
+Pegarus:
+  uri:
+  - https://github.com/brixen/pegarus
+  tags:
+  - lpeg
+  - programming
+  - rubinius
+  - software
+  - virtual machine
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/brixen/pegarus/blob/master/LICENSE
+  description:
+  - Pegarus is, broadly, an implementation of LPEG on Rubinius. LPEG implements a Parsing Expression Grammar using a parsing machine rather than the Packrat algorithm.
+Poison:
+  uri:
+  - https://github.com/brixen/poison
+  tags:
+  - language
+  - poison
+  - programming
+  - rubinius
+  - software
+  - virtual machine
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/brixen/poison/blob/master/LICENSE
+  description:
+  - Poison is an interpretation of Potion on the Rubinius language platform.
+Rasp:
+  uri:
+  - https://github.com/matthewd/rasp
+  tags:
+  - language
+  - programming
+  - rubinius
+  - software
+  - vbscript
+  - virtual machine
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/matthewd/rasp/blob/master/LICENSE
+  description:
+  - Rasp is an implementation of VBScript running on the Rubinius VM.  It is "untested, undocumented, and ill-advised".
+Syme:
+  uri:
+  - https://github.com/brixen/syme
+  tags:
+  - language
+  - newspeak
+  - programming
+  - rubinius
+  - software
+  - smalltalk
+  - virtual machine
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/brixen/syme/blob/master/LICENSE
+  description:
+  - Syme is an implementation of Newspeak on the Rubinius VM.  Newspeak is a programming language in the Smalltalk/Self tradition.
+Typhon:
+  uri:
+  - http://vic.github.io/typhon/
+  tags:
+  - language
+  - programming
+  - python
+  - rubinius
+  - software
+  - virtual machine
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/vic/typhon/blob/master/LICENSE
+  description:
+  - Typhon is twisted Python, a Python implementation for the Rubinius VM, "just for fun".
+Ghost:
+  uri:
+  - https://ghost.org/
+  tags:
+  - blog
+  - cms
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/TryGhost/Ghost/blob/master/LICENSE
+  description:
+  - Ghost is a simple, powerful publishing platform that allows you to share your stories with the world.
+Demoncrypt:
+  uri:
+  - https://github.com/eijah/demoncrypt
+  tags:
+  - cryptography
+  - privacy
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/eijah/demoncrypt/blob/master/LICENSE.md
+  description:
+  - Demoncrypt is a lightweight C++ wrapper around some of the more common crypto routines in Crypto++.  It is the open source crypto layer used in the closed source demonsaw privacy tool.
+sent:
+  uri:
+  - http://tools.suckless.org/sent/
+  tags:
+  - presentation
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://git.suckless.org/sent/tree/LICENSE
+  description:
+  - The sent project provides a simple, plaintext presentation tool, with images optionally provided by farbfeld.
+farbfeld:
+  uri:
+  - http://tools.suckless.org/farbfeld/
+  tags:
+  - farbfeld
+  - file format
+  - image
+  - software
+  license:
+  - ISC License
+  license_reference:
+  - http://git.suckless.org/farbfeld/tree/LICENSE
+  description:
+  - The farbfeld project provides a lossless image format, easily parsed, piped, and compressed.
+go.farbfeld:
+  uri:
+  - https://github.com/hullerob/go.farbfeld
+  tags:
+  - farbfeld
+  - file format
+  - golang
+  - image
+  - software
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/hullerob/go.farbfeld/blob/master/LICENSE
+  description:
+  - This project provides a Go implementation of the farbfeld image format.  It uses Go's image interface, similar to image/png.
+CMU Common Lisp:
+  uri:
+  - http://www.cons.org/cmucl/
+  tags:
+  - common lisp
+  - compiler
+  - language
+  - lisp
+  - programming
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://gitlab.common-lisp.net/cmucl/cmucl/blob/master/src/general-info/COPYRIGHTS
+  description:
+  - CMUCL is a high-performance, free Common Lisp implementation that runs on most major Unix platforms.
+ngspice:
+  uri:
+  - http://ngspice.sourceforge.net/
+  tags:
+  - circuit analysis
+  - contaminated
+  - simulator
+  - software
+  license:
+  - Revised BSD License + public domain + MIT variant licene + LGPL
+  license_reference:
+  - http://sourceforge.net/p/ngspice/ngspice/ci/master/tree/COPYING
+  description:
+  - Ngspice is a mixed-level/mixed-signal circuit simulator.
+OpenRC:
+  uri:
+  - https://wiki.gentoo.org/wiki/Project:OpenRC
+  tags:
+  - init system
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/OpenRC/openrc/blob/master/LICENSE
+  description:
+  - OpenRC is a dependency-based init system that works with the system-provided init program, normally /sbin/init.
+aewm:
+  uri:
+  - http://www.red-bean.com/decklin/aewm/
+  tags:
+  - floating
+  - software
+  - window manager
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://freecode.com/projects/aewm
+  description:
+  - "This is a modern, minimal window manager for X11. It is controlled entirely with the mouse, but contains no visible UI apart from window frames. The command set is sort of like vi: designed back in the dawn of time (1997), to squeeze speed out of low-memory machines, completely unintuitive and new-user-hostile, but quick and elegant in its own way."
+Lumina:
+  uri:
+  - http://lumina-desktop.org/
+  tags:
+  - desktop environment
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/pcbsd/lumina/blob/master/LICENSE
+  description:
+  - The Lumina Desktop Environment is a lightweight system interface that is designed for use on any Unix-like operating system. It takes a plugin-based approach, allowing the entire interface to be assembled/arranged by each individual user as desired, with a system-wide default layout which was setup by the  system administrator.
+nosh:
+  uri:
+  - http://homepage.ntlworld.com./jonathan.deboynepollard/Softwares/nosh.html
+  tags:
+  - init system
+  - software
+  license:
+  - ISC License
+  - MIT/X11 License
+  - Simplified BSD License
+  license_reference:
+  - http://homepage.ntlworld.com./jonathan.deboynepollard/Softwares/nosh.html
+  description:
+  - The nosh package is a suite of system-level utilities for initializing and running a BSD or Linux system, for managing daemons, for managing terminals, and for managing logging.
+Read The Docs:
+  uri:
+  - https://readthedocs.org/
+  tags:
+  - documentation
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/rtfd/readthedocs.org/blob/master/LICENSE.mit
+  description:
+  - Read the Docs hosts documentation, making it fully searchable and easy to find.
+recommonmark:
+  uri:
+  - http://recommonmark.readthedocs.org/en/latest/
+  tags:
+  - library
+  - markdown
+  - parser
+  - software
+  - utility
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/rtfd/recommonmark/blob/master/license.md
+  description:
+  - As a Docutils compatibility bridge for CommonMark, recommonmark is a Markdown parser library.
+Up1:
+  uri:
+  - https://up1.ca/
+  tags:
+  - network
+  - software
+  - uploader
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/Upload/Up1
+  description:
+  - Up1 is a simple host that client-side encrypts images, text, and other data, and stores them, with the server knowing nothing about the contents. It has the ability to view images, text with syntax highlighting, short videos, and arbitrary binaries as downloadables.
+World Citizenship:
+  uri:
+  - https://github.com/MrChrisJ/World-Citizenship
+  tags:
+  - citizenship
+  - cryptography
+  - culture
+  - decentralized
+  - documentation
+  - passport
+  license:
+  - CC0
+  license_reference:
+  - https://github.com/MrChrisJ/World-Citizenship/blob/master/LICENSE
+  description:
+  - The World Citizenship project offers tools for managing globally orientated citizenship with private passport services using available cryptographic tools.
+Rocket.Chat:
+  uri:
+  - https://rocket.chat/
+  tags:
+  - chat
+  - helpdesk
+  - messaging
+  - software
+  - team integration
+  - videoconference
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/RocketChat/Rocket.Chat/blob/develop/LICENSE
+  description:
+  - From group messages and video calls all the way to helpdesk killer features, Rocket.Chat's goal is to become the number one cross-platform open source chat solution.
+fractal cells:
+  uri:
+  - http://www.fractalcells.com/
+  tags:
+  - configuration management
+  - deployment
+  - development
+  - server
+  - software
+  - virtualization
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/fractalcells/fractalcells/blob/master/LICENSE
+  description:
+  - The fractal cells project provides a componentized, complete hosting and deployment solution for common software infrastructure, running on FreeBSD.
+Capistrano:
+  uri:
+  - http://capistranorb.com/
+  tags:
+  - automation
+  - configuration management
+  - deployment
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/capistrano/capistrano/blob/master/LICENSE.txt
+  description:
+  - Capistrano is a remote server automation and deployment tool written in Ruby, though it can easily be used to deploy software written in any language.
+NOC:
+  uri:
+  - https://kb.nocproject.org/display/SITE/NOC
+  tags:
+  - automation
+  - configuration management
+  - deployment
+  - service management
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://kb.nocproject.org/display/SITE/License
+  description:
+  - NOC is the scalable, high-performance and open-source OSS system for ISP, service and content providers.
+radmind:
+  uri:
+  - http://rsug.itd.umich.edu/software/radmind/
+  - https://sourceforge.net/projects/radmind/
+  tags:
+  - automation
+  - configuration management
+  - software
+  - unix
+  license:
+  - RSUG License
+  license_reference:
+  - http://rsug.itd.umich.edu/software/copyright.html
+  description:
+  - The radmind project provides a suite of Unix command-line tools and a server designed to remotely administer the file systems of multiple Unix machines.
+Java-Quickstart:
+  uri:
+  - https://bitbucket.org/marshallpierce/java-quickstart
+  tags:
+  - java
+  - software
+  license:
+  - COIL
+  license_reference:
+  - https://bitbucket.org/marshallpierce/java-quickstart/src/master/LICENSE
+  description:
+  - This project will get you up to speed with a grown-up project structure for your Java application.
+OpenBazaar Server:
+  uri:
+  - https://openbazaar.org/
+  tags:
+  - cryptocurrency
+  - distributed
+  - server
+  - networking
+  - openbazaar
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/OpenBazaar/OpenBazaar-Server/blob/master/LICENSE
+  description:
+  - The OpenBazaar networking demon can be used to access the OpenBazaar P2P network.
+OpenBazaar Client:
+  uri:
+  - https://openbazaar.org/
+  tags:
+  - client
+  - cryptocurrency
+  - networking
+  - openbazaar
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/OpenBazaar/OpenBazaar-Client
+  description:
+  - The OpenBazaar client is a front-end Electron application for talking with the OpenBazaar-Server daemon.
+OpenBazaar Connector:
+  uri:
+  - https://openbazaar.org/
+  tags:
+  - cryptocurrency
+  - development
+  - javascript
+  - networking
+  - openbazaar
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/OpenBazaar/openbazaar-connector/blob/master/package.json
+  description:
+  - OpenBazaar Connector is a software development kit for connecting to the OpenBazaar websocket.
+OpenBazaar Installer:
+  uri:
+  - https://openbazaar.org/
+  tags:
+  - cryptocurrency
+  - installer
+  - networking
+  - openbazaar
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/OpenBazaar/OpenBazaar-Installer/blob/master/LICENSE
+  description:
+  - OpenBazaar Installer provides the scripts necessary to create binary distributions for different operating systems, with the goal of a one-step build process.
+TOML:
+  uri:
+  - https://github.com/toml-lang/toml
+  tags:
+  - configuration
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/toml-lang/toml/blob/master/LICENSE
+  description:
+  - TOML (Tom's Obvious, Minimal Language) aims to be a minimal configuration file format that's easy to read due to obvious semantics. TOML is designed to map unambiguously to a hash table. TOML should be easy to parse into data structures in a wide variety of languages.
+OpenToonz:
+  uri:
+  - http://www.toonz.com/
+  tags:
+  - animation
+  - software
+  - video
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/opentoonz/opentoonz/blob/master/LICENSE.txt
+  description:
+  - OpenToonz is an open source, professional digital video and animation system.
+libucl:
+  uri:
+  - https://github.com/vstakhov/libucl
+  tags:
+  - configuration
+  - library
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/vstakhov/libucl/blob/master/COPYING
+  description:
+  - UCL (universal configuration language) is a JSON-compatible software configuration language, and libucl is its implementation.
+uclcmd:
+  uri:
+  - https://github.com/allanjude/uclcmd
+  tags:
+  - cli
+  - configuration
+  - software
+  - utility
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/allanjude/uclcmd/blob/master/LICENSE
+  description:
+  - The uclcmd project provides a command line tool for working with UCL config files, with a syntax somewhat compatible with jq.
+jq:
+  uri:
+  - http://stedolan.github.io/jq/
+  tags:
+  - cli
+  - json
+  - serialization
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/stedolan/jq/blob/master/COPYING
+  description:
+  - The jq project provides a lightweight and flexible command-line JSON processor.
+iocage:
+  uri:
+  - http://iocage.readthedocs.org/en/latest/
+  tags:
+  - cli
+  - configuration management
+  - deployment
+  - freebsd jails
+  - software
+  - virtualization
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/iocage/iocage/blob/master/LICENSE
+  description:
+  - The iocage project provides a "zero dependency" (notably excepting ZFS) drop in jail/container manager amalgamating some of the best features and technologies the FreeBSD operating system has to offer.
+ezjail:
+  uri:
+  - http://erdgeist.org/arts/software/ezjail/
+  tags:
+  - cli
+  - configuration management
+  - deployment
+  - freebsd jails
+  - software
+  - virtualization
+  license:
+  - ezjail beerware license
+  license_reference:
+  - https://erdgeist.org/beerware.html
+  description:
+  - The ezjail project provides a "zero dependency" FreeBSD Jail management framework with optional ZFS integration that saves storage space, inodes, and administrative overhead, and even memory usage via its "basejail" capability.
+Redox:
+  uri:
+  - http://www.redox-os.org/
+  tags:
+  - os
+  - rust
+  - software
+  - unix
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/redox-os/redox/blob/master/LICENSE.md
+  description:
+  - Redox is a Unix-like Operating System written in Rust, aiming to bring the innovations of Rust to a modern microkernel and full set of applications.
+vis:
+  uri:
+  - https://github.com/martanne/vis
+  tags:
+  - console
+  - editor
+  - software
+  - vi
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/martanne/vis/blob/master/LICENSE
+  description:
+    - Vis aims to be a modern, legacy free, simple, efficient vim-like editor.  It extends vim's modal editing with built-in support for multiple cursors/selections and combines it with sam's structural regular expression based command language.
+Mono:
+  uri:
+  - http://www.mono-project.com/
+  tags:
+  - framework
+  - mono
+  - programming
+  - software
+  - virtual machine
+  license:
+  - MIT/X11 License
+  - https://github.com/mono/mono/blob/master/LICENSE
+  license_reference:
+  - http://www.mono-project.com/docs/faq/licensing/
+  description:
+  - Mono is a software platform designed to allow developers to easily create cross platform applications.  It is an open source implementation of Microsoft's .NET Framework based on the ECMA standards for C# and the Common Language Runtime.
+Bro:
+  uri:
+  - https://www.bro.org/
+  tags:
+  - framework
+  - monitoring
+  - network
+  - security
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/bro/bro/blob/master/COPYING
+  description:
+  - Bro is a powerful network analysis framework that provides a comprehensive platform for more general network traffic analysis as well.
+mucks:
+  uri:
+  - https://github.com/zserge/mucks
+  tags:
+  - session manager
+  - software
+  - terminal multiplexer
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/zserge/mucks/blob/master/LICENSE
+  description:
+  - The mucks project provides a tiny terminal session manager for tmux, GNU Screen, and DVTM.
+tmuxinator:
+  uri:
+  - https://github.com/tmuxinator/tmuxinator
+  tags:
+  - session manager
+  - software
+  - terminal multiplexer
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/tmuxinator/tmuxinator/blob/master/LICENSE
+  description:
+  - The tmuxinator project helps users manage complex tmux sessions easily.
+abduco:
+  uri:
+  - http://www.brain-dump.org/projects/abduco/
+  tags:
+  - session manager
+  - software
+  license:
+  - ISC License
+  license_reference:
+  - http://repo.or.cz/w/abduco.git/blob_plain/HEAD:/LICENSE
+  description:
+  - The abduco project provides session management, for terminal attach/detach operations, in a lightweight package without multiplexing.
+st:
+  uri:
+  - http://st.suckless.org
+  tags:
+  - software
+  - terminal emulator
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://git.suckless.org/st/tree/LICENSE
+  description:
+  - The st project provides a simple terminal emulator implementation for X.
+ied:
+  uri:
+  - http://gugel.io/ied/
+  tags:
+  - javascript
+  - package manager
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/alexanderGugel/ied/blob/master/LICENSE.md
+  description:
+  - Like npm (but faster), ied is a package manager for Node.
+Sly:
+  uri:
+  - https://github.com/Haar/Sprintly-Terminal
+  tags:
+  - cli
+  - client
+  - network
+  - project management
+  - software
+  - todo list
+  license:
+  - CC0
+  license_reference:
+  - https://github.com/Haar/Sprintly-Terminal/blob/master/sly.gemspec
+  - https://github.com/Haar/Sprintly-Terminal/blob/master/README.md
+  description:
+  - Sly is a nice terminal interface for the Sprint.ly task management tool.
+JS-IPFS:
+  uri:
+  - https://github.com/ipfs/js-ipfs
+  tags:
+  - ipfs
+  - javascript
+  - network
+  - protocol
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/ipfs/js-ipfs/blob/master/LICENSE
+  description:
+  - JS-IPFS is a JavaScript implementation of IPFS, a global, versioned, peer-to-peer filesystem.
+git-remote-ipfs:
+  uri:
+  - https://github.com/cryptix/git-remote-ipfs
+  tags:
+  - ipfs
+  - network
+  - protocol
+  - software
+  - dvcs
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/cryptix/git-remote-ipfs/blob/master/LICENSE
+  description:
+  - This project provides a "native" Git protocol helper to push and pull Git repositories over IPFS.
+ipfs-chrome-extension:
+  uri:
+  - https://github.com/dylanPowers/ipfs-chrome-extension
+  tags:
+  - ipfs
+  - network
+  - protocol
+  - software
+  - web
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/dylanPowers/ipfs-chrome-extension/blob/master/LICENSE
+  description:
+  - This project provides IPFS gateway redirection in a Google Chrome extension.
+ipfs-firefox-addon:
+  uri:
+  - https://addons.mozilla.org/en-US/firefox/addon/ipfs-gateway-redirect/
+  tags:
+  - ipfs
+  - network
+  - protocol
+  - software
+  - web
+  license:
+  - CC0
+  license_reference:
+  - https://github.com/lidel/ipfs-firefox-addon/blob/master/LICENSE
+  description:
+  - This project provides a Firefox addon for transparent access to IPFS resources via local HTTP2IPFS gateway.
+ipfs-chrome-station:
+  uri:
+  - https://github.com/xicombd/ipfs-chrome-station
+  tags:
+  - ipfs
+  - network
+  - protocol
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/xicombd/ipfs-chrome-station/blob/master/LICENSE
+  description:
+  - This project provides a Chrome extension that lets you access IPFS urls seamlessly from your local IPFS node.
+ipfs-paste:
+  uri:
+  - https://github.com/jbenet/ipfs-paste
+  tags:
+  - cli
+  - ipfs
+  - network
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/jbenet/ipfs-paste/blob/master/LICENSE
+  description:
+  - This project provides a command line utility for pasting from STDIN or a clipboard to IPFS.
+ipfs-screencap:
+  uri:
+  - https://github.com/jbenet/ipfs-screencap
+  tags:
+  - cli
+  - ipfs
+  - network
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/jbenet/ipfs-screencap/blob/master/LICENSE
+  description:
+  - This project provides two utilities, ipfs-screencap, which takes a screenshot and publishes it to IPFS, and portable-screencap, which takes a screenshot and passes it to STDOUT.
+orbit:
+  uri:
+  - https://github.com/haadcode/orbit
+  tags:
+  - distributed
+  - chat
+  - ipfs
+  - network
+  - protocol
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/haadcode/orbit/blob/master/LICENSE
+  description:
+  - Orbit is a distributed, peer-to-peer chat application built on IPFS.  All content (messages, files, metadata) are saved in IPFS as files or objects.
+ipscend:
+  uri:
+  - https://github.com/diasdavid/ipscend
+  tags:
+  - distributed
+  - ipfs
+  - network
+  - protocol
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/diasdavid/ipscend/blob/master/LICENSE
+  description:
+  - This project provides a quick and simple deploy tool to host native web applications and static web pages in IPFS.
+markup.rocks:
+  uri:
+  - https://github.com/davidar/markup.rocks
+  tags:
+  - ipfs
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/davidar/markup.rocks/blob/master/LICENSE
+  description:
+  - This project provides a (Pandoc-based) client-side application that lets you edit, preview, and convert between documents written in various markup languages in your browser.
+hydrus:
+  uri:
+  - http://hydrusnetwork.github.io/hydrus/
+  tags:
+  - client
+  - distributed
+  - ipfs
+  - software
+  - web
+  license:
+  - WTFPL
+  license_reference:
+  - https://github.com/hydrusnetwork/hydrus/blob/master/COPYING
+  description:
+  - The hydrus network client is an application written for anon and other internet-fluent media nerds who have large image/swf collections.  It browses with tags instead of folders, a little like a *booru on your desktop.  Tags and files can be anonymously shared through custom servers that any user may run.
+git-ipfs-rehost:
+  uri:
+  - https://github.com/whyrusleeping/git-ipfs-rehost
+  tags:
+  - ipfs
+  - network
+  - protocol
+  - software
+  - dvcs
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/whyrusleeping/git-ipfs-rehost/blob/master/LICENSE
+  description:
+  - This project provides a way to statically host your git repos in ipfs.
+Boards:
+  uri:
+  - https://ipfs.io/ipns/boards.ydns.eu/
+  tags:
+  - distributed
+  - ipfs
+  - network
+  - social
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/fazo96/ipfs-boards/blob/master/LICENSE
+  description:
+  - Boards is a truly distributed social platform for users that care about controlling their data, with no backend and no external applications required.
+WebTorrent:
+  uri:
+  - https://webtorrent.io/
+  tags:
+  - bittorrent
+  - client
+  - network
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/feross/webtorrent/blob/master/LICENSE
+  description:
+  - WebTorrent is a streaming torrent client for the browser.  It's written completely in JavaScript – the language of the web – and uses WebRTC for true peer-to-peer transport. No browser plugins, extensions, or installation is required.
+WebTorrent Desktop:
+  uri:
+  - https://webtorrent.io/desktop
+  tags:
+  - bittorrent
+  - client
+  - gui
+  - network
+  - software
+  - streaming
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/feross/webtorrent-desktop/blob/master/LICENSE
+  description:
+  - WebTorrent Desktop is a cross-platform, fast, free, totally open source desktop streaming torrent client that can talk to both BitTorrent and WebTorrent peers.
+Dat:
+  uri:
+  - http://dat-data.com/
+  tags:
+  - cli
+  - deduplication
+  - distributed
+  - dvcs
+  - gui
+  - library
+  - network
+  - software
+  - storage
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/maxogden/dat/blob/master/LICENSE
+  description:
+  - Dat is an open source, decentralized data tool for distributing datasets small and large, inspired by the best parts of Git and BitTorrent.
+Uebergame:
+  uri:
+  - http://duion.com/games/uebergame/main
+  tags:
+  - game
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/Duion/Uebergame
+  description:
+  - Uebergame is a free, open source, casual, multiplayer first-person shooter based on the Torque3D engine.
+Torque3D:
+  uri:
+  - http://torque3d.org/
+  tags:
+  - game
+  - library
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/Duion/Torque3D
+  description:
+  - Torque3D is a well-tested, constantly evolving, open source, 3D, C++ game engine.
+OpenClonk:
+  uri:
+  - http://www.openclonk.org/
+  tags:
+  - game
+  - library
+  - software
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/openclonk/openclonk/blob/master/COPYING
+  description:
+  - OpenClonk is a free multiplayer action game in which you control clonks, small but witty and nimble humanoid beings.  The game is mainly about mining, settling and fast-paced melees.  It is not just a game, but also a versatile 2D game engine that allows the creation of mods.  It is the successor of the shareware game series Clonk and thus inherits many of its features.
+Craft:
+  uri:
+  - https://www.michaelfogleman.com/craft/
+  tags:
+  - game
+  - library
+  - network
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/fogleman/Craft/blob/master/LICENSE.md
+  description:
+  - Craft is a Minecraft clone for Windows, Mac OS X and Linux. It is written in just a few thousand lines of C and uses modern OpenGL (shaders). Online multiplayer support is included using a Python-based server.
+Patent Blaster:
+  uri:
+  - https://zarkonnen.itch.io/patent-blaster
+  tags:
+  - game
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/Zarkonnen/PatentBlaster
+  description:
+  - 'Patent Blaster is a sidescrolling explodey kind of game based on awful patent art come to life. Your mission: invalidate those patents using any means necessary.'
+wifiportal21:
+  uri:
+  - https://github.com/aantonop/wifiportal21
+  tags:
+  - bitcoin
+  - network
+  - software
+  - wifi
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/aantonop/wifiportal21/blob/master/LICENSE
+  description:
+  - This project provides a wifi captive portal that accepts bitcoin payments for wifi minutes.
+irc.c:
+  uri:
+  - http://c9x.me/irc/
+  tags:
+  - client
+  - irc
+  - network
+  - software
+  license:
+  - public domain
+  license_reference: []
+  description:
+  - This project provides an IRC client designed only to be usable in a tmux session on remote servers.  It was designed with simplicity in mind, yet it is complete enough to fulfill at least minimal usability constraints.
+noice:
+  uri:
+  - http://git.2f30.org/noice/
+  - http://git.2f30.org/noice/file/README.html
+  tags:
+  - console
+  - file management
+  - software
+  - utility
+  license:
+  - Simplified BSD License
+  license_reference:
+  - http://git.2f30.org/noice/file/LICENSE.html
+  description:
+  - This project provides a small curses-based file browser, initially developed for use with a TV remote control for a media center system.
+Let's Chat:
+  uri:
+  - http://sdelements.github.io/lets-chat/
+  tags:
+  - chat
+  - messaging
+  - network
+  - software
+  - team integration
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/sdelements/lets-chat/blob/master/LICENSE
+  description:
+  - Let's Chat is a persistent messaging application that runs on Node.js and MongoDB. It's designed to be easily deployable and fits well with small, intimate teams.
+Nothing To Hide:
+  uri:
+  - http://www.nothingtohide.cc/
+  tags:
+  - game
+  - software
+  license:
+  - CC0
+  license_reference:
+  - https://github.com/ncase/nothing-to-hide/blob/master/LICENSE
+  description:
+  - Nothing To Hide is an "anti-stealth" game where you are forced to help in your own surveillance.  The puzzles are challenging but fair, with depth in a deceptively simple mechanic, similar to games such as Braid and Portal.  It's a story of a teenage girl riddled with insecurity in a world obsessed with security.  She's never had a private thought.  If you can't hide who you are . . . you have to hide who you really are.
+Hubzilla:
+  uri:
+  - http://hubzilla.org/
+  tags:
+  - authentication
+  - distributed
+  - network
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/redmatrix/hubzilla/blob/master/LICENSE
+  description:
+  - Hubzilla is a powerful platform for creating interconnected websites featuring a decentralized identity, communications, and permissions framework built using common webserver technology.
+RocAlphaGo:
+  uri:
+  - https://github.com/Rochester-NRT/RocAlphaGo
+  - https://github.com/Rochester-NRT/RocAlphaGo/wiki/01.-Home
+  tags:
+  - game
+  - neural network
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/Rochester-NRT/RocAlphaGo/blob/develop/LICENSE
+  description:
+  - RocAlphaGo is an independent, student-led replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search".
+GoAccess:
+  uri:
+  - https://goaccess.io/
+  tags:
+  - logging
+  - software
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/allinurl/goaccess/blob/master/COPYING
+  description:
+  - 'GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.  It provides fast and valuable HTTP statistics for system administrators that require a visual server report on the fly.'
+OpenSMTPD:
+  uri:
+  - https://www.opensmtpd.org/
+  tags:
+  - email
+  - server
+  - smtp
+  - software
+  license:
+  - ISC License
+  license_reference:
+  - https://svnweb.freebsd.org/ports/head/mail/opensmtpd/Makefile?view=markup
+  description:
+  - OpenSMTPD is a FREE implementation of the server-side SMTP protocol as defined by RFC 5321, with some additional standard extensions. It allows ordinary machines to exchange emails with other systems speaking the SMTP protocol.
+djbdns:
+  uri:
+  - http://cr.yp.to/djbdns.html
+  tags:
+  - dns
+  - network
+  - server
+  - software
+  license:
+  - public domain
+  license_reference:
+  - http://cr.yp.to/distributors.html
+  description:
+  - The djbdns software package is a DNS implementation created by Daniel J. Bernstein.
+daemontools:
+  uri:
+  - http://cr.yp.to/daemontools.html
+  tags:
+  - daemon
+  - software
+  - unix
+  license:
+  - public domain
+  license_reference:
+  - http://cr.yp.to/distributors.html
+  description:
+  - The daemontools software package is a collection of tools for managing UNIX services.
+ucspi-tcp:
+  uri:
+  - http://cr.yp.to/ucspi-tcp.html
+  tags:
+  - network
+  - software
+  license:
+  - public domain
+  license_reference:
+  - http://cr.yp.to/distributors.html
+  description:
+  - The ucspi-tcp package provides a number of simple network tools for Unix-like systems, notably including tcpserver and tcpclient.
+Gogs:
+  uri:
+  - https://gogs.io/
+  tags:
+  - dvcs
+  - network
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/gogits/gogs/blob/master/LICENSE
+  description:
+  - Gogs provides a painless self-hosted Git service.
+Visual Studio Code:
+  uri:
+  - https://code.visualstudio.com/
+  tags:
+  - editor
+  - ide
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/Microsoft/vscode/blob/master/LICENSE.txt
+  description:
+  - VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.  Code provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools.
+nuttX:
+  uri:
+  - http://www.nuttx.org/
+  tags:
+  - contaminated
+  - os
+  - rtos
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://bitbucket.org/nuttx/nuttx/src/master/COPYING
+  description:
+  - NuttX is a real-time operating system (RTOS) with an emphasis on standards compliance and small footprint.  Scalable from 8-bit to 32-bit microcontroller environments, the primary governing standards in NuttX are Posix and ANSI standards.  Additional standard APIs from Unix and other common RTOS's (such as VxWorks) are adopted for functionality not available under these standards, or for functionality that is not appropriate for deeply-embedded environments (such as fork()).
+darkforestGo:
+  uri:
+  - https://github.com/facebookresearch/darkforestGo
+  tags:
+  - game
+  - neural network
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/facebookresearch/darkforestGo/blob/master/LICENSE
+  description:
+  - DarkForest is a Go game engine powered by Deep Learning and developed at Facebook AI Research.
+KGS Leben:
+  uri:
+  - https://github.com/stephenmartindale/kgs-leben
+  tags:
+  - client
+  - game
+  - go
+  - network
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/stephenmartindale/kgs-leben/blob/master/LICENSE
+  description:
+  - KGS Leben is a client for the KGS Go Server, written for modern, standards-compliant web browsers such as Chrome, Firefox and Microsoft Edge.  It connects to the server via the JSON API for KGS.
+picoc:
+  uri:
+  - https://github.com/zsaleeba/picoc
+  tags:
+  - c
+  - compiler
+  - language
+  - programming
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/zsaleeba/picoc/blob/master/README
+  description:
+  - PicoC is a very small C interpreter for scripting.  It was originally written as a scripting language for a UAV's on-board flight system.  It's also very suitable for other robotic, embedded, and non-embedded applications.
+SOCI:
+  uri:
+  - http://soci.sourceforge.net/
+  tags:
+  - c++
+  - library
+  - software
+  license:
+  - Boost License v1.0
+  license_reference:
+  - https://github.com/SOCI/soci/blob/master/LICENSE_1_0.txt
+  description:
+  - SOCI is a database access library for C++ that the illusion of embedding SQL queries in regular C++ code, staying entirely within Standard C++.
+libtomcrypt:
+  uri:
+  - http://www.libtom.net/
+  tags:
+  - cryptography
+  - library
+  - software
+  license:
+  - public domain
+  - WTFPL
+  license_reference:
+  - https://github.com/libtom/libtomcrypt/blob/develop/LICENSE
+  description:
+  - LibTomCrypt is a fairly comprehensive, modular and portable cryptographic toolkit that provides developers with a vast array of well known published block ciphers, one-way hash functions, chaining modes, pseudo-random number generators, public key cryptography and a plethora of other routines.
+calccrypto/OpenPGP:
+  uri:
+  - https://github.com/calccrypto/OpenPGP
+  tags:
+  - cryptography
+  - encryption
+  - openpgp
+  - privacy
+  - security
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/calccrypto/OpenPGP/blob/master/LICENSE
+  description:
+  - This calccrypto implementation of OpenPGP is a toy/educational implementation of the RFC 4880 standard.
+libcpu:
+  uri:
+  - https://github.com/libcpu/libcpu
+  tags:
+  - library
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/libcpu/libcpu/blob/master/LICENSE.txt
+  description:
+  - The libcpu project provides an open source library that emulates several CPU architectures, allowing itself to be used as the CPU core for different kinds of emulator projects.  It uses its own frontends for the different CPU types, and uses LLVM for the backend.
+Wren:
+  uri:
+  - http://wren.io/
+  tags:
+  - language
+  - programming
+  - software
+  - virtual machine
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/munificent/wren/blob/master/LICENSE
+  description:
+  - Wren is like Smalltalk in a Lua-sized package with a dash of Erlang and wrapped up in a familiar, modern syntax.
+Godot:
+  uri:
+  - https://godotengine.org/
+  tags:
+  - game
+  - language
+  - programming
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/godotengine/godot/blob/master/LICENSE.md
+  description:
+  - Godot is a fully featured, open source, copyfree licensed game engine.  It focuses on having great tools and a visual oriented workflow that can export to PC, Mobile, and Web platforms with no hassle.  The editor, language, and APIs are feature rich, yet simple to learn, allowing you to become productive in a matter of hours.
+s6:
+  uri:
+  - http://skarnet.org/software/s6/
+  tags:
+  - init system
+  - software
+  license:
+  - ISC License
+  license_reference:
+  - http://git.skarnet.org/cgi-bin/cgit.cgi/s6/tree/COPYING
+  description:
+  - Skarnet's Small Supervision Suite, s6, is a small suite of programs for UNIX, designed to allow process supervision (a.k.a service supervision), in the line of daemontools and runit, as well as various operations on processes and daemons.
+runit:
+  uri:
+  - http://smarden.org/runit/
+  tags:
+  - init system
+  - software
+  license:
+  - Revised BSD License
+  license_reference:
+  - http://smarden.org/runit/faq.html
+  description:
+  - The runit package is a cross-platform Unix init scheme with service supervision -- a replacement for sysvinit and other init schemes.
+Micro:
+  uri:
+  - https://github.com/zyedidia/micro
+  tags:
+  - console
+  - editor
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/zyedidia/micro/blob/master/LICENSE
+  description:
+  - Micro is a terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals. It comes as one single, batteries-included, static binary with no dependencies, and you can download and use it right now.
+lbry:
+  uri:
+  - https://lbry.io/
+  tags:
+  - decentralized
+  - network
+  - software
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/lbryio/lbry/blob/master/LICENSE
+  description:
+  - LBRYnet is a fully decentralized network for distributing data. It consists of peers uploading and downloading data from other peers, possibly in exchange for payments, and a distributed hash table, used by peers to discover other peers.
+Jenkins:
+  uri:
+  - https://jenkins.io/
+  tags:
+  - continuous integration
+  - server
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/jenkinsci/jenkins/blob/master/LICENSE.txt
+  description:
+  - The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project. 
+Electron:
+  uri:
+  - http://electron.atom.io/
+  description:
+  - Electron is a framework for creating native applications with web technologies like JavaScript, HTML, and CSS.  It takes care of the hard parts so you can focus on the core of your application.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/electron/electron/blob/master/LICENSE
+  tags:
+  - gui
+  - library
+  - software
+  - toolkit
+  - widgets
+IUP:
+  uri:
+  - http://webserver2.tecgraf.puc-rio.br/iup/
+  description:
+  - IUP is a multi-platform toolkit for building graphical user interfaces.  It offers a simple API in three basic languages: C, Lua and LED.  IUP's purpose is to allow a program source code to be compiled in different systems without any modification.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://webserver2.tecgraf.puc-rio.br/iup/en/copyright.html
+  tags:
+  - gui
+  - library
+  - software
+  - toolkit
+  - widgets
+Tcl/Tk:
+  uri:
+  - https://www.tcl.tk/software/tcltk/
+  description:
+  - Tk is a graphical user interface toolkit that takes developing desktop applications to a higher level than conventional approaches.  Tk is the standard GUI not only for Tcl, but for many other dynamic languages, and can produce rich, native applications that run unchanged across Windows, Mac OS X, Linux and more.
+  license:
+  - Tcl/Tk License
+  license_reference:
+  - http://tcl.tk/software/tcltk/license.html
+  tags:
+  - gui
+  - library
+  - software
+  - toolkit
+  - widgets
+nimx:
+  uri:
+  - https://github.com/yglukhov/nimx
+  description:
+  - Nimx is a cross-platform GUI framework in Nim.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/yglukhov/nimx/blob/master/LICENSE
+  tags:
+  - gui
+  - library
+  - software
+  - toolkit
+  - widgets
+Ultimate++:
+  uri:
+  - http://ultimatepp.org/
+  description:
+  - Ultimate++ is a C++ cross-platform rapid application development framework focused on programmer productivity.  It includes a set of libraries (GUI, SQL, etc.), and an integrated development environment.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - http://ultimatepp.org/app$ide$About$en-us.html
+  tags:
+  - c++
+  - editor
+  - framework
+  - ide
+  - library
+  - software
+Namecoin:
+  uri:
+  - https://www.namecoin.info/
+  description:
+  - Namecoin is an experimental open-source technology which improves decentralization, security, censorship resistance, privacy, and speed of certain components of the Internet infrastructure such as DNS and identities.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/namecoin/namecoin-legacy/blob/namecoinq/COPYING
+  tags:
+  - blockchain
+  - distributed
+  - network
+  - software
+CCN-Lite:
+  uri:
+  - https://github.com/cn-uofbasel/ccn-lite
+  description:
+  - CCN-lite is a reduced and lightweight -- yet functionally interoperable -- implementation of the CCNx and NDN protocols that covers PARC's Content Centric Networking Protocol (both 0.8 and 1.0), the Named-Data Networking project, the Named-Function Networking project, and an experimental and compact encoding for IoT environments.
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/cn-uofbasel/ccn-lite/blob/master/src/ccnl-core.h
+  - https://github.com/cn-uofbasel/ccn-lite/blob/master/README.md
+  tags:
+  - distributed
+  - internet
+  - network
+  - software
+nfn-scala:
+  uri:
+  - https://github.com/cn-uofbasel/nfn-scala
+  description:
+  - This project provides an NFN service layer implementation written in Scala, interfacing iwth and depending on CCN-Lite.  It provides an asynchronous compute environment, a CCN and NFN client library, and a DSL to write lambda calculus programs.  It can also be used to run CCN-Lite directly from Scala and to create a network topology.
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/cn-uofbasel/nfn-scala/blob/master/LICENSE
+  tags:
+  - distributed
+  - internet
+  - jvm
+  - network
+  - software
+scc:
+  uri:
+  - http://git.suckless.org/scc
+  description:
+  - Suckless C Compiler
+  license:
+  - ISC License
+  license_reference:
+  - http://git.suckless.org/scc/tree/LICENSE
+  tags:
+  - compiler
+  - c
+  - language
+  - programming
+  - software
+Myrddin:
+  uri:
+  - http://eigenstate.org/myrddin/
+  description:
+  - Myrddin is a systems programming language that covers a similar niche as C including desktop, OS, and embedded development, but at the same time making it harder to shoot yourself in the foot.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://git.eigenstate.org/ori/mc.git/tree/LICENSE
+  - https://github.com/8l/myrddin/blob/master/LICENSE
+  tags:
+  - compiler
+  - myrddin
+  - language
+  - programming
+  - software
+QBE:
+  uri:
+  - http://c9x.me/compile/
+  description:
+  - QBE aims to be a pure C embeddable backend that provides 70% of the performance of advanced compilers in 10% of the code. Its small size serves both its aspirations of correctness and our ability to understand, fix, and improve it. It also serves its users by providing trivial integration and great flexibility.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://c9x.me/git/?p=qbe.git;a=blob_plain;f=LICENSE;hb=HEAD
+  tags:
+  - compiler
+  - programming
+  - software
+STerm:
+  uri:
+  - https://github.com/flocke/sterm
+  description:
+  - STerm is a minimalistic terminal emulator based on the VTE library.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/flocke/sterm/blob/master/LICENSE
+  tags:
+  - software
+  - terminal emulator
+ProtonMail Web Client:
+  uri:
+  - https://protonmail.com/
+  description:
+  - The ProtonMail Web Client is the official Official AngularJS web client for the ProtonMail secure email service.  ProtonMail also makes use of OpenPGPjs to ensure message crytography is OpenPGP compliant.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/ProtonMail/WebClient/blob/public/license.md
+  tags:
+  - client
+  - email
+  - encryption
+  - network
+  - privacy
+  - software
+Where Are The Eyes?:
+  uri:
+  - https://eyes.daylightingsociety.org/
+  description:
+  - Where Are The Eyes is a program for detecting and mapping surveillance cameras.  Users mark cameras on their phone as they walk past them, and build a shared global map of surveillance.  It is used to help activists in two ways -- to increase awareness of surveillance and authoritarian practices, and to plan activist movements.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/DaylightingSociety/WhereAreTheEyes/blob/master/LICENSE
+  tags:
+  - activism
+  - mapping
+  - mobile
+  - privacy
+  - software
+We Become What We Behold:
+  uri:
+  - https://ncase.itch.io/wbwwb
+  description:
+  - WBWWB is a game about news cycles, vicious cycles, infinite cycles.
+  license:
+  - CC0
+  license_reference:
+  - https://github.com/ncase/wbwwb/blob/master/UNCOPYRIGHT
+  tags:
+  - game
+  - software
+  - web
+PixiJS:
+  uri:
+  - https://github.com/pixijs/pixi.js
+  description:
+  - The aim of PixiJS is to provide a fast, lightweight 2D library that works across all devices.  The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/pixijs/pixi.js/blob/master/LICENSE
+  tags:
+  - graphics
+  - library
+  - software
+  - webgl
+howler.js:
+  uri:
+  - https://howlerjs.com/
+  description:
+  - Howler.js is an audio library for the modern web.  It defaults to Web Audio API and falls back to HTML5 Audio.  This makes working with audio in JavaScript easy and reliable across all platforms.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/goldfire/howler.js/blob/master/LICENSE.md
+  tags:
+  - audio
+  - library
+  - software
+GitLab Community Edition:
+  uri:
+  - https://gitlab.com/gitlab-org
+  description:
+  - GitLab provides tools for modern developers, unifying the Git DVCS, issue tracking, code review tools, continuous integration, and continuous deployment into a single UI.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://gitlab.com/gitlab-org/gitlab-ce/blob/master/LICENSE
+  tags:
+  - dvcs
+  - scm
+  - software
+  - web
+OpenAI Universe:
+  uri:
+  - https://universe.openai.com/
+  description:
+  - Universe is a software platform for evaluating and training intelligent agents across the world’s supply of games, websites, and other applications.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/openai/universe/blob/master/LICENSE
+  tags:
+  - ai
+  - cloud
+  - platform
+  - software
+clither:
+  uri:
+  - https://github.com/TheComet93/clither
+  description:
+  - Implemented in C and Vulkan, clither is a Slither.io implementation.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/TheComet93/clither/blob/master/LICENSE
+  tags:
+  - game
+  - graphics
+  - software
+VulkanSponza:
+  uri:
+  - https://github.com/SaschaWillems/VulkanSponza
+  description:
+  - VulkanSponza is a Vulkan deferred rendering playground using Crytek's Sponza scheme.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/SaschaWillems/VulkanSponza/blob/master/LICENSE.md
+  tags:
+  - graphics
+  - software
+Vulk:
+  uri:
+  - https://github.com/realitix/vulk
+  description:
+  - Vulk is a 3d engine aimed to provide the best graphical experience with Vulkan API.  It is written in Python with C binding and is based on SDL2.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/realitix/vulk/blob/master/LICENSE
+  tags:
+  - game
+  - graphics
+  - software
+Brackets:
+  uri:
+  - http://brackets.io/
+  description:
+  - With focused visual tools and preprocessor support, Brackets is a modern text editor that makes it easy to design in the browser.  It's crafted from the ground up for web designers and front-end developers.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/adobe/brackets/blob/master/LICENSE
+  tags:
+  - editor
+  - software
+  - web
+CONIKS:
+  uri:
+  - https://coniks.cs.princeton.edu/
+  description:
+  - CONIKS is a key management system for end users capable of integration in end-to-end secure communication services.  The main idea is that users should not have to worry about managing encryption keys when they want to communicate securely, but they also should not have to trust their secure communication service providers to act in their interest.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/coniks-sys/coniks-spec/blob/master/LICENSE
+  - https://github.com/coniks-sys/coniks-go/blob/master/LICENSE
+  - https://github.com/coniks-sys/coniks-java/blob/master/LICENSE
+  tags:
+  - encryption
+  - key management
+  - protocol
+  - security
+  - software
+Whiteout Mail:
+  uri:
+  - https://whiteout.io/
+  description:
+  - Whiteout Mail is an easy to use email client with integrated OpenPGP encryption written in pure JavaScript.  It is abandonware, with many forks on GitHub.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/whiteout-io/mail/blob/master/LICENSE.txt
+  tags:
+  - client
+  - email
+  - javascript
+  - network
+  - privacy
+  - security
+  - software
+  - web
+Graymail:
+  uri:
+  - https://github.com/c-f-h/graymail
+  description:
+  - Graymail is an email client for Chrome written in pure JavaScript.  It's based on the now discontinued Whiteout Mail, but without the encryption features of that app.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/c-f-h/graymail/blob/master/LICENSE.txt
+  tags:
+  - client
+  - email
+  - javascript
+  - network
+  - software
+  - web
+Parley:
+  uri:
+  - https://github.com/blackchair/parley
+  description:
+  - Parley was an email service that is intended to make secure email communications more accessible to end-users without requiring a technical background.  Its client and server code are now abandonware.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/blackchair/parley/blob/master/LICENSE.md
+  tags:
+  - client
+  - email
+  - network
+  - privacy
+  - security
+  - server
+  - software
+Mail-in-a-Box:
+  uri:
+  - https://mailinabox.email/
+  description:
+  - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
+  license:
+  - CC0
+  license_reference:
+  - https://github.com/mail-in-a-box/mailinabox/blob/master/LICENSE
+  tags:
+  - email
+  - network
+  - server
+  - software
+PyBitmessage:
+  uri:
+  - https://bitmessage.org/wiki/Main_Page
+  description:
+  - Bitmessage is a trustless, encrypted, P2P communications protocol used to send encrypted messages to another person or to many subscribers.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/Bitmessage/PyBitmessage/blob/master/LICENSE
+  tags:
+  - client
+  - decentralized
+  - distributed
+  - network
+  - privacy
+  - protocol
+  - software
+Universal Encrypted Email Specification:
+  uri:
+  - https://github.com/tomrittervg/uee
+  description:
+  - Universal Email Encryption Specification is a specification for an encryption email solution.
+  license:
+  - Unlicense
+  license_reference:
+  - https://github.com/tomrittervg/uee/blob/master/LICENSE
+  tags:
+  - privacy
+  - security
+  - specification
+secure-email:
+  uri:
+  - https://github.com/OpenTechFund/secure-email
+  description:
+  - There are an increasing number of projects working on next generation secure email or email-like communication, and secure-email is an initial draft report highlighting the projects and comparing the approaches.
+  license:
+  - CC0
+  license_reference:
+  - https://github.com/OpenTechFund/secure-email/blob/master/LICENSE
+  tags:
+  - analysis
+  - documentation
+  - report
+zkc:
+  uri:
+  - https://github.com/companyzero/zkc
+  description:
+  - Zero Knowledge Communications (zkc) is a suite of programs to enable private and secure communications between any number of parties.
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/companyzero/zkc/blob/master/LICENSE
+  tags:
+  - chat
+  - client
+  - encryption
+  - network
+  - privacy
+  - server
+  - software
+Mathematical Mesh:
+  uri:
+  - http://prismproof.org/
+  description:
+  - The Mathematical Mesh is a repository in-the-cloud for configuration data.  Mesh tools pull configurations from the cloud to configure devices with no user effort.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/hallambaker/Mathematical-Mesh/blob/master/LICENSE
+  tags:
+  - configuration management
+  - dotnet
+  - mono
+  - software
+Kakoune:
+  uri:
+  - http://kakoune.org/
+  description:
+  - Kakoune is a Vim-inspired, faster (as in fewer keystrokes), multiple-selection, othogonally designed editor.
+  license:
+  - Unlicense
+  license_reference:
+  - https://github.com/mawww/kakoune/blob/master/UNLICENSE
+  tags:
+  - console
+  - editor
+  - software
+  - vi
+Padrino:
+  uri:
+  - http://padrinorb.com/
+  description:
+  - Padrino is a Ruby web framework built upon the Sinatra web library, created to make it fun and easy to code more advanced web applications while still adhering to the spirit that makes Sinatra great.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/padrino/padrino-framework/blob/master/padrino/LICENSE.txt
+  tags:
+  - dsl
+  - framework
+  - software
+  - web
+Sinatra:
+  uri:
+  - http://www.sinatrarb.com/
+  description:
+  - Sinatra is a classy DSL for quickly creating web applications in Ruby with minimal effort.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/sinatra/sinatra/blob/master/LICENSE
+  tags:
+  - dsl
+  - software
+  - web
+PyJFuzz:
+  uri:
+  - https://github.com/mseclab/PyJFuzz
+  description:
+  - PyJFuzz is a small, extensible, and ready-to-use framework used to fuzz JSON inputs, such as mobile endpoint REST API, JSON implementation, Browsers, cli executable, and much more.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/mseclab/PyJFuzz/blob/master/LICENSE
+  tags:
+  - fuzzer
+  - security
+  - software
+  - testing
+NewsBlur:
+  uri:
+  - https://www.newsblur.com/
+  description:
+  - NewsBlur is a personal news reader that brings people together to talk about the world.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/samuelclay/NewsBlur/blob/master/LICENSE.md
+  tags:
+  - news
+  - software

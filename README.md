@@ -89,7 +89,8 @@ sortable, filterable interface, backed by a PostgeSQL database.
 
 * Yes, we do intend to make the data we use for the new works DB available
   under a copyfree license, possibly even as YAML and/or JSON, though we have
-  not yet really thought much about how we'll do that.
+  not yet really thought much about how we'll do that.  (We intend to provide
+  the entire (new) codebase under a copyfree license, as well.)
 
 [ci]: http://copyfree.org
 [list]: http://copyfree.org/resources/works

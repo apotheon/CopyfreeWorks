@@ -18,7 +18,8 @@ issue.  With that in mind, follow our process.
 
 If you just want some project(s) added to the works list without doing any
 appreciable work, add an issue.  We will get to it whenever we feel like it,
-probably shortly after some higher-priority work.
+probably shortly after some higher-priority work.  The more useful information
+you provide in an issue, the more likely we are to add it to the list quickly.
 
 Process:
 

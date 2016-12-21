@@ -7134,3 +7134,61 @@ SCons:
   tags:
   - build system
   - software
+musl:
+  uri:
+  - http://www.musl-libc.org/
+  description:
+  - The musl project provides a new standard library to power a new generation of Linux-based devices; musl is lightweight, fast, simple, free, and strives to be correct in the sense of standards-conformance and safety.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://git.musl-libc.org/cgit/musl/tree/COPYRIGHT
+  tags:
+  - c
+  - library
+  - software
+  - stdlib
+liblzf:
+  uri:
+  - http://oldhome.schmorp.de/marc/liblzf.html
+  - http://software.schmorp.de/pkg/liblzf.html
+  description:
+  - The musl project provides a new standard library to power a new generation of Linux-based devices; musl is lightweight, fast, simple, free, and strives to be correct in the sense of standards-conformance and safety.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - http://cvs.schmorp.de/liblzf/LICENSE?view=markup
+  tags:
+  - c
+  - compression
+  - library
+  - software
+miniz:
+  uri:
+  - https://github.com/icebreaker/miniz
+  - https://code.google.com/archive/p/miniz/
+  description:
+  - The miniz project provides a lossless, high performance data compression library in a single source file that implements the zlib (RFC 1950) and Deflate (RFC 1951) compressed data format specification standards.
+  license:
+  - Unlicense
+  license_reference:
+  - https://github.com/icebreaker/miniz/blob/master/miniz.c
+  tags:
+  - c
+  - compression
+  - library
+  - software
+XZ Embedded:
+  uri:
+  - http://tukaani.org/xz/embedded.html
+  description:
+  - XZ Embedded is a relatively small decompressor for the .xz file format. It was developed with the Linux kernel in mind, but it is easily usable in other projects too.
+  license:
+  - public domain
+  license_reference:
+  - http://git.tukaani.org/?p=xz-embedded.git;f=COPYING;hb=HEAD
+  tags:
+  - c
+  - compression
+  - library
+  - software

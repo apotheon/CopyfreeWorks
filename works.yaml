@@ -4178,23 +4178,6 @@ hipku:
   - With hipku, you can encode any IP address as a haiku, and decode the haiku
     to recover the IP address.  This can render lengthy, ugly IPv6 addresses in
     prettier, more easily remembered forms.
-miniz:
-  uri:
-  - https://code.google.com/p/miniz/
-  tags:
-  - c
-  - compression
-  - library
-  - software
-  license:
-  - Unlicense
-  license_reference:
-  - https://code.google.com/p/miniz/source/browse/trunk/miniz.c
-  description:
-  - The miniz project provides a lossless, high performance data compression
-    library in a single source file that implements the zlib (RFC 1950) and
-    Deflate (RFC 1951) compressed data format specification standards, plus
-    more related functionality.
 jersey2-metrics:
   uri:
   - https://bitbucket.org/marshallpierce/jersey2-metrics
@@ -7148,12 +7131,12 @@ musl:
   - library
   - software
   - stdlib
-liblzf:
+LibLZF:
   uri:
   - http://oldhome.schmorp.de/marc/liblzf.html
   - http://software.schmorp.de/pkg/liblzf.html
   description:
-  - The musl project provides a new standard library to power a new generation of Linux-based devices; musl is lightweight, fast, simple, free, and strives to be correct in the sense of standards-conformance and safety.
+  - LibLZF is a very small data compression library. It consists of only two .c and two .h files and is very easy to incorporate into your own programs. The compression algorithm is very, very fast, yet still written in portable C.
   license:
   - Simplified BSD License
   license_reference:

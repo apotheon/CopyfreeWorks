@@ -7,6 +7,19 @@ the datafile that lies behind that list.
 
 ## Contributing
 
+If you have a project in mind to add to the works list, follow our process.
+
+If you do not have a project in mind, have some time on your hands, and just
+want to help out, check this project's issue tracker for tasks you could
+undertake.  Some of them may be long tasks, involving lists of applications; if
+you do not get through the complete list, just update the issue with a comment
+about what you accomplished to make it easy on the next person to work on that
+issue.  With that in mind, follow our process.
+
+If you just want some project(s) added to the works list without doing any
+appreciable work, add an issue.  We will get to it whenever we feel like it,
+probably shortly after some higher-priority work.
+
 Process:
 
 1. Fork this repository.
@@ -67,7 +80,7 @@ problems for some works in the list.
 * This project may or may not be preserved for posterity when it becomes
   obsolete.  See more on that later in this README.
 
-## Problems
+## Problems/Requests
 
 Feel free to use the issue tracker for this project if you have concerns or
 requests related to the works list in its current form, the future design of

@@ -7175,3 +7175,70 @@ XZ Embedded:
   - compression
   - library
   - software
+CCV:
+  uri:
+  - http://libccv.org/
+  description:
+  - CCV is the C-based/Cached/Core Computer Vision Library, a modern computer vision library.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/liuliu/ccv/blob/stable/COPYING
+  tags:
+  - library
+  - software
+  - vision
+libev:
+  uri:
+  - http://software.schmorp.de/pkg/libev.html
+  description:
+  - The libev project provides a full-featured and high-performance event loop that is loosely modelled after libevent, but without its limitations and bugs.
+  license:
+  - Simplified BSD License
+  license_alternate:
+  - GPL
+  license_reference:
+  - http://cvs.schmorp.de/libev/LICENSE?view=markup
+  tags:
+  - event
+  - library
+  - software
+sdhcp:
+  uri:
+  - http://git.2f30.org/sdhcp/
+  description:
+  - The sdhcp project provides a simple DHCP client.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://git.2f30.org/sdhcp/file/LICENSE.html
+  tags:
+  - client
+  - network
+  - software
+snore:
+  uri:
+  - https://github.com/clamiax/snore
+  description:
+  - The snore utility implements sleep with feedback.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/clamiax/snore/blob/master/LICENSE
+  tags:
+  - cli
+  - software
+  - utility
+termbox:
+  uri:
+  - https://github.com/nsf/termbox
+  description:
+  - The termbox library provides a minimalistic API which helps the programmer write text-based user interfaces.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/nsf/termbox/blob/master/COPYING
+  tags:
+  - console
+  - library
+  - software

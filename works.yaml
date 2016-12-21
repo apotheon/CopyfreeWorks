@@ -7002,3 +7002,59 @@ Voltron:
   - console
   - debugger
   - software
+libtommath:
+  uri:
+  - http://www.libtom.net/
+  description:
+  - LibTomMath is a free open source portable number theoretic multiple-precision integer library written entirely in C.
+  license:
+  - public domain
+  - WTFPL
+  license_reference:
+  - https://github.com/libtom/libtommath/blob/develop/LICENSE
+  tags:
+  - library
+  - math
+  - software
+tomsfastmath:
+  uri:
+  - http://www.libtom.net/
+  description:
+  - TomsFastMath is a fast public domain, open source, large integer arithmetic library written in portable ISO C.
+  license:
+  - public domain
+  - WTFPL
+  license_reference:
+  - https://github.com/libtom/tomsfastmath/blob/develop/LICENSE
+  tags:
+  - library
+  - math
+  - software
+libtomfloat:
+  uri:
+  - http://www.libtom.net/
+  description:
+  - LibTomFloat is a library that provides multiple precision floating point arithmetic.
+  license:
+  - public domain
+  - WTFPL
+  license_reference:
+  - https://github.com/libtom/libtomfloat/blob/master/LICENSE
+  tags:
+  - library
+  - math
+  - software
+libtomfloat:
+  uri:
+  - http://www.libtom.net/
+  description:
+  - LibTomPoly is a public domain open source library to provide polynomial basis arithmetic.  It uses the public domain library LibTomMath (not included) for the integer arithmetic and extends the functonality to provide polynomial arithmetic.
+  license:
+  - public domain
+  - WTFPL
+  license_reference:
+  - https://github.com/libtom/libtompoly/blob/develop/LICENSE
+  tags:
+  - library
+  - math
+  - software

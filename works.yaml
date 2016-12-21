@@ -7058,3 +7058,42 @@ libtomfloat:
   - library
   - math
   - software
+IMath:
+  uri:
+  - https://github.com/creachadair/imath
+  description:
+  - IMath is an arbitrary precision integer and rational arithmetic library.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/creachadair/imath/blob/master/LICENSE
+  tags:
+  - library
+  - math
+  - software
+libzahl:
+  uri:
+  - http://libs.suckless.org/libzahl
+  description:
+  - The libzahl project provides a library for arbitrary size integers, bigint.
+  license:
+  - ISC License
+  license_reference:
+  - http://git.suckless.org/libzahl/plain/LICENSE
+  tags:
+  - library
+  - math
+  - software
+Hebimath:
+  uri:
+  - https://github.com/suiginsoft/hebimath
+  description:
+  - Hebimath is an arbitrary precision arithmetic library.  In short, Hebimath is a library capable of performing bignum arithmetic in the same vein as GMP, libtommath, TomsFastMath, MPI, and friends.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/suiginsoft/hebimath/blob/master/LICENSE
+  tags:
+  - library
+  - math
+  - software

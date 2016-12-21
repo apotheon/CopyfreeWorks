@@ -7097,3 +7097,40 @@ Hebimath:
   - library
   - math
   - software
+CMake:
+  uri:
+  - https://cmake.org/
+  description:
+  - CMake is a cross-platform, open-source build system generator.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://gitlab.kitware.com/cmake/cmake/blob/master/Copyright.txt
+  tags:
+  - build system
+  - software
+libmowgli:
+  uri:
+  - https://github.com/atheme/libmowgli-2
+  description:
+  - The libmowgli project provides a class library containing performance and usability oriented extensions to C.
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/atheme/libmowgli-2/blob/master/COPYING
+  tags:
+  - c
+  - library
+  - software
+SCons:
+  uri:
+  - http://www.scons.org/
+  description:
+  - SCons is an Open Source software construction tool—that is, a next-generation build tool.  Think of SCons as an improved, cross-platform substitute for the classic Make utility with integrated functionality similar to autoconf/automake and compiler caches such as ccache.  In short, SCons is an easier, more reliable and faster way to build software.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://bitbucket.org/scons/scons/src/default/LICENSE
+  tags:
+  - build system
+  - software

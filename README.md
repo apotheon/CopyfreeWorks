@@ -67,20 +67,6 @@ Especially among some of the earliest-added works, there is some missing
 information in some entries, for instance, and sometimes linkrot causes
 problems for some works in the list.
 
-## Cautionary Notes
-
-* Adhere to our YAML formatting style.  Otherwise, we will ask you to correct
-  it, and/or end up spending extra time reformatting it ourselves.
-
-* Have patience.  Sometimes it takes a little while for us to fill in the
-  blanks in any incomplete submissions (e.g. anything that includes only the
-  website and license reference addresses), or sometimes to investigate the
-  project sufficiently well to verify that all the submitted information
-  conforms to internal CI standards.
-
-* This project may or may not be preserved for posterity when it becomes
-  obsolete.  See more on that later in this README.
-
 ## Problems/Requests
 
 Feel free to use the issue tracker for this project if you have concerns or

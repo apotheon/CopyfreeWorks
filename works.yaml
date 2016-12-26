@@ -7296,3 +7296,16 @@ Peerunity:
   - cryptocurrency
   - peercoin
   - software
+Peercoin-QT:
+  uri:
+  - https://www.peercoin.net
+  description:
+  - Peercoin (abbreviated PPC), also known as PPCoin and Peer-to-Peer Coin, is the first cryptocurrency design introducing proof-of-stake consensus as a security model, with a combined proof-of-stake/proof-of-work minting system.  Peercoin-QT is the official Peercoin implementation.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/peercoin/peercoin/blob/master/COPYING
+  tags:
+  - cryptocurrency
+  - peercoin
+  - software

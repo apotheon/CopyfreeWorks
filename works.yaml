@@ -7245,29 +7245,38 @@ termbox:
 Peer4commit:
   uri:
   - https://peer4commit.com/
-  category:
-  - Cryptography
-  tags:
-  - cryptocurrency
-  - software
+  description:
+  - Donate peercoins to open source projects or make commits and get tips for it.
   license:
   - MIT/X11 License
   license_reference:
   - https://github.com/sigmike/peer4commit/blob/master/LICENSE
-  description:
-  - Donate peercoins to open source projects or make commits and get tips for it.
+  tags:
+  - cryptocurrency
+  - software
 Tip4commit:
   uri:
   - https://tip4commit.com/
-  category:
-  - Cryptography
-  tags:
-  - cryptocurrency
-  - ecommerce
-  - software
+  description:
+  - Donate bitcoins to open source projects or receive tips for code contributions.
   license:
   - MIT/X11 License
   license_reference:
   - https://github.com/tip4commit/tip4commit/blob/master/LICENSE
+  tags:
+  - cryptocurrency
+  - ecommerce
+  - software
+FossGit:
+  uri:
+  - https://fossrec.com/u/apotheon/fossgit
   description:
-  - Donate bitcoins to open source projects or receive tips for code contributions.
+  - FossGit is a Fossil SCM mirroring tool that exports to Git.
+  license:
+  - COIL
+  license_reference:
+  - https://fossrec.com/u/apotheon/fossgit/index.cgi/artifact?ci=tip&filename=LICENSE
+  tags:
+  - console
+  - library
+  - software

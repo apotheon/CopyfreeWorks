@@ -7253,6 +7253,8 @@ Peer4commit:
   - https://github.com/sigmike/peer4commit/blob/master/LICENSE
   tags:
   - cryptocurrency
+  - ecommerce
+  - peercoin
   - software
 Tip4commit:
   uri:
@@ -7264,6 +7266,7 @@ Tip4commit:
   license_reference:
   - https://github.com/tip4commit/tip4commit/blob/master/LICENSE
   tags:
+  - bitcoin
   - cryptocurrency
   - ecommerce
   - software
@@ -7279,4 +7282,17 @@ FossGit:
   tags:
   - console
   - library
+  - software
+Peerunity:
+  uri:
+  - https://www.peercoin.net/download-peerunity
+  description:
+  - Peerunity is a Peercoin network-compatible, community-developed wallet client.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/Peerunity/Peerunity/blob/master/COPYING
+  tags:
+  - cryptocurrency
+  - peercoin
   - software

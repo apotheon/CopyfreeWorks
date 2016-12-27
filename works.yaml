@@ -7309,3 +7309,17 @@ Peercoin-QT:
   - cryptocurrency
   - peercoin
   - software
+i2pd:
+  uri:
+  - http://i2pd.website/
+  description:
+  - I2P (Invisible Internet Protocol) is a universal anonymous network layer, and i2pd (I2P Daemon) is a full-featured C++ I2P client implementation.  All communications over I2P are anonymous and end-to-end encrypted; participants don't reveal their real IP addresses.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/PurpleI2P/i2pd/blob/openssl/LICENSE
+  tags:
+  - cryptography
+  - privacy
+  - security
+  - software

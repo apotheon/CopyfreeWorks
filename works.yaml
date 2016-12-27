@@ -3122,6 +3122,8 @@ Ganglia:
 I2P:
   uri:
   - http://www.i2p2.de/
+  description:
+  - The I2P network provides strong privacy protections for communication over the Internet.  Many activities that would risk your privacy on the public Internet can be conducted anonymously inside I2P.
   tags:
   - cryptography
   - multilicensed

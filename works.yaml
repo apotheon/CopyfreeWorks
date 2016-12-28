@@ -7325,3 +7325,54 @@ i2pd:
   - privacy
   - security
   - software
+utf8proc:
+  uri:
+  - http://julialang.org/utf8proc/
+  description:
+  - The utf8proc project provides a small, clean C library that provides Unicode normalization, case-folding, and other operations for data in the UTF-8 encoding, supporting Unicode version 9.0.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/JuliaLang/utf8proc/blob/master/LICENSE.md
+  tags:
+  - library
+  - software
+Scythe:
+  uri:
+  - https://github.com/michaelfeathers/scythe
+  description:
+  - Scythe is a light-weight tool for detecting dead and infrequently used code in production.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/michaelfeathers/scythe
+  tags:
+  - analysis
+  - development
+  - software
+Jop:
+  uri:
+  - https://github.com/michaelfeathers/jop
+  description:
+  - Jop is a gem that adds operations of the J programming language to Ruby arrays.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/michaelfeathers/jop
+  tags:
+  - development
+  - library
+  - software
+vih:
+  uri:
+  - https://github.com/michaelfeathers/vih
+  description:
+  - With vih, you get a simple vi clone written in Haskell.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/michaelfeathers/vih/blob/master/license.txt
+  tags:
+  - editor
+  - software
+  - vi

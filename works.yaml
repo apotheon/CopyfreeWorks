@@ -7376,3 +7376,18 @@ vih:
   - editor
   - software
   - vi
+Tile38:
+  uri:
+  - http://tile38.com/
+  description:
+  - Tile38 is an open source, in-memory geolocation data store, spatial index, and realtime geofence.  It supports a variety of object types including lat/lon points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/tidwall/tile38/blob/master/LICENSE
+  tags:
+  - cli
+  - geolocation
+  - network
+  - server
+  - software

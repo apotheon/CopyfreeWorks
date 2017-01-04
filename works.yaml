@@ -7391,3 +7391,45 @@ Tile38:
   - network
   - server
   - software
+Ideal Organizational Theory:
+  uri:
+  - http://nap.univacc.net/methods/ideal_organizational_theory
+  description:
+  - IOT calls for a model for the merging of artificial intelligence and economic co-operative research in a single study of emergent processes.
+  license:
+  - Open Works License
+  license_reference:
+  - http://nap.univacc.net/
+  tags:
+  - ai
+  - economics
+  - essay
+  - philosophy
+Environmental Law For Nappers:
+  uri:
+  - http://nap.univacc.net/methods/environmental_law
+  description:
+  - Environmental Law For Nappers presents one answer to how a NAP-compliant society would address environmental concerns, as well as an analysis of the informative value of current environmental law debate.
+  license:
+  - Open Works License
+  license_reference:
+  - http://nap.univacc.net/
+  tags:
+  - ecology
+  - economics
+  - essay
+  - law
+Metaphysical Moral Caution:
+  uri:
+  - http://nap.univacc.net/theory/moral_caution
+  description:
+  - Metaphysical Moral Caution, or "the moral caution essay", presents a theory of non-aggression ethics built on the conditions of the agreeable first premise that we might exist.
+  license:
+  - Open Works License
+  license_reference:
+  - http://nap.univacc.net/
+  tags:
+  - essay
+  - ethics
+  - metaphysics
+  - philosophy

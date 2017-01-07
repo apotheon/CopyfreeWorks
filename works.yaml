@@ -7029,7 +7029,7 @@ libtomfloat:
   - library
   - math
   - software
-libtomfloat:
+libtompoly:
   uri:
   - http://www.libtom.net/
   description:

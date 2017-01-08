@@ -4832,7 +4832,6 @@ Idris:
   - compiler
   - idris
   - language
-  - llvm
   - programming
   - software
   license:
@@ -4841,6 +4840,21 @@ Idris:
   - https://github.com/idris-lang/Idris-dev/blob/master/LICENSE
   description:
   - Idris is a general purpose pure functional programming language with dependent types and features inspired by Haskell and ML.  Dependent types allow types to be predicated on values, meaning that some aspects of a program’s behaviour can be specified precisely in the type.  It is compiled, with eager evaluation.
+Idris LLVM:
+  uri:
+  - http://www.idris-lang.org/
+  description:
+  - Idris LLVM is LLVM-based code generation for the Idris programming language.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/idris-hackers/idris-llvm/blob/master/LICENSE
+  tags:
+  - compiler
+  - idris
+  - llvm
+  - programming
+  - software
 Ioke:
   uri:
   - https://ioke.org/
@@ -7433,3 +7447,18 @@ Metaphysical Moral Caution:
   - ethics
   - metaphysics
   - philosophy
+Agda:
+  uri:
+  - http://wiki.portal.chalmers.se/agda/pmwiki.php
+  description:
+  - Agda is a dependently typed functional programming language, and a proof assistant.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/agda/agda/blob/master/LICENSE
+  tags:
+  - compiler
+  - agda
+  - language
+  - programming
+  - software

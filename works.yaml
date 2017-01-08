@@ -7496,3 +7496,43 @@ Twelf:
   - language
   - programming
   - software
+Xanadu:
+  uri:
+  - https://therealalan.github.io/xanadu/
+  description:
+  - Xanadu is a text-based game engine for the browser.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/TheRealAlan/xanadu/blob/master/LICENSE
+  tags:
+  - game
+  - library
+  - software
+Middleman:
+  uri:
+  - https://middlemanapp.com/
+  description:
+  - Middleman is a static site generator using all the shortcuts and tools in modern web development, so you can build static websites with an easy-to-use framework.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/middleman/middleman/blob/master/LICENSE.md
+  tags:
+  - framework
+  - software
+  - web
+CoffeeScript:
+  uri:
+  - http://coffeescript.org/
+  description:
+  - CoffeeScript is a little language that compiles into JavaScript.  It attempts to expose the good parts of JavaScript in a simple way.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/jashkenas/coffeescript/blob/master/LICENSE
+  tags:
+  - coffeescript
+  - javascript
+  - language
+  - software

@@ -4830,6 +4830,7 @@ Idris:
   - http://www.idris-lang.org/
   tags:
   - compiler
+  - dependent types
   - idris
   - language
   - programming
@@ -7458,7 +7459,24 @@ Agda:
   - https://github.com/agda/agda/blob/master/LICENSE
   tags:
   - compiler
+  - dependent types
   - agda
+  - language
+  - programming
+  - software
+Epigram:
+  uri:
+  - https://code.google.com/archive/p/epigram/
+  description:
+  - Epigram is a dependently typed programming language and an interactive programming environment.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/mietek/epigram2/blob/master/LICENSE
+  tags:
+  - compiler
+  - dependent types
+  - epigram
   - language
   - programming
   - software

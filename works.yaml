@@ -4830,9 +4830,9 @@ Idris:
   - http://www.idris-lang.org/
   tags:
   - compiler
+  - dependent types
   - idris
   - language
-  - llvm
   - programming
   - software
   license:
@@ -4841,6 +4841,21 @@ Idris:
   - https://github.com/idris-lang/Idris-dev/blob/master/LICENSE
   description:
   - Idris is a general purpose pure functional programming language with dependent types and features inspired by Haskell and ML.  Dependent types allow types to be predicated on values, meaning that some aspects of a program’s behaviour can be specified precisely in the type.  It is compiled, with eager evaluation.
+Idris LLVM:
+  uri:
+  - http://www.idris-lang.org/
+  description:
+  - Idris LLVM is LLVM-based code generation for the Idris programming language.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/idris-hackers/idris-llvm/blob/master/LICENSE
+  tags:
+  - compiler
+  - idris
+  - llvm
+  - programming
+  - software
 Ioke:
   uri:
   - https://ioke.org/
@@ -7433,3 +7448,51 @@ Metaphysical Moral Caution:
   - ethics
   - metaphysics
   - philosophy
+Agda:
+  uri:
+  - http://wiki.portal.chalmers.se/agda/pmwiki.php
+  description:
+  - Agda is a dependently typed functional programming language, and a proof assistant.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/agda/agda/blob/master/LICENSE
+  tags:
+  - compiler
+  - dependent types
+  - agda
+  - language
+  - programming
+  - software
+Epigram:
+  uri:
+  - https://code.google.com/archive/p/epigram/
+  description:
+  - Epigram is a dependently typed programming language and an interactive programming environment.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/mietek/epigram2/blob/master/LICENSE
+  tags:
+  - compiler
+  - dependent types
+  - epigram
+  - language
+  - programming
+  - software
+Twelf:
+  uri:
+  - http://twelf.org/
+  description:
+  - Twelf is a language used to specify, implement, and prove properties of deductive systems such as programming languages and logics.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/standardml/twelf/blob/master/LICENSE
+  tags:
+  - compiler
+  - dependent types
+  - twelf
+  - language
+  - programming
+  - software

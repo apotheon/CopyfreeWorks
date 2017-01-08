@@ -7480,3 +7480,19 @@ Epigram:
   - language
   - programming
   - software
+Twelf:
+  uri:
+  - http://twelf.org/
+  description:
+  - Twelf is a language used to specify, implement, and prove properties of deductive systems such as programming languages and logics.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/standardml/twelf/blob/master/LICENSE
+  tags:
+  - compiler
+  - dependent types
+  - twelf
+  - language
+  - programming
+  - software

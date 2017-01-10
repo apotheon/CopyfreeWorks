@@ -1531,6 +1531,8 @@ Droll:
   - dice
   - game
   - ircbot
+  - library
+  - ruby
   - software
   license:
   - Open Works License
@@ -7535,4 +7537,59 @@ CoffeeScript:
   - coffeescript
   - javascript
   - language
+  - software
+aqu4bot:
+  uri:
+  - https://wiki.soylentnews.org/wiki/Aqu4bot
+  description:
+  - The aqu4bot project provides an IRC bot with humorous, obscure, channel management, user tracking, and messaging functionality.  It also offers an extensive logging system.
+  license:
+  - Unlicense
+  license_reference:
+  - https://github.com/Subsentient/aqu4bot/blob/master/UNLICENSE.TXT
+  tags:
+  - ircbot
+  - network
+  - software
+libcpsl:
+  uri:
+  - https://github.com/Subsentient/libcpsl
+  description:
+  - The libcpsl project provides a deliberately tiny, standalone, freestanding and non-hosted, dynamic storage library for C and C++, kinda like C++ map, list, vector, etc.
+  license:
+  - Unlicense
+  license_reference:
+  - https://github.com/Subsentient/libcpsl/blob/master/UNLICENSE.txt
+  tags:
+  - c
+  - c++
+  - library
+  - software
+  - storage
+substrings:
+  uri:
+  - https://github.com/Subsentient/substrings
+  description:
+  - The substrings project provides a small C-string handling library for C and C++ designed to make common tasks easier.
+  license:
+  - Unlicense
+  license_reference:
+  - https://github.com/Subsentient/substrings
+  tags:
+  - c
+  - c++
+  - library
+  - software
+bricktick:
+  uri:
+  - https://github.com/Subsentient/bricktick
+  description:
+  - Bricktick is an curses based Arkanoid/Brickbreaker clone for UNIX.
+  license:
+  - Unlicense
+  license_reference:
+  - https://github.com/Subsentient/bricktick/blob/master/UNLICENSE.txt
+  tags:
+  - curses
+  - game
   - software

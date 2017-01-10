@@ -7593,3 +7593,17 @@ bricktick:
   - curses
   - game
   - software
+x2x:
+  uri:
+  - https://github.com/dottedmag/x2x
+  description:
+  - With x2x, you can use the keyboard and mouse connected to one X display to control another X display.  Use it over SSH for secure network access.
+  license:
+  - X2X License
+  license_reference:
+  - https://github.com/dottedmag/x2x/blob/master/COPYING
+  tags:
+  - network
+  - remote desktop
+  - software
+  - x window system

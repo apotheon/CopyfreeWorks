@@ -7625,7 +7625,7 @@ Editline:
   uri:
   - http://thrysoee.dk/editline/
   description:
-  - Editline is an autotool- and libtoolized port of the NetBSD Editline library (libedit). This Berkeley-style licensed command line editor library provides generic line editing, history, and tokenization functions, similar to those found in GNU Readline.
+  - Editline is an autotoolized and libtoolized port of the NetBSD Editline library (libedit). This Berkeley-style licensed command line editor library provides generic line editing, history, and tokenization functions, similar to those found in GNU Readline.
   license:
   - Simplified BSD License
   license_reference:

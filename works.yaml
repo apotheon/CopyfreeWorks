@@ -3947,17 +3947,17 @@ html5lib:
   - The html5lib Ruby and Python libraries are standards-compliant parsing and serializing HTML libraries.
 libedit:
   uri:
-  - http://sourceforge.net/projects/libedit/
+  - https://sourceforge.net/projects/libedit/
+  description:
+  - The libedit library spin-off from NetBSD code is a non-GPL replacement for the readline library.
+  license:
+  - Simplified BSD License
+  license_reference: []
   tags:
   - cli
   - editor
   - library
   - software
-  license:
-  - Simplified BSD License
-  license_reference: []
-  description:
-  - The libedit library spin-off from NetBSD code is a non-GPL replacement for the readline library.
 Unsplash:
   uri:
   - http://unsplash.com/
@@ -7607,3 +7607,31 @@ x2x:
   - remote desktop
   - software
   - x window system
+Linenoise:
+  uri:
+  - https://github.com/antirez/linenoise
+  description:
+  - Linenoise is a small, self-contained, minimal, zero-config, BSD licensed, alternative to libedit and readline used in Redis, MongoDB, and Android.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/antirez/linenoise/blob/master/LICENSE
+  tags:
+  - cli
+  - editor
+  - library
+  - software
+Editline:
+  uri:
+  - http://thrysoee.dk/editline/
+  description:
+  - Editline is an autotoolized and libtoolized port of the NetBSD Editline library (libedit). This Berkeley-style licensed command line editor library provides generic line editing, history, and tokenization functions, similar to those found in GNU Readline.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - http://thrysoee.dk/editline/libedit-20160903-3.1.tar.gz
+  tags:
+  - cli
+  - editor
+  - library
+  - software

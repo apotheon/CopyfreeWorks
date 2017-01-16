@@ -1,5 +1,4 @@
 ---
-
 The Lounge:
   uri:
   - https://thelounge.github.io
@@ -8,7 +7,7 @@ The Lounge:
   license:
   - MIT/X11 License
   license_reference:
-  - https://github.com/thelounge/lounge
+  - https://github.com/thelounge/lounge/blob/master/LICENSE
   tags:
   - client
   - network

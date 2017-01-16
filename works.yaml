@@ -2792,6 +2792,7 @@ Zsh:
   uri:
   - http://www.zsh.org/
   tags:
+  - contaminated
   - interpreter
   - programming
   - shell

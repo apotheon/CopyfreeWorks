@@ -1423,11 +1423,12 @@ axTLS:
   license_reference: []
 Coinpunk:
   uri:
-  - http://coinpunk.org/
+  - https://github.com/kyledrake/coinpunk
   tags:
   - cryptocurrency
   - cryptography
   - software
+  - dead
   license:
   - Simplified BSD License
   license_reference:

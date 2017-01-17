@@ -2893,7 +2893,6 @@ SoyWiki:
   - https://github.com/danchoi/soywiki/blob/master/MIT-LICENSE.txt
 Abaco:
   uri:
-  - http://plan9.bell-labs.com/sources/plan9/sys/src/cmd/abaco/
   - http://lab-fgb.com/abaco/
   - http://www.advogato.org/proj/abaco/
   tags:

@@ -1,4 +1,20 @@
 ---
+The Lounge:
+  uri:
+  - https://thelounge.github.io
+  description:
+  - The Lounge is a modern web IRC client designed for self-hosting.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/thelounge/lounge/blob/master/LICENSE
+  tags:
+  - client
+  - network
+  - software
+  - irc
+  - node.js
+  - web
 Bitcoin-Qt:
   uri:
   - http://bitcoin.org/en/download

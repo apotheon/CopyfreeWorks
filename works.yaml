@@ -5285,7 +5285,7 @@ aewm:
   license_reference:
   - http://freecode.com/projects/aewm
   description:
-  - "aewm is a modern, minimal window manager for X11. It is controlled entirely with the mouse, but contains no visible UI apart from window frames. The command set is sort of like vi: designed back in the dawn of time (1997), to squeeze speed out of low-memory machines, completely unintuitive and new-user-hostile, but quick and elegant in its own way."
+  - "This is a modern, minimal window manager for X11. It is controlled entirely with the mouse, but contains no visible UI apart from window frames. The command set is sort of like vi: designed back in the dawn of time (1997), to squeeze speed out of low-memory machines, completely unintuitive and new-user-hostile, but quick and elegant in its own way."
 Lumina:
   uri:
   - http://lumina-desktop.org/

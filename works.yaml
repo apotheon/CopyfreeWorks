@@ -3328,18 +3328,6 @@ Backbone.js:
   - MIT/X11 License
   license_reference:
   - https://github.com/jashkenas/backbone/blob/master/LICENSE
-Ethereum:
-  uri:
-  - https://www.ethereum.org/
-  tags:
-  - cryptocurrency
-  - cryptography
-  - software
-  license:
-  - MIT/X11 License
-  license_reference:
-  - https://github.com/ethereum/cpp-ethereum/blob/master/LICENSE
-  - https://github.com/ethereum/go-ethereum/blob/master/LICENSE
 flot:
   uri:
   - http://www.flotcharts.org/

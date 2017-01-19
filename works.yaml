@@ -1423,11 +1423,12 @@ axTLS:
   license_reference: []
 Coinpunk:
   uri:
-  - http://coinpunk.org/
+  - https://github.com/kyledrake/coinpunk
   tags:
   - cryptocurrency
   - cryptography
   - software
+  - dead
   license:
   - Simplified BSD License
   license_reference:
@@ -3326,18 +3327,6 @@ Backbone.js:
   - MIT/X11 License
   license_reference:
   - https://github.com/jashkenas/backbone/blob/master/LICENSE
-Ethereum:
-  uri:
-  - https://www.ethereum.org/
-  tags:
-  - cryptocurrency
-  - cryptography
-  - software
-  license:
-  - MIT/X11 License
-  license_reference:
-  - https://github.com/ethereum/cpp-ethereum/blob/master/LICENSE
-  - https://github.com/ethereum/go-ethereum/blob/master/LICENSE
 flot:
   uri:
   - http://www.flotcharts.org/
@@ -5299,7 +5288,7 @@ Lumina:
   - The Lumina Desktop Environment is a lightweight system interface that is designed for use on any Unix-like operating system. It takes a plugin-based approach, allowing the entire interface to be assembled/arranged by each individual user as desired, with a system-wide default layout which was setup by the  system administrator.
 nosh:
   uri:
-  - http://homepage.ntlworld.com./jonathan.deboynepollard/Softwares/nosh.html
+  - http://jdebp.eu./Softwares/nosh
   tags:
   - init system
   - software
@@ -5308,7 +5297,7 @@ nosh:
   - MIT/X11 License
   - Simplified BSD License
   license_reference:
-  - http://homepage.ntlworld.com./jonathan.deboynepollard/Softwares/nosh.html
+  - http://jdebp.eu./Softwares/nosh
   description:
   - The nosh package is a suite of system-level utilities for initializing and running a BSD or Linux system, for managing daemons, for managing terminals, and for managing logging.
 Read The Docs:

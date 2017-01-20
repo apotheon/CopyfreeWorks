@@ -7654,3 +7654,17 @@ Ficl:
   - interpreter
   - programming
   - software
+reptyr:
+  uri:
+  - https://github.com/nelhage/reptyr
+  description:
+  - Reparent a running program to a new terminal with reptyr, a tool for "re-PTYing" programs.  It is a tool for taking an existing running program and attaching it to a new parent process, allowing you to do things like attach a long-running process to a terminal multiplexer before logging out of an SSH connection.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/nelhage/reptyr/blob/master/COPYING
+  tags:
+  - console
+  - software
+  - terminal
+  - utility

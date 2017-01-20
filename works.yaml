@@ -7668,3 +7668,86 @@ reptyr:
   - software
   - terminal
   - utility
+EthereumJ:
+  uri:
+  - http://ethereumj.io/
+  description:
+  - EthereumJ is a pure-Java implementation of the Ethereum protocol.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/ethereum/ethereumj/blob/develop/LICENSE
+  tags:
+  - cryptocurrency
+  - cryptography
+  - software
+pyethereum:
+  uri:
+  - https://github.com/ethereum/pyethereum
+  description:
+  - The pyethereum project provides a Python core library for Ethereum.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/ethereum/ethereumj/blob/develop/LICENSE
+  tags:
+  - cryptocurrency
+  - cryptography
+  - library
+  - software
+pyethapp:
+  uri:
+  - https://github.com/ethereum/pyethapp
+  description:
+  - Based on the pyethereum library, pyethapp is the python based client implementing the Ethereum cryptoeconomic state machine.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/ethereum/pyethapp/blob/develop/LICENSE
+  tags:
+  - client
+  - cryptocurrency
+  - cryptography
+  - software
+ethereum-ruby:
+  uri:
+  - https://github.com/DigixGlobal/ethereum-ruby
+  description:
+  - The ethereum-ruby project provides a simple Ruby library for Ethereum, and exposes deployed contracts as Ruby classes.  It depends on a running Ethereum node with IPC support.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/ethereum/pyethapp/blob/develop/LICENSE
+  tags:
+  - client
+  - cryptocurrency
+  - cryptography
+  - software
+EthereumH:
+  uri:
+  - https://github.com/jamshidh/ethereum-client-haskell
+  description:
+  - EthereumH is a tool written in Haskell to allow you to connect to the Ethereum blockchain.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/jamshidh/ethereum-client-haskell/blob/master/LICENSE
+  tags:
+  - client
+  - cryptocurrency
+  - cryptography
+  - software
+Nethereum:
+  uri:
+  - https://github.com/Nethereum/Nethereum
+  description:
+  - Nethereum is a .NET integration library for Ethereum, allowing you to interact with Ethereum clients like eth, geth, or parity using RPC.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/Nethereum/Nethereum/blob/master/LICENSE.md
+  tags:
+  - cryptocurrency
+  - cryptography
+  - library
+  - software

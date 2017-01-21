@@ -7751,3 +7751,18 @@ Nethereum:
   - cryptography
   - library
   - software
+Spry:
+  uri:
+  - http://sprylang.org/
+  description:
+  - Spry is a programming language primarily inspired by Smalltalk, Rebol, Lisp, JavaScript, Forth, and Nim.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/gokr/spry/blob/master/LICENSE
+  tags:
+  - interpreter
+  - language
+  - spry
+  - programming
+  - software

@@ -7766,3 +7766,14 @@ Spry:
   - spry
   - programming
   - software
+OpenFPGA:
+  uri:
+    - https://github.com/haojunliu/OpenFPGA
+  license:
+    - Simplified BSD License
+  license_reference:
+    - https://github.com/haojunliu/OpenFPGA/blob/master/LICENSE
+  tags:
+    - fpga
+    - programming
+    - software

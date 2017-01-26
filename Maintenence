@@ -3,7 +3,6 @@
 -1 Not found: A connection with the server could not be established : Unknown error	http://plan9.bell-labs.com/plan9/license.html	Reference 1
 500 Internal Server Error	https://ipfs.io/ipns/boards.ydns.eu/	Boards
 500 Internal Server Error	http://paste.apotheon.net/?p=cmms	CMMS
--1 Not found: The server name or address could not be resolved : Unknown error	https://derf.homelinux.org/projects/feh/	feh
 -1 Not found: The host name in the certificate is invalid or does not match : Unknown error	https://tshannon.bitbucket.org/freehold/	Freehold
 404 Not Found	http://source.icu-project.org/repos/icu/icu/trunk/license.html	License Reference
 -1 Not found: The server name or address could not be resolved : Unknown error	http://irclog.gr/	ircloggr
@@ -22,10 +21,8 @@
 404 Not Found	http://raggle.org/files/COPYING	License Reference
 -1 Not found: The server name or address could not be resolved : Unknown error	https://pond.imperialviolet.org/	Pond
 404 Not Found	https://github.com/redox-os/redox/blob/master/LICENSE.md	License Reference
-404 Not Found	https://github.com/jquery/sizzle/blob/master/MIT-LICENSE.txt	License Reference
 -1 Not found: A connection with the server could not be established : Unknown error	https://opensource.conformal.com/wiki/spectrwm	SpectrWM
 404 Not Found	https://github.com/Jermolene/TiddlyWiki5/blob/master/licenses/copyright.md	License Reference
-404 Not Found	https://gitweb.torproject.org/tor.git/blob_plain/HEAD:/LICENSE	License Reference
 -1 Timeout : Unknown error	https://up1.ca/	Up1
 -1 Not found: The server name or address could not be resolved : Unknown error	http://yfias.com/	Your Face is a Saxophone
 -1 Not found: The server name or address could not be resolved : Unknown error	http://plankhead.com/projects/yfias-source	License Reference

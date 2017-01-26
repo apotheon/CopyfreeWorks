@@ -1318,16 +1318,6 @@ dmenu:
   - MIT/X11 License
   license_reference:
   - http://git.suckless.org/dmenu/plain/LICENSE
-feh:
-  uri:
-  - https://derf.homelinux.org/projects/feh/
-  tags:
-  - image viewer
-  - software
-  license:
-  - MIT/X11 License
-  license_reference:
-  - http://git.finalrewind.org/feh/plain/COPYING
 lsw:
   uri:
   - http://git.suckless.org/lsw/

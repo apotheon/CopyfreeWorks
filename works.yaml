@@ -1330,7 +1330,7 @@ feh:
   - http://git.finalrewind.org/feh/plain/COPYING
 lsw:
   uri:
-  - http://tools.suckless.org/lsw
+  - http://git.suckless.org/lsw/
   tags:
   - software
   - utility
@@ -1487,7 +1487,7 @@ libpqxx:
   license:
   - Revised BSD License
   license_reference:
-  - http://pqxx.org/development/libpqxx/browser/trunk/COPYING
+  - https://github.com/jtv/libpqxx/blob/master/COPYING
 Lightning Memory-Mapped Database:
   uri:
   - http://symas.com/mdb/
@@ -4928,7 +4928,7 @@ Apricot:
   - Apricot is a programming language inspired by Clojure and Lisp that runs on the Rubinius VM. Apricot code is compiled to Rubinius bytecode which allows it to call Ruby functions directly (and vice versa).
 Huia:
   uri:
-  - http://huia-lang.org/
+  - https://github.com/jamesotron/Huia
   tags:
   - huia
   - language

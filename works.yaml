@@ -2295,16 +2295,6 @@ VMKit:
   license:
   - University of Illinois/NCSA Open Source License
   license_reference: []
-MIT App Inventor:
-  uri:
-  - http://appinventor.mit.edu/explore/
-  tags:
-  - android
-  - software
-  license:
-  - MIT/X11 License
-  license_reference:
-  - https://github.com/mit-cml/appinventor-sources/blob/master/mitlicense.txt
 Nim:
   uri:
   - http://nim-lang.org/
@@ -2451,7 +2441,7 @@ Sizzle:
   license:
   - MIT/X11 License
   license_reference:
-  - https://github.com/jquery/sizzle/blob/master/MIT-LICENSE.txt
+  - https://github.com/jquery/sizzle/blob/master/LICENSE.txt
 Squirrel:
   uri:
   - http://squirrel-lang.org/

@@ -175,7 +175,7 @@ Tor:
   license:
   - Revised BSD License
   license_reference:
-  - https://gitweb.torproject.org/tor.git/blob_plain/HEAD:/LICENSE
+  - https://gitweb.torproject.org/tor.git/tree/LICENSE
 PostgreSQL:
   uri:
   - http://www.postgresql.org/
@@ -4692,7 +4692,7 @@ TiddlyWiki:
   license:
   - Revised BSD License
   license_reference:
-  - https://github.com/Jermolene/TiddlyWiki5/blob/master/licenses/copyright.md
+  - https://github.com/Jermolene/TiddlyWiki5/blob/master/license.md
   description:
   - TiddlyWiki is a non-linear personal web notebook, implemented as a complete interactive wiki in JavaScript.  It can be used as a single HTML file in the browser or as a powerful Node.js application.  The entire user interface is itself implemented in hackable WikiText.
 Taskwarrior:
@@ -5608,7 +5608,7 @@ Redox:
   license:
   - MIT/X11 License
   license_reference:
-  - https://github.com/redox-os/redox/blob/master/LICENSE.md
+  - https://github.com/redox-os/redox/blob/master/LICENSE
   description:
   - Redox is a Unix-like Operating System written in Rust, aiming to bring the innovations of Rust to a modern microkernel and full set of applications.
 vis:

@@ -1,9 +1,7 @@
 502 Bad Gateway	http://devel.aegisub.org/browser/aegisub/LICENCE	License Reference
 404 Not Found	https://github.com/aox/aox/blob/master/doc/readme/bsd.txt	License Reference
-404 Not Found	https://github.com/ReadyTalk/avian/blob/master/license.txt	License Reference
 -1 Not found: A connection with the server could not be established : Unknown error	http://plan9.bell-labs.com/plan9/license.html	Reference 1
 500 Internal Server Error	https://ipfs.io/ipns/boards.ydns.eu/	Boards
-404 Not Found	https://github.com/thoughtbot/neat/blob/master/LICENSE	License Reference
 500 Internal Server Error	http://paste.apotheon.net/?p=cmms	CMMS
 -1 Not found: The server name or address could not be resolved : Unknown error	https://derf.homelinux.org/projects/feh/	feh
 -1 Not found: The host name in the certificate is invalid or does not match : Unknown error	https://tshannon.bitbucket.org/freehold/	Freehold

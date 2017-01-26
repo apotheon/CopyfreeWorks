@@ -1647,13 +1647,13 @@ OGRE:
   - http://sourceforge.net/p/ogre/code/HEAD/tree/trunk/COPYING
 OpenCV:
   uri:
-  - http://opencv.willowgarage.com/wiki/Welcome
+  - http://opencv.org
   tags:
   - graphics
   - software
   license:
   - Simplified BSD License
-  license_reference: []
+  license_reference: https://github.com/opencv/opencv/blob/master/LICENSE
 Panda3D:
   uri:
   - http://www.panda3d.org/

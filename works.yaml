@@ -1223,7 +1223,7 @@ Qtile:
   - https://github.com/qtile/qtile/blob/develop/LICENSE
 SpectrWM:
   uri:
-  - https://opensource.conformal.com/wiki/spectrwm
+  - https://github.com/conformal/spectrwm
   tags:
   - software
   - tiling
@@ -1231,7 +1231,7 @@ SpectrWM:
   license:
   - ISC License
   license_reference:
-  - https://opensource.conformal.com/wiki/spectrwm#License
+  - https://github.com/conformal/spectrwm/blob/master/LICENSE.md
 spook:
   uri:
   - http://incise.org/spook-window-manager.html
@@ -1291,7 +1291,7 @@ wmii:
   - https://code.google.com/p/wmii/source/browse/LICENSE
 XD640:
   uri:
-  - http://xd640.berlios.de/
+  - http://lienher.org/jean-marc/xd640.html
   tags:
   - software
   - window manager
@@ -3870,7 +3870,7 @@ Meteor:
   license:
   - MIT/X11 License
   license_reference:
-  - https://github.com/meteor/meteor/blob/devel/LICENSE.txt
+  - https://github.com/meteor/meteor/blob/devel/LICENSE
   description:
   - Meteor is an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
 bspwm:

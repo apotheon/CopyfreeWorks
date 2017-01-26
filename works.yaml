@@ -3455,7 +3455,7 @@ Bourbon Neat:
   license:
   - MIT/X11 License
   license_reference:
-  - https://github.com/thoughtbot/neat/blob/master/LICENSE
+  - https://github.com/thoughtbot/neat/blob/master/LICENSE.md
 Posical:
   uri:
   - http://blog.zdsmith.com/posical-the-positivist-calendar-for-python.html
@@ -5004,7 +5004,7 @@ Avian:
   license:
   - ISC License
   license_reference:
-  - https://github.com/ReadyTalk/avian/blob/master/license.txt
+  - https://github.com/ReadyTalk/avian/blob/master/LICENSE.txt
   description:
   - Avian is a lightweight virtual machine and class library designed to provide a useful subset of Java’s features, suitable for building self-contained applications.
 Capuchin:

@@ -5,12 +5,9 @@
 500 Internal Server Error	http://paste.apotheon.net/?p=cmms	CMMS
 -1 Not found: The server name or address could not be resolved : Unknown error	https://derf.homelinux.org/projects/feh/	feh
 -1 Not found: The host name in the certificate is invalid or does not match : Unknown error	https://tshannon.bitbucket.org/freehold/	Freehold
--1 Not found: The server name or address could not be resolved : Unknown error	http://huia-lang.org/	Huia
 404 Not Found	http://source.icu-project.org/repos/icu/icu/trunk/license.html	License Reference
 -1 Not found: The server name or address could not be resolved : Unknown error	http://irclog.gr/	ircloggr
-403 Forbidden	http://pqxx.org/development/libpqxx/browser/trunk/COPYING	License Reference
 404 Not Found	https://gitorious.org/mdb/mdb/blobs/mdb.master/libraries/liblmdb/LICENSE	License Reference
-404 Not Found	http://tools.suckless.org/lsw	lsw
 404 Not Found	https://github.com/mit-cml/appinventor-sources/blob/master/mitlicense.txt	License Reference
 404 Not Found	https://github.com/meteor/meteor/blob/devel/LICENSE.txt	License Reference
 404 Not Found	https://github.com/OctaForge/OF-Engine/blob/master/COPYING.txt	License Reference

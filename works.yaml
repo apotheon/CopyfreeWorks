@@ -3604,7 +3604,7 @@ Sita Sings the Blues:
   - http://www.sitasingstheblues.com/license.html
 Your Face is a Saxophone:
   uri:
-  - http://yfias.com/
+  - https://github.com/Zacqary/Your-Face-is-a-Saxophone
   tags:
   - animation
   - comedy
@@ -3613,7 +3613,7 @@ Your Face is a Saxophone:
   license:
   - CC0
   license_reference:
-  - http://plankhead.com/projects/yfias-source
+  - []
 ShowOff:
   uri:
   - https://github.com/puppetlabs/showoff

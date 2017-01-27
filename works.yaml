@@ -1653,7 +1653,8 @@ OpenCV:
   - software
   license:
   - Simplified BSD License
-  license_reference: https://github.com/opencv/opencv/blob/master/LICENSE
+  license_reference: 
+  - https://github.com/opencv/opencv/blob/master/LICENSE
 Panda3D:
   uri:
   - http://www.panda3d.org/

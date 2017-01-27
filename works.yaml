@@ -1487,7 +1487,7 @@ Lightning Memory-Mapped Database:
   license:
   - OpenLDAP License 2.8
   license_reference:
-  - https://gitorious.org/mdb/mdb/blobs/mdb.master/libraries/liblmdb/LICENSE
+  - https://gitorious.org/mdb/mdb?p=mdb:mdb.git;a=blob;f=libraries/liblmdb/LICENSE
 pgsi:
   uri:
   - http://bucardo.org/wiki/Pgsi
@@ -2871,8 +2871,7 @@ Abaco:
   license:
   - Lucent Public License
   license_reference:
-  - http://plan9.bell-labs.com/plan9/license.html
-  - http://plan9.bell-labs.com/sources/plan9/sys/src/cmd/abaco/
+  - []
 Sunrise:
   uri:
   - https://code.google.com/p/sunrisebrowser/

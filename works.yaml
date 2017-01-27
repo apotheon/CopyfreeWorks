@@ -2239,6 +2239,18 @@ Jester:
   - MIT/X11 License
   license_reference:
   - https://github.com/dom96/jester/blob/master/license.txt
+JQuery:
+  uri:
+  - https://jquery.org
+  tags:
+  - library
+  - software
+  - ui
+  - web
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://jquery.org/license
 Julia:
   uri:
   - http://julialang.org/

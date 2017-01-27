@@ -3203,7 +3203,7 @@ Octaforge:
   license:
   - University of Illinois/NCSA Open Source License
   license_reference:
-  - https://github.com/OctaForge/OF-Engine/blob/master/COPYING.txt
+  - https://github.com/OctaForge/OF-Engine/blob/master/COPYING.md
   description:
   - Octaforge is a 3D game engine.
 SIEGE:
@@ -3961,7 +3961,7 @@ Archiveopteryx:
   - Archiveopteryx stores email in a database and provides access to it through IMAP and more.
 Pond:
   uri:
-  - https://pond.imperialviolet.org/
+  - https://github.com/agl/pond
   tags:
   - client
   - email
@@ -3984,6 +3984,7 @@ Foxtrot:
   - network
   - software
   - encryption
+  - inactive
   license:
   - MIT/X11 License
   license_reference:
@@ -5298,7 +5299,7 @@ recommonmark:
   - As a Docutils compatibility bridge for CommonMark, recommonmark is a Markdown parser library.
 Up1:
   uri:
-  - https://up1.ca/
+  - https://github.com/Upload/Up1
   tags:
   - network
   - software
@@ -5307,7 +5308,7 @@ Up1:
   license:
   - MIT/X11 License
   license_reference:
-  - https://github.com/Upload/Up1
+  - https://github.com/Upload/Up1/blob/master/LICENSE
   description:
   - Up1 is a simple host that client-side encrypts images, text, and other data, and stores them, with the server knowing nothing about the contents. It has the ability to view images, text with syntax highlighting, short videos, and arbitrary binaries as downloadables.
 World Citizenship:

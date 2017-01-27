@@ -2883,8 +2883,7 @@ Abaco:
   - web
   license:
   - Lucent Public License
-  license_reference:
-  - []
+  license_reference: []
 Sunrise:
   uri:
   - https://code.google.com/p/sunrisebrowser/

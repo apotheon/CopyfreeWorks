@@ -3613,8 +3613,7 @@ Your Face is a Saxophone:
   - series
   license:
   - CC0
-  license_reference:
-  - []
+  license_reference: []
 ShowOff:
   uri:
   - https://github.com/puppetlabs/showoff
@@ -3955,8 +3954,7 @@ Archiveopteryx:
   - software
   license:
   - PostgreSQL License
-  license_reference:
-  - []
+  license_reference: []
   description:
   - Archiveopteryx stores email in a database and provides access to it through IMAP and more.
 Pond:
@@ -4260,8 +4258,7 @@ Aegisub:
   - subtitles
   license:
   - Revised BSD License
-  license_reference:
-  - []
+  license_reference: []
   description:
   - Aegisub is a free, cross-platform open source tool for creating and modifying subtitles. Aegisub makes it quick and easy to time subtitles to audio, and features many powerful tools for styling them, including a built-in real-time video preview.
 Screen Editor:

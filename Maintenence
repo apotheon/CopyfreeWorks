@@ -1,4 +1,3 @@
-500 Internal Server Error	https://ipfs.io/ipns/boards.ydns.eu/	Boards
 500 Internal Server Error	http://paste.apotheon.net/?p=cmms	CMMS
 -1 Not found: The host name in the certificate is invalid or does not match : Unknown error	https://tshannon.bitbucket.org/freehold/	Freehold
 404 Not Found	http://source.icu-project.org/repos/icu/icu/trunk/license.html	License Reference
@@ -10,6 +9,3 @@
 403 Forbidden	http://www.cs.mun.ca/~michael/pdksh/	pdksh
 404 Not Found	http://www.pnotepad.org/licensing/	License Reference
 404 Not Found	http://raggle.org/files/COPYING	License Reference
-404 Not Found	https://github.com/Jermolene/TiddlyWiki5/blob/master/licenses/copyright.md	License Reference
--1 Not found: The server name or address could not be resolved : Unknown error	http://yfias.com/	Your Face is a Saxophone
--1 Not found: The server name or address could not be resolved : Unknown error	http://plankhead.com/projects/yfias-source	License Reference

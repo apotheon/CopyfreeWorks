@@ -1,16 +1,9 @@
-502 Bad Gateway	http://devel.aegisub.org/browser/aegisub/LICENCE	License Reference
-404 Not Found	https://github.com/aox/aox/blob/master/doc/readme/bsd.txt	License Reference
--1 Not found: A connection with the server could not be established : Unknown error	http://plan9.bell-labs.com/plan9/license.html	Reference 1
 500 Internal Server Error	https://ipfs.io/ipns/boards.ydns.eu/	Boards
 500 Internal Server Error	http://paste.apotheon.net/?p=cmms	CMMS
 -1 Not found: The host name in the certificate is invalid or does not match : Unknown error	https://tshannon.bitbucket.org/freehold/	Freehold
 404 Not Found	http://source.icu-project.org/repos/icu/icu/trunk/license.html	License Reference
--1 Not found: The server name or address could not be resolved : Unknown error	http://irclog.gr/	ircloggr
-404 Not Found	https://gitorious.org/mdb/mdb/blobs/mdb.master/libraries/liblmdb/LICENSE	License Reference
-404 Not Found	https://github.com/mit-cml/appinventor-sources/blob/master/mitlicense.txt	License Reference
 404 Not Found	https://github.com/OctaForge/OctaScript	OctaScript
 404 Not Found	https://github.com/OctaForge/OctaScript/blob/master/COPYING.txt	License Reference
-404 Not Found	https://github.com/OpenBazaar/openbazaar-connector/blob/master/package.json	License Reference
 -1 Not found: The server name or address could not be resolved : Unknown error	http://openpgp.nominet.org.uk/cgi-bin/trac.cgi/wiki	OpenPGP SDK
 403 Forbidden	http://www.cs.mun.ca/~michael/pdksh/LEGAL	License Reference
 404 Not Found	http://blog.zdsmith.com/posical-the-positivist-calendar-for-python.html	Posical

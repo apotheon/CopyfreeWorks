@@ -5447,22 +5447,6 @@ OpenBazaar Client:
   - https://github.com/OpenBazaar/OpenBazaar-Client
   description:
   - The OpenBazaar client is a front-end Electron application for talking with the OpenBazaar-Server daemon.
-OpenBazaar Connector:
-  uri:
-  - https://openbazaar.org/
-  tags:
-  - cryptocurrency
-  - development
-  - javascript
-  - networking
-  - openbazaar
-  - software
-  license:
-  - MIT/X11 License
-  license_reference:
-  - https://github.com/OpenBazaar/openbazaar-connector/blob/master/package.json
-  description:
-  - OpenBazaar Connector is a software development kit for connecting to the OpenBazaar websocket.
 OpenBazaar Installer:
   uri:
   - https://openbazaar.org/

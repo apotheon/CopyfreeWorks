@@ -175,7 +175,7 @@ Tor:
   license:
   - Revised BSD License
   license_reference:
-  - https://gitweb.torproject.org/tor.git/blob_plain/HEAD:/LICENSE
+  - https://gitweb.torproject.org/tor.git/tree/LICENSE
 PostgreSQL:
   uri:
   - http://www.postgresql.org/
@@ -1223,7 +1223,7 @@ Qtile:
   - https://github.com/qtile/qtile/blob/develop/LICENSE
 SpectrWM:
   uri:
-  - https://opensource.conformal.com/wiki/spectrwm
+  - https://github.com/conformal/spectrwm
   tags:
   - software
   - tiling
@@ -1231,7 +1231,7 @@ SpectrWM:
   license:
   - ISC License
   license_reference:
-  - https://opensource.conformal.com/wiki/spectrwm#License
+  - https://github.com/conformal/spectrwm/blob/master/LICENSE.md
 spook:
   uri:
   - http://incise.org/spook-window-manager.html
@@ -1291,7 +1291,7 @@ wmii:
   - https://code.google.com/p/wmii/source/browse/LICENSE
 XD640:
   uri:
-  - http://xd640.berlios.de/
+  - http://lienher.org/jean-marc/xd640.html
   tags:
   - software
   - window manager
@@ -1318,19 +1318,9 @@ dmenu:
   - MIT/X11 License
   license_reference:
   - http://git.suckless.org/dmenu/plain/LICENSE
-feh:
-  uri:
-  - https://derf.homelinux.org/projects/feh/
-  tags:
-  - image viewer
-  - software
-  license:
-  - MIT/X11 License
-  license_reference:
-  - http://git.finalrewind.org/feh/plain/COPYING
 lsw:
   uri:
-  - http://tools.suckless.org/lsw
+  - http://git.suckless.org/lsw/
   tags:
   - software
   - utility
@@ -1487,7 +1477,7 @@ libpqxx:
   license:
   - Revised BSD License
   license_reference:
-  - http://pqxx.org/development/libpqxx/browser/trunk/COPYING
+  - https://github.com/jtv/libpqxx/blob/master/COPYING
 Lightning Memory-Mapped Database:
   uri:
   - http://symas.com/mdb/
@@ -1497,7 +1487,7 @@ Lightning Memory-Mapped Database:
   license:
   - OpenLDAP License 2.8
   license_reference:
-  - https://gitorious.org/mdb/mdb/blobs/mdb.master/libraries/liblmdb/LICENSE
+  - https://gitorious.org/mdb/mdb?p=mdb:mdb.git;a=blob;f=libraries/liblmdb/LICENSE
 pgsi:
   uri:
   - http://bucardo.org/wiki/Pgsi
@@ -1657,13 +1647,14 @@ OGRE:
   - http://sourceforge.net/p/ogre/code/HEAD/tree/trunk/COPYING
 OpenCV:
   uri:
-  - http://opencv.willowgarage.com/wiki/Welcome
+  - http://opencv.org
   tags:
   - graphics
   - software
   license:
   - Simplified BSD License
-  license_reference: []
+  license_reference: 
+  - https://github.com/opencv/opencv/blob/master/LICENSE
 Panda3D:
   uri:
   - http://www.panda3d.org/
@@ -2250,7 +2241,7 @@ Jester:
   - https://github.com/dom96/jester/blob/master/license.txt
 JQuery:
   uri:
-  - https://jquery.org/
+  - https://jquery.org
   tags:
   - library
   - software
@@ -2259,7 +2250,7 @@ JQuery:
   license:
   - MIT/X11 License
   license_reference:
-  - https://jquery.org/license/
+  - https://jquery.org/license
 Julia:
   uri:
   - http://julialang.org/
@@ -2317,16 +2308,6 @@ VMKit:
   license:
   - University of Illinois/NCSA Open Source License
   license_reference: []
-MIT App Inventor:
-  uri:
-  - http://appinventor.mit.edu/explore/
-  tags:
-  - android
-  - software
-  license:
-  - MIT/X11 License
-  license_reference:
-  - https://github.com/mit-cml/appinventor-sources/blob/master/mitlicense.txt
 Nim:
   uri:
   - http://nim-lang.org/
@@ -2473,7 +2454,7 @@ Sizzle:
   license:
   - MIT/X11 License
   license_reference:
-  - https://github.com/jquery/sizzle/blob/master/MIT-LICENSE.txt
+  - https://github.com/jquery/sizzle/blob/master/LICENSE.txt
 Squirrel:
   uri:
   - http://squirrel-lang.org/
@@ -2902,9 +2883,7 @@ Abaco:
   - web
   license:
   - Lucent Public License
-  license_reference:
-  - http://plan9.bell-labs.com/plan9/license.html
-  - http://plan9.bell-labs.com/sources/plan9/sys/src/cmd/abaco/
+  license_reference: []
 Sunrise:
   uri:
   - https://code.google.com/p/sunrisebrowser/
@@ -3235,7 +3214,7 @@ Octaforge:
   license:
   - University of Illinois/NCSA Open Source License
   license_reference:
-  - https://github.com/OctaForge/OF-Engine/blob/master/COPYING.txt
+  - https://github.com/OctaForge/OF-Engine/blob/master/COPYING.md
   description:
   - Octaforge is a 3D game engine.
 SIEGE:
@@ -3455,7 +3434,7 @@ Bourbon Neat:
   license:
   - MIT/X11 License
   license_reference:
-  - https://github.com/thoughtbot/neat/blob/master/LICENSE
+  - https://github.com/thoughtbot/neat/blob/master/LICENSE.md
 Posical:
   uri:
   - http://blog.zdsmith.com/posical-the-positivist-calendar-for-python.html
@@ -3637,7 +3616,7 @@ Sita Sings the Blues:
   - http://www.sitasingstheblues.com/license.html
 Your Face is a Saxophone:
   uri:
-  - http://yfias.com/
+  - https://github.com/Zacqary/Your-Face-is-a-Saxophone
   tags:
   - animation
   - comedy
@@ -3645,8 +3624,7 @@ Your Face is a Saxophone:
   - series
   license:
   - CC0
-  license_reference:
-  - http://plankhead.com/projects/yfias-source
+  license_reference: []
 ShowOff:
   uri:
   - https://github.com/puppetlabs/showoff
@@ -3688,7 +3666,7 @@ Twitter Bootstrap:
   - https://github.com/twbs/bootstrap/blob/master/LICENSE
 ircloggr:
   uri:
-  - http://irclog.gr/
+  - https://github.com/lloyd/ircloggr
   tags:
   - ircbot
   - logging
@@ -3902,7 +3880,7 @@ Meteor:
   license:
   - MIT/X11 License
   license_reference:
-  - https://github.com/meteor/meteor/blob/devel/LICENSE.txt
+  - https://github.com/meteor/meteor/blob/devel/LICENSE
   description:
   - Meteor is an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
 bspwm:
@@ -3987,13 +3965,12 @@ Archiveopteryx:
   - software
   license:
   - PostgreSQL License
-  license_reference:
-  - https://github.com/aox/aox/blob/master/doc/readme/bsd.txt
+  license_reference: []
   description:
   - Archiveopteryx stores email in a database and provides access to it through IMAP and more.
 Pond:
   uri:
-  - https://pond.imperialviolet.org/
+  - https://github.com/agl/pond
   tags:
   - client
   - email
@@ -4016,6 +3993,7 @@ Foxtrot:
   - network
   - software
   - encryption
+  - inactive
   license:
   - MIT/X11 License
   license_reference:
@@ -4291,8 +4269,7 @@ Aegisub:
   - subtitles
   license:
   - Revised BSD License
-  license_reference:
-  - http://devel.aegisub.org/browser/aegisub/LICENCE
+  license_reference: []
   description:
   - Aegisub is a free, cross-platform open source tool for creating and modifying subtitles. Aegisub makes it quick and easy to time subtitles to audio, and features many powerful tools for styling them, including a built-in real-time video preview.
 Screen Editor:
@@ -4702,7 +4679,7 @@ TiddlyWiki:
   license:
   - Revised BSD License
   license_reference:
-  - https://github.com/Jermolene/TiddlyWiki5/blob/master/licenses/copyright.md
+  - https://github.com/Jermolene/TiddlyWiki5/blob/master/license.md
   description:
   - TiddlyWiki is a non-linear personal web notebook, implemented as a complete interactive wiki in JavaScript.  It can be used as a single HTML file in the browser or as a powerful Node.js application.  The entire user interface is itself implemented in hackable WikiText.
 Taskwarrior:
@@ -4928,7 +4905,7 @@ Apricot:
   - Apricot is a programming language inspired by Clojure and Lisp that runs on the Rubinius VM. Apricot code is compiled to Rubinius bytecode which allows it to call Ruby functions directly (and vice versa).
 Huia:
   uri:
-  - http://huia-lang.org/
+  - https://github.com/jamesotron/Huia
   tags:
   - huia
   - language
@@ -5004,7 +4981,7 @@ Avian:
   license:
   - ISC License
   license_reference:
-  - https://github.com/ReadyTalk/avian/blob/master/license.txt
+  - https://github.com/ReadyTalk/avian/blob/master/LICENSE.txt
   description:
   - Avian is a lightweight virtual machine and class library designed to provide a useful subset of Java’s features, suitable for building self-contained applications.
 Capuchin:
@@ -5330,7 +5307,7 @@ recommonmark:
   - As a Docutils compatibility bridge for CommonMark, recommonmark is a Markdown parser library.
 Up1:
   uri:
-  - https://up1.ca/
+  - https://github.com/Upload/Up1
   tags:
   - network
   - software
@@ -5339,7 +5316,7 @@ Up1:
   license:
   - MIT/X11 License
   license_reference:
-  - https://github.com/Upload/Up1
+  - https://github.com/Upload/Up1/blob/master/LICENSE
   description:
   - Up1 is a simple host that client-side encrypts images, text, and other data, and stores them, with the server knowing nothing about the contents. It has the ability to view images, text with syntax highlighting, short videos, and arbitrary binaries as downloadables.
 World Citizenship:
@@ -5480,7 +5457,7 @@ OpenBazaar Client:
   - The OpenBazaar client is a front-end Electron application for talking with the OpenBazaar-Server daemon.
 OpenBazaar Connector:
   uri:
-  - https://openbazaar.org/
+  - https://github.com/STRML/openbazaar-connector
   tags:
   - cryptocurrency
   - development
@@ -5491,7 +5468,7 @@ OpenBazaar Connector:
   license:
   - MIT/X11 License
   license_reference:
-  - https://github.com/OpenBazaar/openbazaar-connector/blob/master/package.json
+  - https://github.com/STRML/openbazaar-connector
   description:
   - OpenBazaar Connector is a software development kit for connecting to the OpenBazaar websocket.
 OpenBazaar Installer:
@@ -5618,7 +5595,7 @@ Redox:
   license:
   - MIT/X11 License
   license_reference:
-  - https://github.com/redox-os/redox/blob/master/LICENSE.md
+  - https://github.com/redox-os/redox/blob/master/LICENSE
   description:
   - Redox is a Unix-like Operating System written in Rust, aiming to bring the innovations of Rust to a modern microkernel and full set of applications.
 vis:

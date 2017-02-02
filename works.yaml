@@ -6822,7 +6822,7 @@ Mail-in-a-Box:
   uri:
   - https://mailinabox.email/
   description:
-  - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
+  - 'Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.'
   license:
   - CC0
   license_reference:

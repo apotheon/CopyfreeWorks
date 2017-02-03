@@ -7745,12 +7745,25 @@ Spry:
   - software
 OpenFPGA:
   uri:
-    - https://github.com/haojunliu/OpenFPGA
+  - https://github.com/haojunliu/OpenFPGA
   license:
-    - Simplified BSD License
+  - Simplified BSD License
   license_reference:
-    - https://github.com/haojunliu/OpenFPGA/blob/master/LICENSE
+  - https://github.com/haojunliu/OpenFPGA/blob/master/LICENSE
   tags:
-    - fpga
-    - programming
-    - software
+  - fpga
+  - programming
+  - software
+Yarn:
+  uri:
+  - https://yarnpkg.com/
+  description:
+  - Yarn provides fast, reliable, and secure dependency management for JavaScript.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/yarnpkg/yarn/blob/master/LICENSE
+  tags:
+  - javascript
+  - package management
+  - software

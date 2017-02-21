@@ -6561,12 +6561,13 @@ scc:
   - software
 Myrddin:
   uri:
-  - http://eigenstate.org/myrddin/
+  - http://myrlang.org
   description:
   - Myrddin is a systems programming language that covers a similar niche as C including desktop, OS, and embedded development, but at the same time making it harder to shoot yourself in the foot.
   license:
   - MIT/X11 License
   license_reference:
+  - https://github.com/oridb/mc/blob/master/LICENSE
   - https://git.eigenstate.org/ori/mc.git/tree/LICENSE
   - https://github.com/8l/myrddin/blob/master/LICENSE
   tags:
@@ -7767,3 +7768,54 @@ Yarn:
   - javascript
   - package management
   - software
+Jeeves:
+  uri:
+  - https://projects.csail.mit.edu/jeeves/
+  - https://github.com/jeanqasaur/jeeves
+  description:
+  - Jeeves is a programming language for automatically enforcing privacy policies.  We have implemented it as an embedded domain-specific language in Python.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/jeanqasaur/jeeves/blob/master/LICENSE
+  tags:
+  - dsl
+  - jeeves
+  - language
+  - privacy
+  - programming
+  - python
+  - security
+  - software
+Jeeves In Haskell:
+  uri:
+  - https://projects.csail.mit.edu/jeeves/
+  - https://github.com/drevarose/jeeves-in-haskell
+  description:
+  - Jeeves is a programming language for automatically enforcing privacy policies.  This implementation was built in Haskell.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/drevarose/jeeves-in-haskell/blob/master/LICENSE
+  tags:
+  - dsl
+  - jeeves
+  - language
+  - privacy
+  - programming
+  - haskell
+  - security
+  - software
+TermKit:
+  uri:
+  - http://acko.net/blog/on-termkit/
+  description:
+  - TermKit is an experimental terminal platform built on WebKit and Node.js, currently available for Apple MacOS, MS Windows, and WebKit browsers.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/unconed/TermKit/blob/master/License.txt
+  tags:
+  - console
+  - software
+  - web

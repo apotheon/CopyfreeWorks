@@ -1595,16 +1595,6 @@ GraphicsMagick:
   - MIT/X11 License
   license_reference:
   - http://www.graphicsmagick.org/Copyright.html
-IUP:
-  uri:
-  - http://www.tecgraf.puc-rio.br/iup/
-  tags:
-  - graphics
-  - software
-  license:
-  - MIT/X11 License
-  license_reference:
-  - http://www.tecgraf.puc-rio.br/iup/en/copyright.html
 jMonkeyEngine:
   uri:
   - http://jmonkeyengine.org/
@@ -6441,13 +6431,13 @@ Electron:
   - widgets
 IUP:
   uri:
-  - http://webserver2.tecgraf.puc-rio.br/iup/
+  - http://www.tecgraf.puc-rio.br/iup/
   description:
-  - IUP is a multi-platform toolkit for building graphical user interfaces.  It offers a simple API in three basic languages: C, Lua and LED.  IUP's purpose is to allow a program source code to be compiled in different systems without any modification.
+  - "IUP is a multi-platform toolkit for building graphical user interfaces.  It offers a simple API in three basic languages: C, Lua and LED.  IUP's purpose is to allow a program source code to be compiled in different systems without any modification."
   license:
   - MIT/X11 License
   license_reference:
-  - http://webserver2.tecgraf.puc-rio.br/iup/en/copyright.html
+  - http://www.tecgraf.puc-rio.br/iup/en/copyright.html
   tags:
   - gui
   - library
@@ -7819,3 +7809,42 @@ TermKit:
   - console
   - software
   - web
+Version Connector:
+  uri:
+  - https://www.spigotmc.org/resources/version-connector.20179/
+  description:
+  - Version Connector is a Bungee plugin to connect different Minecraft client versions to different servers on join or server switch.  It includes simple load balancing and Forge switch.
+  license:
+  - Nietzsche Public License
+  license_reference:
+  - https://github.com/Phoenix616/VersionConnector/blob/master/src/main/java/de/themoep/versionconnector/VersionConnector.java
+  tags:
+  - minecraft
+  - network
+  - plugin
+  - software
+BungeePlugin:
+  uri:
+  - https://github.com/Phoenix616/BungeePlugin
+  description:
+  - BungeePlugin is a framework to better provide some basic Bungee plugin methods like Bukkit does.
+  license:
+  - Nietzsche Public License
+  license_reference:
+  - https://github.com/Phoenix616/BungeePlugin/blob/master/LICENSE
+  tags:
+  - framework
+  - plugin
+  - software
+BlockElytraArrowBoost:
+  uri:
+  - https://github.com/Phoenix616/BlockElytraArrowBoost
+  description:
+  - BlockElytraArrowBoost is a simple bukkit plugin to block boosting yourself with arrows while gliding with an Elytra.
+  license:
+  - Nietzsche Public License
+  license_reference:
+  - https://github.com/Phoenix616/BlockElytraArrowBoost/blob/master/README.md
+  tags:
+  - plugin
+  - software

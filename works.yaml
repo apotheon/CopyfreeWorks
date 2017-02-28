@@ -7887,3 +7887,61 @@ Mythryl:
   - mythryl
   - programming
   - software
+CakeML:
+  uri:
+  - https://cakeml.org/
+  description:
+  - CakeML is a verified REPL interpreter implementation of a significant subset of Standard ML.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/CakeML/cakeml/blob/master/COPYING
+  tags:
+  - compiler
+  - programming
+  - repl
+  - sml
+  - software
+Checked C:
+  uri:
+  - https://www.microsoft.com/en-us/research/project/checked-c/
+  description:
+  - Checked C is an extension to C that adds static and dynamic checking to detect or prevent common programming errors such as buffer overruns, out-of-bounds memory accesses, and incorrect type casts.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/Microsoft/checkedc/blob/master/LICENSE.TXT
+  tags:
+  - c
+  - compiler
+  - programming
+  - software
+gps:
+  uri:
+  - https://github.com/sdboyer/gps
+  description:
+  - The Go Package Solver is an engine for tackling dependency management problems in Go.  It is trivial -- about 35 lines of code -- to replicate the fetching bits of go get using gps.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/sdboyer/gps/blob/master/LICENSE
+  tags:
+  - go
+  - library
+  - package management
+  - programming
+  - software
+Pony:
+  uri:
+  - http://www.ponylang.org/
+  description:
+  - Pony is an open-source, object-oriented, actor-model, capabilities-secure, high performance programming language.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/ponylang/ponyc/blob/master/LICENSE
+  tags:
+  - c
+  - compiler
+  - programming
+  - software

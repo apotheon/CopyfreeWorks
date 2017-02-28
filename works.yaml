@@ -7848,3 +7848,42 @@ BlockElytraArrowBoost:
   tags:
   - plugin
   - software
+unixdesktops:
+  uri:
+  - https://github.com/rosedovell/unixdesktops
+  description:
+  - The unixdesktops project is a collection of scripts meant to install desktop environments on unix-like operating systems following a base install.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/rosedovell/unixdesktops/blob/master/LICENSE
+  tags:
+  - software
+NetworkMgr:
+  uri:
+  - https://github.com/GhostBSD/networkmgr
+  description:
+  - NetworkMgr is a Python/GTK network management tool for FreeBSD and GhostBSD.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/GhostBSD/networkmgr/blob/master/LICENSE
+  tags:
+  - gui
+  - network
+  - software
+Mythryl:
+  uri:
+  - http://mythryl.org/
+  description:
+  - Mythryl is an SML-derived language that aims to deftly combine C speed, Lisp power, and Ruby convenience with the critical new ingredients of Hindley-Milner typing, state of the art generics, and just the right level of side effects.
+  license:
+  - SML/NJ License
+  license_reference:
+  - https://github.com/mythryl/mythryl/blob/master/SMLNJ-COPYRIGHT
+  tags:
+  - compiler
+  - language
+  - mythryl
+  - programming
+  - software

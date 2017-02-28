@@ -7941,6 +7941,20 @@ Pony:
   license_reference:
   - https://github.com/ponylang/ponyc/blob/master/LICENSE
   tags:
+  - compiler
+  - pony
+  - programming
+  - software
+Quick C:
+  uri:
+  - https://github.com/andrewchambers/qc
+  description:
+  - Quick C, written in Myrddin, is a C frontend for the QBE backend.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/andrewchambers/qc/blob/master/LICENSE
+  tags:
   - c
   - compiler
   - programming

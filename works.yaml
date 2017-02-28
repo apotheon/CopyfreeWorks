@@ -4669,7 +4669,7 @@ TiddlyWiki:
   license:
   - Revised BSD License
   license_reference:
-  - https://github.com/Jermolene/TiddlyWiki5/blob/master/license.md
+  - https://github.com/Jermolene/TiddlyWiki5/blob/master/license
   description:
   - TiddlyWiki is a non-linear personal web notebook, implemented as a complete interactive wiki in JavaScript.  It can be used as a single HTML file in the browser or as a powerful Node.js application.  The entire user interface is itself implemented in hackable WikiText.
 Taskwarrior:
@@ -6080,7 +6080,7 @@ Let's Chat:
   - Let's Chat is a persistent messaging application that runs on Node.js and MongoDB. It's designed to be easily deployable and fits well with small, intimate teams.
 Nothing To Hide:
   uri:
-  - http://www.nothingtohide.cc/
+  - https://github.com/ncase/nothing-to-hide
   tags:
   - game
   - software

@@ -8051,3 +8051,32 @@ Alice ML:
   - programming
   - alice ml
   - software
+Mezzano:
+  uri:
+  - https://github.com/froggey/Mezzano
+  description:
+  - Mezzano is an operating system written in Common Lisp.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/froggey/Mezzano/blob/master/LICENCE
+  tags:
+  - common lisp
+  - os
+  - software
+Upspin:
+  uri:
+  - https://upspin.io/
+  description:
+  - "Upspin is an experimental project to build a framework for naming and sharing files and other data securely, uniformly, and globally: a global name system of sorts.  It is not a file system, but a set of protocols and reference implementations that can be used to join things like file systems and other storage services to the name space."
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/upspin/upspin/blob/master/LICENSE
+  tags:
+  - client
+  - file management
+  - network
+  - protocol
+  - server
+  - software

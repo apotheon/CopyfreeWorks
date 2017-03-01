@@ -2028,7 +2028,6 @@ SML/NJ:
   - http://www.smlnj.org/
   tags:
   - compiler
-  - language
   - programming
   - sml
   - software
@@ -7958,4 +7957,97 @@ Quick C:
   - c
   - compiler
   - programming
+  - software
+Zig:
+  uri:
+  - http://ziglang.org/
+  description:
+  - Zig is a system programming language that prioritizes optimality, safety, and readability.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/andrewrk/zig/blob/master/LICENSE
+  tags:
+  - compiler
+  - language
+  - programming
+  - software
+  - zig
+FreePD:
+  uri:
+  - http://freepd.com/
+  description:
+  - So you've scoured the internets in search of music recordings in the Public Domain and found bupkis.  If only someone would have gone out and found all of the decent Public Domain recordings and collected them in one spot!  If only.  FreePD is that collection of public domain music.
+  license:
+  - public domain
+  license_reference: []
+  tags:
+  - collection
+  - content
+  - image
+twister:
+  uri:
+  - http://twister.net.co/
+  description:
+  - A fully decentralized P2P microblogging platform, twister builds on open implementations of Bitcoin and BitTorrent protocols.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/miguelfreitas/twister-core/blob/master/COPYING
+  tags:
+  - distributed
+  - privacy
+  - software
+  - web
+xbps:
+  uri:
+  - http://www.voidlinux.eu/
+  description:
+  - The native system package manager for Void Linux is xbps.  It allows you to quickly install/update/remove software in your system and features detection of incompatible shared libraries and dependencies while updating or removing packages (among others).
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/voidlinux/xbps/blob/master/COPYING
+  tags:
+  - package management
+  - software
+FuguIta:
+  uri:
+  - http://fuguita.org/?FuguIta
+  description:
+  - FuguIta is a "live system" that boots from removable media, based on OpenBSD.
+  license:
+  - ISC License
+  license_reference: []
+  tags:
+  - bsd
+  - os
+  - software
+  - unix
+HaMLet:
+  uri:
+  - https://people.mpi-sws.org/~rossberg/hamlet/
+  description:
+  - HaMLet is a faithful and complete implementation of the Standard ML programming language (SML'97).  It aims to be an accurate reference implementation of the language specification, a platform for experimentation with the language semantics or extensions to it, and a useful tool for educational purposes.
+  license:
+  - custom license
+  license_reference: []
+  tags:
+  - compiler
+  - programming
+  - sml
+  - software
+Alice ML:
+  uri:
+  - http://www.ps.uni-saarland.de/alice/
+  description:
+  - Alice ML is a functional programming language based on Standard ML, extended with rich support for concurrent, distributed, and constraint programming.
+  license:
+  - custom license
+  license_reference:
+  - https://github.com/aliceml/aliceml-alice/blob/master/COPYING
+  tags:
+  - compiler
+  - programming
+  - alice ml
   - software

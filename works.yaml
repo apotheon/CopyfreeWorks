@@ -1,9 +1,9 @@
 ---
-Stocksnap:
+StockSnap:
   uri:
   - https://stocksnap.io
   description:
-  - StockSnap is the best place on the internet to find beautiful free stock photos.
+  - StockSnap offers hundreds of high resolution images, added weekly, free from copyright restrictions.
   license:
   - CC0
   license_reference:
@@ -11,6 +11,7 @@ Stocksnap:
   tags:
   - image
   - collection
+  - web
 Pixabay:
   uri:
   - https://pixabay.com
@@ -23,11 +24,13 @@ Pixabay:
   tags:
   - image
   - collection
+  - video
+  - web
 Pexels:
   uri:
   - https://www.pexels.com
   description:
-  - Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license. All photos are nicely tagged, searchable and also easy to discover through our discover pages.
+  - Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license.  All photos are nicely tagged, searchable, and easy to discover through its discover pages.
   license:
   - CC0
   license_reference:
@@ -35,6 +38,7 @@ Pexels:
   tags:
   - image
   - collection
+  - web
 The Lounge:
   uri:
   - https://thelounge.github.io
@@ -3971,8 +3975,8 @@ Unsplash:
   - http://unsplash.com/
   tags:
   - collection
-  - content
   - image
+  - web
   license:
   - CC0
   license_reference: []

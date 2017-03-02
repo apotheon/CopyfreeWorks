@@ -1,4 +1,40 @@
 ---
+Stocksnap:
+  uri:
+  - https://stocksnap.io
+  description:
+  - StockSnap is the best place on the internet to find beautiful free stock photos.
+  license:
+  - CC0
+  license_reference:
+  - https://stocksnap.io/license
+  tags:
+  - image
+  - collection
+Pixabay:
+  uri:
+  - https://pixabay.com
+  description:
+  - Pixabay has free images and videos you can use anywhere.
+  license:
+  - CC0
+  license_reference:
+  - https://pixabay.com/en/service/terms/#usage
+  tags:
+  - image
+  - collection
+Pexels:
+  uri:
+  - https://www.pexels.com
+  description:
+  - Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license. All photos are nicely tagged, searchable and also easy to discover through our discover pages.
+  license:
+  - CC0
+  license_reference:
+  - https://www.pexels.com/photo-license
+  tags:
+  - image
+  - collection
 The Lounge:
   uri:
   - https://thelounge.github.io
@@ -7984,7 +8020,6 @@ FreePD:
   tags:
   - collection
   - content
-  - image
 twister:
   uri:
   - http://twister.net.co/

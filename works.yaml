@@ -8098,7 +8098,7 @@ Nuklear:
   uri:
   - https://github.com/vurtun/nuklear
   description:
-  - Nuklear itself is a minimal state graphical user interface single header toolkit written in ANSI C and licensed under public domain with no dependencies.  Instead of providing a layered library that tries to abstract over a number of platform and render backends it only focuses on the actual UI.
+  - Nuklear is a minimal state graphical user interface single header toolkit written in ANSI C and licensed under public domain with no dependencies.  Instead of providing a layered library that tries to abstract over a number of platform and render backends it only focuses on the actual UI.
   license:
   - public domain
   license_reference:

@@ -8091,6 +8091,7 @@ Nuklear.nim:
   tags:
   - gui
   - library
+  - programming
   - software
   - toolkit
   - widgets
@@ -8106,6 +8107,21 @@ Nuklear:
   tags:
   - gui
   - library
+  - programming
   - software
   - toolkit
   - widgets
+stb:
+  uri:
+  - https://github.com/nothings/stb
+  description:
+  - The stb project provides a collection of single-file public domain libraries for C/C++.
+  license:
+  - public domain
+  license_reference: []
+  tags:
+  - c
+  - c++
+  - library
+  - programming
+  - software

@@ -8080,3 +8080,16 @@ Upspin:
   - protocol
   - server
   - software
+Nuklear:
+  uri:
+  - https://gist.github.com/zacharycarter/f426e503d15f967e480fb33230273639
+  description:
+  - Nuklear is a minimal state graphical user interface single header toolkit written in ANSI C and licensed under public domain with no dependencies.  Instead of providing a layered library that tries to abstract over a number of platform and render backends it only focuses on the actual UI.
+  license:
+  - public domain
+  license_reference: []
+  tags:
+  - gui
+  - library
+  - software
+  - toolkit

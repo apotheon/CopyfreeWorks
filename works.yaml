@@ -8164,3 +8164,73 @@ stb:
   - library
   - programming
   - software
+ChakraCore:
+  uri:
+  - https://github.com/Microsoft/ChakraCore
+  description:
+  - ChakraCore is the core part of the Chakra Javascript engine that powers Microsoft Edge.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/Microsoft/ChakraCore/blob/master/LICENSE.txt
+  tags:
+  - javascript
+  - language
+  - programming
+  - software
+Duktape:
+  uri:
+  - http://duktape.org/
+  description:
+  - Duktape is an embeddable Javascript engine, easy to integrate into a C or C++ project, with a focus on portability and compact footprint.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/svaarala/duktape/blob/master/LICENSE.txt
+  tags:
+  - javascript
+  - language
+  - programming
+  - software
+Jsi:
+  uri:
+  - http://jsish.sourceforge.net/cgi-bin/jsi/artifact/4ab537baf8ef4354
+  description:
+  - Jsi is a javascript interpreter with file/OS support and extensions for WebSocket, Sqlite, MySql, and more; sub-interpreter and introspection facilities; a web framework; and a debugger (command-line and Web-GUI).  It also supports types and defaults.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://jsish.sourceforge.net/cgi-bin/jsi/artifact?ci=tip&filename=jsi/COPYING
+  tags:
+  - javascript
+  - language
+  - programming
+  - software
+TinyJS:
+  uri:
+  - https://github.com/snoozbuster/tiny-js
+  description:
+  - TinyJS aims to be an extremely simple (~2000 line) JavaScript interpreter, meant for inclusion in applications that require a simple, familiar script language that can be included with no dependencies other than normal C++ libraries.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/snoozbuster/tiny-js/blob/master/TinyJS.h
+  tags:
+  - javascript
+  - language
+  - programming
+  - software
+AsyncScript:
+  uri:
+  - https://github.com/GuillermoHernan/AsyncScript
+  description:
+  - AsyncScript is an experimental language for asynchronous programming, based on actor model.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/GuillermoHernan/AsyncScript/blob/master/license.md
+  tags:
+  - javascript
+  - language
+  - programming
+  - software

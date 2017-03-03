@@ -8234,3 +8234,20 @@ AsyncScript:
   - language
   - programming
   - software
+imgui:
+  uri:
+  - https://github.com/ocornut/imgui
+  description:
+  - Immediate Mode Graphical User Interface, or imgui, is a bloat-free UI library for C++ with minimal dependencies.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/ocornut/imgui/blob/master/LICENSE
+  tags:
+  - c++
+  - gui
+  - library
+  - programming
+  - software
+  - toolkit
+  - widgets

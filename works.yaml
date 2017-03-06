@@ -8251,3 +8251,59 @@ imgui:
   - software
   - toolkit
   - widgets
+Sonic Pi:
+  uri:
+  - http://sonic-pi.net/
+  description:
+  - Sonic Pi is a music synthesis programming language, simple enough for computing and music lessons, but powerful enough for professional musicians.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/samaaron/sonic-pi/blob/master/LICENSE.md
+  tags:
+  - audio
+  - contaminated
+  - language
+  - programming
+  - software
+  - sonic pi
+LibHydrogen:
+  uri:
+   - https://github.com/jedisct1/libhydrogen
+  description:
+  - LibHydrogen is a lightweight, secure, easy-to-use crypto library for constrained environments.
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/jedisct1/libhydrogen/blob/master/LICENSE
+  tags:
+  - cryptography
+  - library
+  - security
+  - software
+AtomOS:
+  uri:
+  - https://github.com/amaneureka/AtomOS
+  description:
+  - AtomOS is a multitasking monolithic kernel based, x86 targetting, operating system written in C#, from scratch, aiming for security and high level implementation of drivers in a managed environment.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/amaneureka/AtomOS/blob/master/LICENSE.md
+  tags:
+  - c#
+  - os
+  - software
+MirageOS:
+  uri:
+  - https://mirage.io/
+  description:
+  - MirageOS is a library operating system that constructs unikernels for secure, high-performance network applications across a variety of cloud computing and mobile platforms.
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/mirage/mirage/blob/master/LICENSE.md
+  tags:
+  - library
+  - os
+  - software

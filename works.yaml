@@ -8307,3 +8307,59 @@ MirageOS:
   - library
   - os
   - software
+NUnit:
+  uri:
+  - http://www.nunit.org/
+  description:
+  - NUnit is a unit-testing framework for all .Net languages. Initially ported from JUnit, the current production release, version 3.0, has been completely rewritten with many new features and support for a wide range of .NET platforms.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/nunit/nunit/blob/master/LICENSE.txt
+  tags:
+  - dotnet
+  - framework
+  - library
+  - software
+  - testing
+RSpec:
+  uri:
+  - http://rspec.info/
+  description:
+  - RSpec is a Behaviour Driven Development framework for Ruby, making TDD productive and fun.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/rspec/rspec/blob/master/LICENSE.md
+  tags:
+  - framework
+  - library
+  - ruby
+  - software
+  - testing
+BearLib Terminal:
+  uri:
+  - https://bitbucket.org/cfyzium/bearlibterminal
+  description:
+  - BearLibTerminal provides a pseudoterminal window with a grid of character cells and a simple yet powerful API for flexible textual output and uncomplicated input processing.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://bitbucket.org/cfyzium/bearlibterminal/src/default/LICENSE.txt
+  tags:
+  - software
+minitest:
+  uri:
+  - http://docs.seattlerb.org/minitest/
+  description:
+  - The minitest framework provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/seattlerb/minitest/blob/master/README.rdoc
+  tags:
+  - framework
+  - library
+  - ruby
+  - software
+  - testing

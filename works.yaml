@@ -2762,6 +2762,7 @@ mksh:
   - https://www.mirbsd.org/mksh.htm
   tags:
   - interpreter
+  - ksh
   - programming
   - shell
   - software
@@ -8363,3 +8364,46 @@ minitest:
   - ruby
   - software
   - testing
+fzf:
+  uri:
+  - https://github.com/junegunn/fzf
+  description:
+  - The fzf project provides a command-line fuzzy finder, blazing fast, with no dependencies, including a comprehensive feature set, flexible tmux pane layout script, shell extensions, and a plugin for Neovim and Vim -- but you can get it without the extras.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/junegunn/fzf/blob/master/LICENSE
+  tags:
+  - cli
+  - search
+  - software
+gokrazy:
+  uri:
+  - https://gokrazy.github.io/
+  description:
+  - With gokrazy, you get a pure-Go userland on top of the Linux kernel for your Raspberry Pi appliances.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/gokrazy/gokrazy/blob/master/LICENSE
+  tags:
+  - cli
+  - os
+  - software
+  - unix
+  - utility
+oksh:
+  uri:
+  - https://github.com/ibara/oksh
+  description:
+  - Portable OpenBSD ksh, or oksh, is based on pdksh.
+  license:
+  - public domain
+  license_reference:
+  - https://github.com/ibara/oksh/blob/master/LEGAL
+  tags:
+  - interpreter
+  - ksh
+  - programming
+  - shell
+  - software

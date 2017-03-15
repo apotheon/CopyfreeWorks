@@ -8437,3 +8437,16 @@ Isabelle:
   - proof assistant
   - sml
   - software
+nim-nmap:
+  uri:
+  - https://github.com/blmvxer/nim-nmap
+  description:
+  - The nim-nmap project aims to reimplement Nmap in Nim.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/blmvxer/nim-nmap/blob/master/LICENSE
+  tags:
+  - network
+  - security
+  - software

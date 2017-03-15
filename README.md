@@ -92,5 +92,18 @@ sortable, filterable interface, backed by a PostgeSQL database.
   not yet really thought much about how we'll do that.  (We intend to provide
   the entire (new) codebase under a copyfree license, as well.)
 
+## Copying
+
+We, the contributors, take the position that the contents of the `works.yaml`
+file represent nothing more than a collection of obvious information, should be
+legally subject to the doctrine of fair use, with no restrictions on
+incorporation in other works or modification to produce a new or derivative
+work, effectively making the contents of the file a part of the public domain.
+In the event that legal professionals disagree, you are invited to apply the
+terms of any copyfree license that suits your fancy, or any collection of
+copyfree licenses that you may desire to use.  See the [Copyfree Initiative
+certified licenses][licenses] list for some license options.
+
 [ci]: http://copyfree.org
+[licenses]: http://copyfree.org/standard/licenses
 [list]: http://copyfree.org/resources/works

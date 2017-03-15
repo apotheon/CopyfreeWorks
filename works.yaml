@@ -8407,3 +8407,32 @@ oksh:
   - programming
   - shell
   - software
+MLton:
+  uri:
+  - http://mlton.org/
+  description:
+  - MLton is an open-source, whole-program, optimizing Standard ML compiler.
+  license:
+  - Python Imaging Library License (modified)
+  license_reference:
+  - https://github.com/MLton/mlton/blob/master/doc/license/MLton-LICENSE
+  tags:
+  - compiler
+  - programming
+  - sml
+  - software
+Isabelle:
+  uri:
+  - https://isabelle.in.tum.de/
+  description:
+  - Isabelle is a generic proof assistant. It allows mathematical formulas to be expressed in a formal language and provides tools for proving those formulas in a logical calculus.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://isabelle.in.tum.de/dist/Isabelle2016-1/COPYRIGHT
+  tags:
+  - ide
+  - jvm
+  - programming
+  - proof assistant
+  - software

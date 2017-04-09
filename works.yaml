@@ -3912,7 +3912,7 @@ Meteor:
   license_reference:
   - https://github.com/meteor/meteor/blob/devel/LICENSE
   description:
-  - Meteor is an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
+  - Meteor is an ultra-simple, database-everywhere, data-on-the-wire, pure-JavaScript web framework.
 bspwm:
   uri:
   - https://github.com/baskerville/bspwm
@@ -8169,7 +8169,7 @@ ChakraCore:
   uri:
   - https://github.com/Microsoft/ChakraCore
   description:
-  - ChakraCore is the core part of the Chakra Javascript engine that powers Microsoft Edge.
+  - ChakraCore is the core part of the Chakra JavaScript engine that powers Microsoft Edge.
   license:
   - MIT/X11 License
   license_reference:
@@ -8183,7 +8183,7 @@ Duktape:
   uri:
   - http://duktape.org/
   description:
-  - Duktape is an embeddable Javascript engine, easy to integrate into a C or C++ project, with a focus on portability and compact footprint.
+  - Duktape is an embeddable JavaScript engine, easy to integrate into a C or C++ project, with a focus on portability and compact footprint.
   license:
   - MIT/X11 License
   license_reference:
@@ -8450,3 +8450,71 @@ nim-nmap:
   - network
   - security
   - software
+Unity:
+  uri:
+  - http://www.throwtheswitch.org/unity
+  description:
+  - Unity is an expressive, extensible, portable, quick, simple unit test framework for C, especially for embedded software development.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/ThrowTheSwitch/Unity/blob/master/docs/license.txt
+  tags:
+  - c
+  - framework
+  - library
+  - software
+  - testing
+Mediachain:
+  uri:
+  - https://github.com/mediachain/mediachain
+  description:
+  - Mediachain serves the role of a traditional database, but is a decentralized, global data layer for powering serverless applications.  It is a single port of entry for applications and users to publish, discover, and collaborate on data.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/mediachain/mediachain/blob/master/LICENSE
+  tags:
+  - database
+  - distributed
+  - ipfs
+  - software
+Haraka:
+  uri:
+  - https://haraka.github.io/
+  description:
+  - Haraka is an open source SMTP server written in Node.js which provides extremely high performance coupled with a flexible plugin system allowing JavaScript programmers full access to change the behaviour of the server.  It is used heavily in some high traffic sites.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/haraka/Haraka/blob/master/LICENSE
+  tags:
+  - server
+  - smtp
+  - software
+Sprunge:
+  uri:
+  - http://sprunge.us/
+  description:
+  - Sprunge is a pastebin for Google's app engine, with a command-line interface.
+  license:
+  - WTFPL
+  license_reference:
+  - https://github.com/rupa/sprunge/blob/master/README.markdown
+  tags:
+  - cli
+  - pastebin
+  - software
+H2O:
+  uri:
+  - https://h2o.examp1e.net
+  description:
+  - H2O is a new generation HTTP server that provides quicker response to users with less CPU utilization when compared to older generation of web servers.  Designed from ground-up, the server takes full advantage of HTTP/2 features including prioritized content serving and server push, promising outstanding experience to the visitors of your web site.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://h2o.examp1e.net/faq.html
+  tags:
+  - server
+  - software
+  - web

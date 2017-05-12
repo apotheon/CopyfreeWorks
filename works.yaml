@@ -8546,3 +8546,19 @@ H2O:
   - server
   - software
   - web
+neatvi:
+  uri:
+  - http://litcave.rudi.ir/
+  - http://repo.or.cz/neatvi.git
+  description:
+  - Neatvi is a vi/ex editor that can edit bidirectional UTF-8 text.
+  license:
+  - ISC License
+  license_reference:
+  - http://repo.or.cz/neatvi.git/blob_plain/HEAD:/vi.c
+  - https://github.com/aligrudi/neatvi/blob/master/vi.c
+  tags:
+  - console
+  - editor
+  - software
+  - vi

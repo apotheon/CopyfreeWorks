@@ -19,7 +19,7 @@ Rofi:
   uri:
   - https://davedavenport.github.io/rofi
   description:
-  - Rofi: A window switcher, application launcher and dmenu replacement
+  - Rofi is a window switcher, application launcher, and dmenu replacement.
   license:
   - MIT/X11 License
   license_reference:

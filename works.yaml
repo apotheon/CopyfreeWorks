@@ -1,4 +1,32 @@
 ---
+Shin KGS:
+  uri:
+  - https://shin.gokgs.com
+  description:
+  - Shin KGS is an unofficial JavaScript client for KGS Go Server.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/jkk/shinkgs/blob/master/LICENSE.txt
+  tags:
+  - game
+  - client
+  - javascript
+  - network
+  - web
+  - software
+Rofi:
+  uri:
+  - https://davedavenport.github.io/rofi
+  description:
+  - Rofi: A window switcher, application launcher and dmenu replacement
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/DaveDavenport/rofi/blob/master/COPYING
+  tags:
+  - menu
+  - software
 StockSnap:
   uri:
   - https://stocksnap.io

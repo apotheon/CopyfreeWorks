@@ -4596,7 +4596,7 @@ keybase client:
   license_reference:
   - https://github.com/keybase/client/blob/master/LICENSE
   description:
-  - This is the keybase command line client.
+  - This is the keybase client repository.  It includes the Go library and command line client, the Keybase service code, and clients for Android, iOS, Linux, MacOS, and MS Windows.  It also contains packaged versions of clients for various OSes.
 keybase libweb:
   uri:
   - https://keybase.io/

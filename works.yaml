@@ -7607,11 +7607,11 @@ libcpsl:
   - library
   - software
   - storage
-substrings:
+SubStrings:
   uri:
-  - https://github.com/Subsentient/substrings
+  - http://universe2.us/substrings.html
   description:
-  - The substrings project provides a small C-string handling library for C and C++ designed to make common tasks easier.
+  - SubStrings is a small C-string handling library for C and C++ designed to make common tasks easier.
   license:
   - Unlicense
   license_reference:
@@ -8562,3 +8562,17 @@ neatvi:
   - editor
   - software
   - vi
+NEXUS:
+  uri:
+  - https://github.com/Subsentient/nexus
+  description:
+  - NEXUS is a specialized IRC proxy/bouncer to merge multiple connected IRC clients into the same nickname seamlessly.
+  license:
+  - public domain
+  license_reference:
+  - https://github.com/Subsentient/nexus/blob/master/src/nexus.cpp
+  tags:
+  - network
+  - proxy
+  - software
+  - irc bouncer

@@ -8576,3 +8576,18 @@ NEXUS:
   - proxy
   - software
   - irc bouncer
+rclone:
+  uri:
+  - https://rclone.org/
+  description:
+  - rsync for cloud storage – Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/ncw/rclone/blob/master/COPYING
+  tags:
+  - software
+  - client
+  - network
+  - cli
+  - storage

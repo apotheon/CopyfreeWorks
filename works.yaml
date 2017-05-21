@@ -8620,3 +8620,15 @@ Sway:
   - tiling
   - wayland
   - window manager
+Wayland:
+  uri:
+  - https://wayland.freedesktop.org/
+  description:
+  - Wayland is intended as a simpler replacement for X, easier to develop and maintain.  Wayland is a protocol for a compositor to talk to its clients as well as a C library implementation of that protocol.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://cgit.freedesktop.org/wayland/wayland/tree/COPYING
+  tags:
+  - software
+  - wayland

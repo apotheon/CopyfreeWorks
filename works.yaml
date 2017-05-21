@@ -8580,7 +8580,7 @@ rclone:
   uri:
   - https://rclone.org/
   description:
-  - rsync for cloud storage – Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+  - The rclone project provides functionality like "rsync for cloud storage" -- Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, and Yandex Files.
   license:
   - MIT/X11 License
   license_reference:
@@ -8591,3 +8591,18 @@ rclone:
   - network
   - cli
   - storage
+HuBoard:
+  uri:
+  - https://huboard.com/
+  - https://github.com/huboard/huboard
+  description:
+  - "HuBoard is a lightweight kanban built from the ground up using the GitHub public API.  HuBoard issues are GitHub issues, so you will never have to deal with synchronization problems.  Keep issues where they belong: with your code."
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/huboard/huboard-web
+  tags:
+  - kanban
+  - project management
+  - software
+  - web

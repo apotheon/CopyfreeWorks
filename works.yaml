@@ -5689,18 +5689,18 @@ Mono:
 Bro:
   uri:
   - https://www.bro.org/
+  description:
+  - Bro is a powerful network analysis framework that provides a comprehensive platform for more general network traffic analysis as well.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/bro/bro/blob/master/COPYING
   tags:
   - framework
   - monitoring
   - network
   - security
   - software
-  license:
-  - Revised BSD License
-  license_reference:
-  - https://github.com/bro/bro/blob/master/COPYING
-  description:
-  - Bro is a powerful network analysis framework that provides a comprehensive platform for more general network traffic analysis as well.
 mucks:
   uri:
   - https://github.com/zserge/mucks
@@ -8606,3 +8606,17 @@ HuBoard:
   - project management
   - software
   - web
+Sway:
+  uri:
+  - http://swaywm.org/
+  description:
+  - Sway is a drop-in replacement for the i3 window manager, but for Wayland instead of X11.  It works with your existing i3 configuration and supports most of i3's features, and a few extras.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/SirCmpwn/sway/blob/master/LICENSE
+  tags:
+  - software
+  - tiling
+  - wayland
+  - window manager

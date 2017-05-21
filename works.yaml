@@ -1711,7 +1711,7 @@ OpenCV:
   - software
   license:
   - Simplified BSD License
-  license_reference: 
+  license_reference:
   - https://github.com/opencv/opencv/blob/master/LICENSE
 Panda3D:
   uri:
@@ -4177,7 +4177,7 @@ PureFTPd:
   license_reference:
   - http://download.pureftpd.org/pub/pure-ftpd/releases/
   description:
-  - Pure-FTPd is a free, secure, production-quality and standard-conformant FTP server. It doesn't provide useless bells and whistles, but focuses on efficiency and ease of use. 
+  - Pure-FTPd is a free, secure, production-quality and standard-conformant FTP server. It doesn't provide useless bells and whistles, but focuses on efficiency and ease of use.
 Rollem:
   uri:
   - https://github.com/lemtzas/Rollem/wiki
@@ -6481,7 +6481,7 @@ Jenkins:
   license_reference:
   - https://github.com/jenkinsci/jenkins/blob/master/LICENSE.txt
   description:
-  - The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project. 
+  - The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
 Electron:
   uri:
   - http://electron.atom.io/
@@ -8576,3 +8576,18 @@ NEXUS:
   - proxy
   - software
   - irc bouncer
+rclone:
+  uri:
+  - https://rclone.org/
+  description:
+  - rsync for cloud storage – Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/ncw/rclone/blob/master/COPYING
+  tags:
+  - software
+  - client
+  - network
+  - cli
+  - storage

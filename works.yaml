@@ -8632,17 +8632,17 @@ Wayland:
   tags:
   - software
   - wayland
-D:
+DMD:
   uri:
   - https://dlang.org/
   description:
-  - D is a systems programming language with C-like syntax and static typing.  It combines efficiency, control, and modeling power with safety and programmer productivity.
+  - D is a systems programming language with C-like syntax and static typing.  It combines efficiency, control, and modeling power with safety and programmer productivity.  DMD is the reference implementation compiler.
   license:
   - Boost License
   license_reference:
   - https://github.com/dlang/dmd/blob/master/LICENSE.txt
   tags:
-  - d
+  - dlang
   - compiler
   - programming
   - software

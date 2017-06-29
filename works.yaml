@@ -8646,3 +8646,16 @@ DMD:
   - compiler
   - programming
   - software
+C:
+  uri:
+  - https://github.com/ryanmjacobs/c
+  description:
+  - With the C shell script, you can compile and execute C "scripts" in one go!
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/ryanmjacobs/c/blob/master/LICENSE
+  tags:
+  - c
+  - programming
+  - software

@@ -8659,3 +8659,28 @@ C:
   - c
   - programming
   - software
+Lime Text:
+  uri:
+  - http://limetext.org/
+  description:
+  - Lime Text is a powerful and elegant text editor primarily developed in Go.  It aims to be a free and open source successor to Sublime Text.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/limetext/lime/blob/master/LICENSE
+  tags:
+  - editor
+  - software
+slap:
+  uri:
+  - https://github.com/slap-editor/slap
+  description:
+  - The slap project provides a Sublime-like terminal-based text editor with first-class mouse support that strives to make editing from the terminal easier.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/slap-editor/slap/blob/master/LICENSE
+  tags:
+  - console
+  - editor
+  - software

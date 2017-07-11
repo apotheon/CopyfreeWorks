@@ -8684,3 +8684,18 @@ slap:
   - console
   - editor
   - software
+nbase:
+  uri:
+    - https://github.com/cheusov/nbase
+  description:
+    - The nbase project packages a portable NetBSD userland toolset for Linux, MacOS, and other sufficiently Unix-like systems.
+  license:
+    - Simplified BSD License + Revised BSD License + Original BSD License
+  license_reference:
+    - https://github.com/cheusov/nbase/blob/master/doc/LICENSE
+  tags:
+    - collection
+    - software
+    - userland
+    - unix
+    - utility

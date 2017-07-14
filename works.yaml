@@ -8712,3 +8712,47 @@ JWM:
   - floating
   - software
   - window manager
+Conan.io:
+  uri:
+  - https://conan.io/
+  description:
+  - Conan.io is a distributed, open source package manager.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/conan-io/conan/blob/develop/LICENSE.md
+  tags:
+  - c
+  - c++
+  - distributed
+  - package management
+  - programming
+  - software
+CPM:
+  uri:
+  - http://www.cpm.rocks/
+  description:
+  - CPM is a package manager for C++ based on CMake and Git.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/iauns/cpm/blob/master/LICENSE
+  tags:
+  - c++
+  - package management
+  - programming
+  - software
+Buckaroo:
+  uri:
+  - https://www.buckaroo.pm/
+  description:
+  - Buckaroo is a package manager for C++ using Buck as its build system and Git for dependency tracking.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/LoopPerfect/buckaroo/blob/master/LICENSE
+  tags:
+  - c++
+  - package management
+  - programming
+  - software

@@ -8756,3 +8756,34 @@ Buckaroo:
   - package management
   - programming
   - software
+libtorrent:
+  uri:
+  - http://www.libtorrent.org/
+  description:
+  - The libtorrent project provides a feature complete C++ library bittorrent implementation focusing on efficiency and scalability that runs on embedded devices as well as desktops.  It offers Go, Java, Node.js, and Python bindings as well as C++.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/arvidn/libtorrent/blob/master/LICENSE
+  tags:
+  - bittorrent
+  - c++
+  - client
+  - library
+  - network
+  - server
+  - software
+Data Retriever:
+  uri:
+  - http://www.data-retriever.org/
+  description:
+  - The Data Retriever is a package manager for data.  It downloads, cleans, and stores publicly available data, so that analysts spend less time cleaning and managing data, and more time analyzing it.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/weecology/retriever/blob/master/LICENSE
+  tags:
+  - client
+  - database
+  - network
+  - software

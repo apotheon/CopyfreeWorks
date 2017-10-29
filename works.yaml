@@ -8787,3 +8787,32 @@ Data Retriever:
   - database
   - network
   - software
+Nickle:
+  uri:
+  - http://www.nickle.org/
+  description:
+  - Nickle is a programming language based prototyping environment with powerful programming and scripting capabilities.  It supports a variety of datatypes, especially arbitrary precision numbers.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://keithp.com/cgit/nickle.git/tree/COPYING
+  tags:
+  - interpreter
+  - language
+  - programming
+  - software
+Neko:
+  uri:
+  - http://nekovm.org/
+  description:
+  - Neko is a high-level dynamically typed programming language that can be used as an embedded scripting language.  Its VM has been designed to provide a common runtime for several different languages.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/HaxeFoundation/neko/blob/master/LICENSE
+  tags:
+  - interpreter
+  - language
+  - programming
+  - software
+  - virtual machine

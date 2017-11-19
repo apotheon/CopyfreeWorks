@@ -1,4 +1,20 @@
 ---
+Glift:
+  uri:
+  - https://github.com/Kashomon/glift
+  description:
+  - Glift is a modern javascript client for the game Go, Glift was created to be a modern Go UI that supports mobile and desktop alike.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/Kashomon/glift/blob/master/LICENSE
+  tags:
+  - game
+  - client
+  - javascript
+  - network
+  - web
+  - software
 Shin KGS:
   uri:
   - https://shin.gokgs.com

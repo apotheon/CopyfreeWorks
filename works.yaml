@@ -1,4 +1,47 @@
 ---
+Darknet:
+  uri:
+  - http://pjreddie.com/darknet
+  description:
+  - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
+  license:
+  - MIT/X11
+  - WTFPL
+  license_reference:
+  - https://github.com/pjreddie/darknet/blob/master/LICENSE.mit
+  - https://github.com/pjreddie/darknet/blob/master/LICENSE.fuck
+  tags:
+  - neural network
+  - c
+  - software
+Ray:
+  uri:
+  - https://github.com/zakki/Ray
+  description:
+  - Computer Go Program
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/zakki/Ray/blob/nn/COPYING
+  tags:
+  - game
+  - neural network
+  - c++
+  - software
+AQ:
+  uri:
+  - https://github.com/ymgaq/AQ
+  description:
+  - AQ is a program of Go game with level of expert players.
+  license
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/ymgaq/AQ/blob/master/LICENSE.txt
+  tags:
+  - game
+  - neural network
+  - c++
+  - software
 Glift:
   uri:
   - https://github.com/Kashomon/glift

@@ -33,7 +33,7 @@ AQ:
   - https://github.com/ymgaq/AQ
   description:
   - AQ is a program of Go game with level of expert players.
-  license
+  license:
   - MIT/X11 License
   license_reference:
   - https://github.com/ymgaq/AQ/blob/master/LICENSE.txt

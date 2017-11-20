@@ -11,8 +11,10 @@ Darknet:
   - https://github.com/pjreddie/darknet/blob/master/LICENSE.mit
   - https://github.com/pjreddie/darknet/blob/master/LICENSE.fuck
   tags:
+  - go (game)
   - neural network
   - c
+  - multilicensed
   - software
 Ray:
   uri:
@@ -25,6 +27,7 @@ Ray:
   - https://github.com/zakki/Ray/blob/nn/COPYING
   tags:
   - game
+  - go (game)
   - neural network
   - c++
   - software
@@ -39,6 +42,7 @@ AQ:
   - https://github.com/ymgaq/AQ/blob/master/LICENSE.txt
   tags:
   - game
+  - go (game)
   - neural network
   - c++
   - software
@@ -53,6 +57,7 @@ Glift:
   - https://github.com/Kashomon/glift/blob/master/LICENSE
   tags:
   - game
+  - go (game)
   - client
   - javascript
   - network
@@ -69,6 +74,7 @@ Shin KGS:
   - https://github.com/jkk/shinkgs/blob/master/LICENSE.txt
   tags:
   - game
+  - go (game)
   - client
   - javascript
   - network
@@ -2270,6 +2276,7 @@ Emscripten:
   - javascript
   - programming
   - software
+  - multilicensed
   license:
   - MIT/X11 License
   - University of Illinois/NCSA Open Source License
@@ -6238,6 +6245,8 @@ RocAlphaGo:
   - https://github.com/Rochester-NRT/RocAlphaGo/wiki/01.-Home
   tags:
   - game
+  - go (game)
+  - python
   - neural network
   - software
   license:
@@ -6357,7 +6366,10 @@ darkforestGo:
   - https://github.com/facebookresearch/darkforestGo
   tags:
   - game
+  - go (game)
   - neural network
+  - c++
+  - lua
   - software
   license:
   - Revised BSD License
@@ -6371,7 +6383,7 @@ KGS Leben:
   tags:
   - client
   - game
-  - go
+  - go (game)
   - network
   - software
   license:

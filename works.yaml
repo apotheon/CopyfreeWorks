@@ -2220,7 +2220,6 @@ Utrecht Haskell Compiler:
   license:
   - Simplified BSD License
   license_reference:
-  - https://github.com/UU-ComputerScience/uhc/blob/master/EHC/LICENSE
   description:
   - UHC is the Utrecht Haskell Compiler. UHC supports almost all Haskell98 features plus experimental extensions.
 portsearch:
@@ -6243,7 +6242,6 @@ RocAlphaGo:
   tags:
   - game
   - go (game)
-  - python
   - neural network
   - software
   license:
@@ -6711,6 +6709,7 @@ QBE:
   - http://c9x.me/git/?p=qbe.git;a=blob_plain;f=LICENSE;hb=HEAD
   tags:
   - compiler
+  - c
   - programming
   - software
 STerm:

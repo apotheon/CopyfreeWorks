@@ -168,18 +168,6 @@ Mechiel Lukkien's SHA2:
   license:
   - public domain
   license_reference: []
-Namecoin:
-  uri:
-  - http://namecoin.info/
-  category:
-  - Cryptography
-  tags:
-  - cryptography
-  - dns
-  - software
-  license:
-  - MIT/X11 License
-  license_reference: []
 OpenPGP SDK:
   uri:
   - http://openpgp.nominet.org.uk/cgi-bin/trac.cgi/wiki
@@ -1579,16 +1567,6 @@ Redis:
   - https://github.com/antirez/redis/blob/unstable/COPYING
   license_reference:
   - https://github.com/antirez/redis/blob/unstable/COPYING
-SOCI:
-  uri:
-  - http://soci.sourceforge.net/
-  tags:
-  - database
-  - software
-  license:
-  - Boost License v1.0
-  license_reference:
-  - https://github.com/SOCI/soci/blob/master/src/LICENSE_1_0.txt
 Tarantool:
   uri:
   - http://tarantool.org/
@@ -3542,9 +3520,11 @@ Webby:
   - MIT/X11 License
   license_reference:
   - https://github.com/TwP/webby/tree/master
-nanoc:
+Nanoc:
   uri:
   - http://nanoc.ws/
+  description:
+  - Nanoc is a static site generator, fit for building anything from a small personal blog to a large corporate website.
   tags:
   - blog
   - cms
@@ -3823,6 +3803,8 @@ MoonScript:
 NaCl:
   uri:
   - http://nacl.cr.yp.to/
+  description:
+  - NaCl is an easy-to-use high-speed software library for network communication, encryption, decryption, signatures, etc.  Its goal is to provide all of the core operations needed to build higher-level cryptographic tools.
   tags:
   - cryptography
   - library
@@ -4840,11 +4822,11 @@ CoffeeScript:
   uri:
   - http://coffeescript.org/
   tags:
+  - coffeescript
   - cross-compiler
   - javascript
   - language
   - programming
-  - coffeescript
   - software
   license:
   - MIT/X11 License
@@ -5669,7 +5651,7 @@ vis:
   license_reference:
   - https://github.com/martanne/vis/blob/master/LICENSE
   description:
-    - Vis aims to be a modern, legacy free, simple, efficient vim-like editor.  It extends vim's modal editing with built-in support for multiple cursors/selections and combines it with sam's structural regular expression based command language.
+   - Vis aims to be a modern, legacy free, simple, efficient vim-like editor.  It extends vim's modal editing with built-in support for multiple cursors/selections and combines it with sam's structural regular expression based command language.
 Mono:
   uri:
   - http://www.mono-project.com/
@@ -6341,6 +6323,7 @@ SOCI:
   - http://soci.sourceforge.net/
   tags:
   - c++
+  - database
   - library
   - software
   license:
@@ -6348,7 +6331,7 @@ SOCI:
   license_reference:
   - https://github.com/SOCI/soci/blob/master/LICENSE_1_0.txt
   description:
-  - SOCI is a database access library for C++ that the illusion of embedding SQL queries in regular C++ code, staying entirely within Standard C++.
+  - SOCI is a database access library for C++ that gives the illusion of embedding SQL queries in regular C++ code, staying entirely within Standard C++.
 libtomcrypt:
   uri:
   - http://www.libtom.net/
@@ -6561,6 +6544,8 @@ Ultimate++:
 Namecoin:
   uri:
   - https://www.namecoin.info/
+  category:
+  - Cryptography
   description:
   - Namecoin is an experimental open-source technology which improves decentralization, security, censorship resistance, privacy, and speed of certain components of the Internet infrastructure such as DNS and identities.
   license:
@@ -6570,6 +6555,7 @@ Namecoin:
   tags:
   - blockchain
   - distributed
+  - dns
   - network
   - software
 CCN-Lite:
@@ -7565,20 +7551,6 @@ Middleman:
   - framework
   - software
   - web
-CoffeeScript:
-  uri:
-  - http://coffeescript.org/
-  description:
-  - CoffeeScript is a little language that compiles into JavaScript.  It attempts to expose the good parts of JavaScript in a simple way.
-  license:
-  - MIT/X11 License
-  license_reference:
-  - https://github.com/jashkenas/coffeescript/blob/master/LICENSE
-  tags:
-  - coffeescript
-  - javascript
-  - language
-  - software
 aqu4bot:
   uri:
   - https://wiki.soylentnews.org/wiki/Aqu4bot
@@ -8298,7 +8270,7 @@ Sonic Pi:
   - sonic pi
 LibHydrogen:
   uri:
-   - https://github.com/jedisct1/libhydrogen
+  - https://github.com/jedisct1/libhydrogen
   description:
   - LibHydrogen is a lightweight, secure, easy-to-use crypto library for constrained environments.
   license:

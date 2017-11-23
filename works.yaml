@@ -13,14 +13,13 @@ Darknet:
   tags:
   - go (game)
   - neural network
-  - c
   - multilicensed
   - software
 Ray:
   uri:
   - https://github.com/zakki/Ray
   description:
-  - Computer Go Program
+  - Ray is a Computer Go Program, built with Microsoft Cognitive Toolkit
   license:
   - Simplified BSD License
   license_reference:
@@ -29,7 +28,6 @@ Ray:
   - game
   - go (game)
   - neural network
-  - c++
   - software
 AQ:
   uri:
@@ -44,7 +42,6 @@ AQ:
   - game
   - go (game)
   - neural network
-  - c++
   - software
 Glift:
   uri:
@@ -6368,8 +6365,6 @@ darkforestGo:
   - game
   - go (game)
   - neural network
-  - c++
-  - lua
   - software
   license:
   - Revised BSD License

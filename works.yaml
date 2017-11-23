@@ -2220,6 +2220,7 @@ Utrecht Haskell Compiler:
   license:
   - Simplified BSD License
   license_reference:
+  - https://github.com/UU-ComputerScience/uhc/blob/master/EHC/LICENSE
   description:
   - UHC is the Utrecht Haskell Compiler. UHC supports almost all Haskell98 features plus experimental extensions.
 portsearch:

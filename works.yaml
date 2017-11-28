@@ -1,4 +1,65 @@
 ---
+Darknet:
+  uri:
+  - http://pjreddie.com/darknet
+  description:
+  - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
+  license:
+  - MIT/X11
+  - WTFPL
+  license_reference:
+  - https://github.com/pjreddie/darknet/blob/master/LICENSE.mit
+  - https://github.com/pjreddie/darknet/blob/master/LICENSE.fuck
+  tags:
+  - go (game)
+  - neural network
+  - multilicensed
+  - software
+Ray:
+  uri:
+  - https://github.com/zakki/Ray
+  description:
+  - Ray is a Computer Go Program, built with Microsoft Cognitive Toolkit
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/zakki/Ray/blob/nn/COPYING
+  tags:
+  - game
+  - go (game)
+  - neural network
+  - software
+AQ:
+  uri:
+  - https://github.com/ymgaq/AQ
+  description:
+  - AQ is a program of Go game with level of expert players.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/ymgaq/AQ/blob/master/LICENSE.txt
+  tags:
+  - game
+  - go (game)
+  - neural network
+  - software
+Glift:
+  uri:
+  - https://github.com/Kashomon/glift
+  description:
+  - Glift is a modern javascript client for the game Go, Glift was created to be a modern Go UI that supports mobile and desktop alike.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/Kashomon/glift/blob/master/LICENSE
+  tags:
+  - game
+  - go (game)
+  - client
+  - javascript
+  - network
+  - web
+  - software
 Shin KGS:
   uri:
   - https://shin.gokgs.com
@@ -10,6 +71,7 @@ Shin KGS:
   - https://github.com/jkk/shinkgs/blob/master/LICENSE.txt
   tags:
   - game
+  - go (game)
   - client
   - javascript
   - network
@@ -2189,6 +2251,7 @@ Emscripten:
   - javascript
   - programming
   - software
+  - multilicensed
   license:
   - MIT/X11 License
   - University of Illinois/NCSA Open Source License
@@ -6161,6 +6224,7 @@ RocAlphaGo:
   - https://github.com/Rochester-NRT/RocAlphaGo/wiki/01.-Home
   tags:
   - game
+  - go (game)
   - neural network
   - software
   license:
@@ -6280,6 +6344,7 @@ darkforestGo:
   - https://github.com/facebookresearch/darkforestGo
   tags:
   - game
+  - go (game)
   - neural network
   - software
   license:
@@ -6294,7 +6359,7 @@ KGS Leben:
   tags:
   - client
   - game
-  - go
+  - go (game)
   - network
   - software
   license:
@@ -6631,6 +6696,7 @@ QBE:
   - http://c9x.me/git/?p=qbe.git;a=blob_plain;f=LICENSE;hb=HEAD
   tags:
   - compiler
+  - c
   - programming
   - software
 STerm:

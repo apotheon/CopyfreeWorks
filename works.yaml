@@ -6779,9 +6779,11 @@ PixiJS:
   - https://github.com/pixijs/pixi.js/blob/master/LICENSE
   tags:
   - graphics
+  - javascript
   - library
   - software
   - webgl
+  - web
 howler.js:
   uri:
   - https://howlerjs.com/
@@ -8894,4 +8896,16 @@ ronn:
   tags:
   - documentation
   - parser
+  - software
+Ronin:
+  uri:
+  - http://wiki.xxiivv.com/#ronin
+  description:
+  - Ronin is a design tool, a cross-over between Vim and Photoshop, meant to quickly accomplish simple graphic editing tasks, such as exporting, resizing, and coloring.  It also includes basic digital painting functionality.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/hundredrabbits/Ronin/blob/master/LICENSE.md
+  tags:
+  - graphics
   - software

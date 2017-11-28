@@ -12,14 +12,14 @@ Darknet:
   - https://github.com/pjreddie/darknet/blob/master/LICENSE.fuck
   tags:
   - go (game)
-  - neural network
   - multilicensed
+  - neural network
   - software
 Ray:
   uri:
   - https://github.com/zakki/Ray
   description:
-  - Ray is a Computer Go Program, built with Microsoft Cognitive Toolkit
+  - Ray is a Go program, built with Microsoft Cognitive Toolkit.
   license:
   - Simplified BSD License
   license_reference:
@@ -33,7 +33,7 @@ AQ:
   uri:
   - https://github.com/ymgaq/AQ
   description:
-  - AQ is a program of Go game with level of expert players.
+  - AQ is an expert level Go program.
   license:
   - MIT/X11 License
   license_reference:
@@ -47,19 +47,19 @@ Glift:
   uri:
   - https://github.com/Kashomon/glift
   description:
-  - Glift is a modern javascript client for the game Go, Glift was created to be a modern Go UI that supports mobile and desktop alike.
+  - Glift is a modern JavaScript client for the game Go.  It was created to be a modern Go UI that supports both mobile and desktop use.
   license:
   - MIT/X11 License
   license_reference:
   - https://github.com/Kashomon/glift/blob/master/LICENSE
   tags:
+  - client
   - game
   - go (game)
-  - client
-  - javascript
   - network
-  - web
   - software
+  - web
+  - webapp
 Shin KGS:
   uri:
   - https://shin.gokgs.com
@@ -70,22 +70,34 @@ Shin KGS:
   license_reference:
   - https://github.com/jkk/shinkgs/blob/master/LICENSE.txt
   tags:
+  - client
   - game
   - go (game)
-  - client
-  - javascript
   - network
-  - web
   - software
+  - web
+  - webapp
 Rofi:
   uri:
   - https://davedavenport.github.io/rofi
   description:
-  - Rofi is a window switcher, application launcher, and dmenu replacement.
+  - Rofi is a window switcher, application launcher, and dmenu replacement, based on simpleswitcher.
   license:
   - MIT/X11 License
   license_reference:
   - https://github.com/DaveDavenport/rofi/blob/master/COPYING
+  tags:
+  - menu
+  - software
+simpleswitcher:
+  uri:
+  - https://github.com/seanpringle/simpleswitcher
+  description:
+  - Similar to superswitcher, but with a friendlier license, simpleswitcher is a popup window switcher requiring only xlib and xft.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/seanpringle/simpleswitcher/blob/master/LICENSE
   tags:
   - menu
   - software
@@ -140,11 +152,12 @@ The Lounge:
   - https://github.com/thelounge/lounge/blob/master/LICENSE
   tags:
   - client
-  - network
-  - software
   - irc
+  - network
   - node.js
+  - software
   - web
+  - webapp
 Bitcoin-Qt:
   uri:
   - http://bitcoin.org/en/download
@@ -2249,9 +2262,9 @@ Emscripten:
   - https://github.com/kripken/emscripten
   tags:
   - javascript
+  - multilicensed
   - programming
   - software
-  - multilicensed
   license:
   - MIT/X11 License
   - University of Illinois/NCSA Open Source License

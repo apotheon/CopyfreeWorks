@@ -8909,3 +8909,54 @@ Ronin:
   tags:
   - graphics
   - software
+MultiMarkdown:
+  uri:
+  - http://fletcherpenney.net/multimarkdown/
+  description:
+  - MultiMarkdown (MMD) is a tool for turning minimally marked up plain text (a superset of John Gruber's Markdown syntax) into well-formatted documents, including HTML, PDF (by way of LaTeX), OPML, or OpenDocument (Flat OpenDocument or '.fodt', which can be converted to RTF, MS Word, and other formats).
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/fletcher/MultiMarkdown-6/blob/master/LICENSE.txt
+  tags:
+  - markdown
+  - parser
+  - software
+peg-markdown:
+  uri:
+  - https://github.com/jgm/peg-markdown
+  description:
+  - The peg-markdown project provides an implementation of John Gruber's markdown in C.  It uses a parsing expression grammar (PEG) to define the syntax.  This should allow easy modification and extension.
+  license:
+  - MIT/X11 License
+  tags:
+  - markdown
+  - multilicensed
+  - parser
+  - software
+writer.vim:
+  uri:
+  - https://github.com/honza/writer.vim
+  description:
+  - The writer.vim plugin for Vim helps you write prose.  It will give you a bigger font, change it to Monaco, set the text widths to 3 alphabets (75 characters), increase the linespacing, and turn off line numbers and the status bar.  It was inspired by IA Writer for Mac/iPad.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/honza/writer.vim/blob/master/LICENSE
+  tags:
+  - plugin
+  - software
+  - vim
+nEXT Browser:
+  uri:
+  - https://github.com/nEXT-Browser/nEXT
+  description:
+  - The nEXT Browser is a fast, productivity enhancing browser.  It is written in Common Lisp, designed from the ground up to provide emacs-like customizability for your workflow.  The nEXT Browser is the infinitely EXTensible browser.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/nEXT-Browser/nEXT/blob/master/LICENSE
+  tags:
+  - browser
+  - software
+  - web

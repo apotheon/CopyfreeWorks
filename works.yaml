@@ -8960,3 +8960,49 @@ nEXT Browser:
   - browser
   - software
   - web
+Kyua:
+  uri:
+  - https://github.com/jmmv/kyua/
+  description:
+  - Kyua is a testing framework for infrastructure software, originally designed to equip BSD-based operating systems with a test suite.  This means that Kyua is lightweight and simple, and that Kyua integrates well with various build systems and continuous integration frameworks.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/jmmv/kyua/blob/master/LICENSE
+  tags:
+  - c
+  - framework
+  - programming
+  - software
+  - testing
+Automated Testing Framework:
+  uri:
+  - https://github.com/jmmv/atf
+  description:
+  - ATF, or Automated Testing Framework, is a collection of libraries to write test programs in C, C++, and POSIX shell.
+  license:
+  - Revised BSD License + Simplified BSD License
+  license_reference:
+  - https://github.com/jmmv/atf/blob/master/COPYING
+  tags:
+  - c
+  - library
+  - programming
+  - software
+  - testing
+bdd-for-c:
+  uri:
+  - https://github.com/grassator/bdd-for-c
+  description:
+  - The bdd-for-c project provides a BDD (behavior driven development) library for the C programming language.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/grassator/bdd-for-c/blob/master/LICENSE
+  tags:
+  - c
+  - framework
+  - library
+  - programming
+  - software
+  - testing

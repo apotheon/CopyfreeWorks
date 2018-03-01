@@ -8929,6 +8929,8 @@ peg-markdown:
   - The peg-markdown project provides an implementation of John Gruber's markdown in C.  It uses a parsing expression grammar (PEG) to define the syntax.  This should allow easy modification and extension.
   license:
   - MIT/X11 License
+  license_reference:
+  - https://github.com/jgm/peg-markdown/blob/master/LICENSE
   tags:
   - markdown
   - multilicensed

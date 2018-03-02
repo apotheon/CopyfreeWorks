@@ -8929,6 +8929,8 @@ peg-markdown:
   - The peg-markdown project provides an implementation of John Gruber's markdown in C.  It uses a parsing expression grammar (PEG) to define the syntax.  This should allow easy modification and extension.
   license:
   - MIT/X11 License
+  license_reference:
+  - https://github.com/jgm/peg-markdown/blob/master/LICENSE
   tags:
   - markdown
   - multilicensed
@@ -8960,17 +8962,64 @@ nEXT Browser:
   - browser
   - software
   - web
+
 FarmBot:
   uri:
   - https://farmbot.io/
   description:
   - Farmbot is an open source farming machine.
   license:
-  - MIT/X11 License
-  - CC0
+  - MIT/X11 License + CC0
   license_reference:
   - https://github.com/FarmBot/farmbot_os/blob/staging/LICENSE
   - https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/e2d9cfff13c4c3fc49a03837
   tags:
   - software
   - hardware
+
+Kyua:
+  uri:
+  - https://github.com/jmmv/kyua/
+  description:
+  - Kyua is a testing framework for infrastructure software, originally designed to equip BSD-based operating systems with a test suite.  This means that Kyua is lightweight and simple, and that Kyua integrates well with various build systems and continuous integration frameworks.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/jmmv/kyua/blob/master/LICENSE
+  tags:
+  - c
+  - framework
+  - programming
+  - software
+  - testing
+Automated Testing Framework:
+  uri:
+  - https://github.com/jmmv/atf
+  description:
+  - ATF, or Automated Testing Framework, is a collection of libraries to write test programs in C, C++, and POSIX shell.
+  license:
+  - Revised BSD License + Simplified BSD License
+  license_reference:
+  - https://github.com/jmmv/atf/blob/master/COPYING
+  tags:
+  - c
+  - library
+  - programming
+  - software
+  - testing
+bdd-for-c:
+  uri:
+  - https://github.com/grassator/bdd-for-c
+  description:
+  - The bdd-for-c project provides a BDD (behavior driven development) library for the C programming language.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/grassator/bdd-for-c/blob/master/LICENSE
+  tags:
+  - c
+  - framework
+  - library
+  - programming
+  - software
+  - testing

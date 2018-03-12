@@ -8962,6 +8962,19 @@ nEXT Browser:
   - browser
   - software
   - web
+FarmBot:
+  uri:
+  - https://farmbot.io/
+  description:
+  - Farmbot is an open source farming machine.
+  license:
+  - MIT/X11 License + CC0
+  license_reference:
+  - https://github.com/FarmBot/farmbot_os/blob/staging/LICENSE
+  - https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/e2d9cfff13c4c3fc49a03837
+  tags:
+  - software
+  - hardware
 Kyua:
   uri:
   - https://github.com/jmmv/kyua/

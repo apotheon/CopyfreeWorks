@@ -8962,7 +8962,6 @@ nEXT Browser:
   - browser
   - software
   - web
-
 FarmBot:
   uri:
   - https://farmbot.io/
@@ -8976,7 +8975,6 @@ FarmBot:
   tags:
   - software
   - hardware
-
 Kyua:
   uri:
   - https://github.com/jmmv/kyua/

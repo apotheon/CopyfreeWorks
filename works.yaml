@@ -9025,7 +9025,7 @@ Ur/Web:
   uri:
   - http://impredicative.com/ur/
   description:
-  - Ur/Web is the Ur functional, statically typed programming language plus a special standard library.  It supports dynamic web applications backed by SQL databases.  The standard library signature is such that well-typed Ur/Web programs "don't go wrong" in a very broad sense.
+  - Ur/Web is the Ur statically typed functional programming language, plus a special standard library.  It supports dynamic web applications backed by SQL databases.  The standard library signature is such that well-typed Ur/Web programs "don't go wrong" in a very broad sense.
   license:
   - Revised BSD License
   license_reference:

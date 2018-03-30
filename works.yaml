@@ -9049,3 +9049,33 @@ sthttpd:
   - server
   - software
   - web
+lwe-frodo:
+  uri:
+  - https://github.com/lwe-frodo/lwe-frodo
+  description:
+  - 'LWE-Frodo (lwe-frodo) is a C cryptographic library for post-quantum key exchange based on the learning with errors (LWE) problem.  It is based on the paper "Frodo: Take off the ring! Practical, quantum-secure key exchange from LWE."'
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/lwe-frodo/lwe-frodo/blob/master/LICENSE.txt
+  tags:
+  - c
+  - cryptography
+  - library
+  - quantum
+  - software
+liboqs:
+  uri:
+  - https://openquantumsafe.org/
+  description:
+  - The Open Quantum Safe (OQS) project has the goal of developing and prototyping quantum-resistant cryptography, and liboqs is an open source C library for quantum-resistant cryptographic algorithms.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/open-quantum-safe/liboqs/blob/master/LICENSE.txt
+  tags:
+  - c
+  - cryptography
+  - library
+  - quantum
+  - software

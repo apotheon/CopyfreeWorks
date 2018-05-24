@@ -9079,3 +9079,63 @@ liboqs:
   - library
   - quantum
   - software
+Digital Mars C:
+  uri:
+  - https://digitalmars.com/ctg/sc.html
+  description:
+  - DMC, the Digital Mars Compiler, is a one-step program to compile and link C++, C and ASM files, previously known as "sc".
+  license:
+  - Boost License v1.0
+  license_reference:
+  - https://github.com/DigitalMars/Compiler/blob/master/LICENSE
+  tags:
+  - c
+  - c++
+  - compiler
+  - programming
+  - software
+jdupes:
+  uri:
+  - https://github.com/jbruchon/jdupes
+  description:
+  - JDUPES is a powerful duplicate finder and an enhanced fork of "fdupes".
+  tags:
+  - cli
+  - search
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/jbruchon/jdupes/blob/master/LICENSE
+  - https://github.com/jbruchon/jdupes/blob/master/README
+BearSSL:
+  uri:
+  - https://bearssl.org/
+  description:
+  - BearSSL is an implementation of the SSL/TLS protocol (RFC 5246) written in C.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://bearssl.org/gitweb/?p=BearSSL;a=blob;f=LICENSE.txt
+  tags:
+  - cryptography
+  - encryption
+  - privacy
+  - security
+  - software
+  - ssl
+  - tls
+Q:
+  uri:
+  - https://fossrec.com/u/apotheon/q
+  description:
+  - Q, or Queuer, is a simple todo-queue management tool.  It is exactly what it says on the tin, and it is (almost) nothing more.
+  license:
+  - COIL
+  license_reference:
+  - https://fossrec.com/u/apotheon/q/index.cgi/doc/trunk/LICENSE
+  tags:
+  - cli
+  - software
+  - todo
+  - utility

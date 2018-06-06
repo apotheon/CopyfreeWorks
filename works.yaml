@@ -9364,3 +9364,17 @@ Certify The Web:
   - software
   - ssl
   - tls
+Gitea:
+  uri:
+  - https://gitea.io/en-US/
+  description:
+  - Gitea is a community managed fork of Gogs, lightweight code hosting solution written in Go and published under the MIT license.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/go-gitea/gitea/blob/master/LICENSE
+  tags:
+  - dvcs
+  - scm
+  - software
+  - web

@@ -5671,22 +5671,12 @@ jq:
 iocage:
   uri:
   - http://iocage.readthedocs.org/en/latest/
-  tags:
-  - cli
-  - configuration management
-  - deployment
-  - freebsd jails
-  - software
-  - virtualization
+  description:
+  - The iocage project provides a "zero dependency" (notably excepting ZFS) drop in jail/container manager amalgamating some of the best features and technologies the FreeBSD operating system has to offer.
   license:
   - Simplified BSD License
   license_reference:
   - https://github.com/iocage/iocage/blob/master/LICENSE
-  description:
-  - The iocage project provides a "zero dependency" (notably excepting ZFS) drop in jail/container manager amalgamating some of the best features and technologies the FreeBSD operating system has to offer.
-ezjail:
-  uri:
-  - http://erdgeist.org/arts/software/ezjail/
   tags:
   - cli
   - configuration management
@@ -5694,12 +5684,22 @@ ezjail:
   - freebsd jails
   - software
   - virtualization
+ezjail:
+  uri:
+  - http://erdgeist.org/arts/software/ezjail/
+  description:
+  - The ezjail project provides a "zero dependency" FreeBSD Jail management framework with optional ZFS integration that saves storage space, inodes, and administrative overhead, and even memory usage via its "basejail" capability.
   license:
   - ezjail beerware license
   license_reference:
   - https://erdgeist.org/beerware.html
-  description:
-  - The ezjail project provides a "zero dependency" FreeBSD Jail management framework with optional ZFS integration that saves storage space, inodes, and administrative overhead, and even memory usage via its "basejail" capability.
+  tags:
+  - cli
+  - configuration management
+  - deployment
+  - freebsd jails
+  - software
+  - virtualization
 Redox:
   uri:
   - http://www.redox-os.org/
@@ -9168,3 +9168,18 @@ imagepile:
   - deduplication
   - software
   - utility
+CBSD:
+  uri:
+  - https://www.bsdstore.ru/
+  description:
+  - CBSD is a management layer written for the FreeBSD jail(8) subsystem, bhyve and Xen.  The project is positioned as a single integrated, comprehensive solution for building and deploying virtual environments quickly.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/cbsd/cbsd/blob/develop/LICENSE
+  tags:
+  - configuration management
+  - deployment
+  - freebsd jails
+  - software
+  - virtualization

@@ -4922,7 +4922,7 @@ CoffeeScript:
   license:
   - MIT/X11 License
   license_reference:
-  - https://github.com/dotnet/core/blob/master/LICENSE
+  - https://github.com/dotnet/core/blob/master/LICENSE.TXT
   description:
   - .NET Core is a cross-platform, general purpose, modular, managed code software development framework, consisting of the open source Common Language Infrastructure, including both the CoreFX implementation of the Framework Class Library and the Common Language Runtime.
 Idris:
@@ -9138,4 +9138,33 @@ Q:
   - cli
   - software
   - todo
+  - utility
+vee-eye:
+  uri:
+  - https://github.com/jbruchon/vee-eye
+  description:
+  - The vee-eye project is Jody Bruchon's clone of "vi".
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/jbruchon/vee-eye/blob/master/LICENSE
+  tags:
+  - console
+  - editor
+  - software
+  - vi
+imagepile:
+  uri:
+  - https://github.com/jbruchon/imagepile
+  description:
+  - The imagepile project provides disk image block-level de-duplication.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/jbruchon/imagepile/blob/master/LICENSE
+  tags:
+  - backup
+  - cli
+  - deduplication
+  - software
   - utility

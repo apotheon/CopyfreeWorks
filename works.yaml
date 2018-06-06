@@ -9210,3 +9210,157 @@ PowerShell:
   - programming
   - shell
   - software
+acme-client:
+  uri:
+  - https://kristaps.bsd.lv/acme-client/
+  description:
+  - The acme-client project provides a Let's Encrypt client designed for security, in a straightforward, open source C implementation that isolates each step of the sequence.
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/kristapsdz/acme-client/blob/master/LICENSE.md
+  tags:
+  - acme
+  - encryption
+  - letsencrypt
+  - software
+  - ssl
+  - tls
+LEClient:
+  uri:
+  - https://github.com/yourivw/LEClient
+  description:
+  - LEClient is a PHP LetsEncrypt client library for ACME v2.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/yourivw/LEClient/blob/master/LICENSE
+  tags:
+  - acme
+  - encryption
+  - letsencrypt
+  - library
+  - php
+  - software
+  - ssl
+  - tls
+dehydrated:
+  uri:
+  - https://dehydrated.io/
+  description:
+  - Dehydrated is a client for signing certificates with an ACME server implemented as a relatively simple Bash script.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/lukas2511/dehydrated/blob/master/LICENSE
+  tags:
+  - acme
+  - encryption
+  - letsencrypt
+  - software
+  - ssl
+  - tls
+le-acme2-php:
+  uri:
+  - https://github.com/fbett/le-acme2-php
+  description:
+  - The le-acme2-php project provides a LetsEncrypt client library for ACME v2 written in PHP.  This library is inspired by yourivw/LEClient and enhanced with some new features.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/fbett/le-acme2-php/blob/master/LICENSE.md
+  tags:
+  - acme
+  - encryption
+  - letsencrypt
+  - library
+  - php
+  - software
+  - ssl
+  - tls
+Sewer:
+  uri:
+  - https://github.com/komuw/sewer
+  description:
+  - Sewer is a Let's Encrypt (ACME) command line and Python library client.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/komuw/sewer/blob/master/LICENSE.txt
+  tags:
+  - acme
+  - cli
+  - encryption
+  - letsencrypt
+  - library
+  - python
+  - software
+  - ssl
+  - tls
+acme2:
+  uri:
+  - https://github.com/stonemax/acme2
+  description:
+  - The acme2 project provides a PHP client for ACME protocal (version 2) implementation, used for generating letsencrypt's free ssl certificate.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/stonemax/acme2/blob/master/LICENSE
+  tags:
+  - acme
+  - encryption
+  - letsencrypt
+  - php
+  - software
+  - ssl
+  - tls
+acme-tiny:
+  uri:
+  - https://github.com/diafygi/acme-tiny
+  description:
+  - The acme-tiny project provides a tiny, auditable script that you can throw on your server to issue and renew Let's Encrypt certificates.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/diafygi/acme-tiny/blob/master/LICENSE
+  tags:
+  - acme
+  - encryption
+  - letsencrypt
+  - python
+  - software
+  - ssl
+  - tls
+Node Lambda ACME:
+  uri:
+  - https://www.ocelotconsulting.com/2016/10/07/letsencrypt-lambda.html
+  description:
+  - Node Lambda ACME utilizes AWS Lambda to periodically (once per day) check a set of certificates for expiration, and then if they're about to expire or invalid/missing, it will request a new certificate from the ACME infrastructure.
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/ocelotconsulting/node-acme-lambda/blob/master/LICENSE.md
+  tags:
+  - acme
+  - encryption
+  - letsencrypt
+  - software
+  - ssl
+  - tls
+Certify The Web:
+  uri:
+  - https://certifytheweb.com/
+  description:
+  - Certify The Web is an SSL/TLS manager GUI for Windows.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/webprofusion/certify/blob/development/LICENSE
+  tags:
+  - acme
+  - encryption
+  - gui
+  - letsencrypt
+  - software
+  - ssl
+  - tls

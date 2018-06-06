@@ -9378,3 +9378,83 @@ Gitea:
   - scm
   - software
   - web
+Certes:
+  uri:
+  - https://github.com/fszlin/certes
+  description:
+  - Certes is an ACME client runs on .NET and .NET, and supports ACME v2 and wildcard certificates.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/fszlin/certes/blob/master/LICENSE
+  tags:
+  - acme
+  - encryption
+  - letsencrypt
+  - software
+  - ssl
+  - tls
+node-acme-client:
+  uri:
+  - https://github.com/publishlab/node-acme-client
+  description:
+  - The node-acme-client project provides a simple and unopinionated ACME client.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/publishlab/node-acme-client/blob/master/LICENSE
+  tags:
+  - acme
+  - encryption
+  - letsencrypt
+  - software
+  - ssl
+  - tls
+Posh-ACME:
+  uri:
+  - https://github.com/rmbolger/Posh-ACME
+  description:
+  - Posh-ACME is an ACME v2 client implemented as a Windows PowerShell module that enables you to generate publicly trusted SSL/TLS certificates from an ACME capable certificate authority such as Let's Encrypt.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/rmbolger/Posh-ACME/blob/master/LICENSE
+  tags:
+  - acme
+  - encryption
+  - letsencrypt
+  - software
+  - ssl
+  - tls
+acme-dns-tiny:
+  uri:
+  - https://acme-dns-tiny.adorsaz.ch/
+  description:
+  - The acme-dns-tiny project provides a Python 3 script able to request TLS certificates to a CA server providing an ACME interface.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://projects.adorsaz.ch/adrien/acme-dns-tiny/blob/master/LICENSE
+  tags:
+  - acme
+  - encryption
+  - letsencrypt
+  - software
+  - ssl
+  - tls
+Acme::Client:
+  uri:
+  - https://github.com/unixcharles/acme-client
+  description:
+  - Acme::Client is a client implementation of the ACMEv2 protocol in Ruby.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/unixcharles/acme-client/blob/master/LICENSE.txt
+  tags:
+  - acme
+  - encryption
+  - letsencrypt
+  - software
+  - ssl
+  - tls

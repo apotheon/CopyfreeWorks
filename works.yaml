@@ -9458,3 +9458,54 @@ Acme::Client:
   - software
   - ssl
   - tls
+Greenlock:
+  uri:
+  - https://git.coolaj86.com/coolaj86/greenlock.js
+  description:
+  - Greenlock provides free SSL, free wildcard SSL, and fully automated HTTPS.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://git.coolaj86.com/coolaj86/greenlock.js/src/branch/master/LICENSE
+  tags:
+  - acme
+  - encryption
+  - letsencrypt
+  - software
+  - ssl
+  - tls
+eggsampler/acme:
+  uri:
+  - https://github.com/eggsampler/acme
+  description:
+  - The eggsampler/acme project provides a Go client library implementation for the ACME v2 revision 10 specification, specifically for use with the Let's Encrypt service.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/eggsampler/acme/blob/master/LICENSE
+  tags:
+  - acme
+  - encryption
+  - golang
+  - letsencrypt
+  - library
+  - software
+  - ssl
+  - tls
+Get HTTPS for free!:
+  uri:
+  - https://gethttpsforfree.com/
+  description:
+  - "\"Get HTTPS for free!\" allows you to get a free HTTPS certificate without having to install any software or having to share your private keys with anyone.  It uses the non-profit Let's Encrypt certificate authority to issue the free certificates."
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/diafygi/gethttpsforfree/blob/gh-pages/LICENSE
+  tags:
+  - acme
+  - encryption
+  - letsencrypt
+  - software
+  - ssl
+  - tls
+  - web

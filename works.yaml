@@ -9509,3 +9509,29 @@ Get HTTPS for free!:
   - ssl
   - tls
   - web
+Isso:
+  uri:
+  - https://posativ.org/isso/
+  description:
+  - Isso is a commenting server similar to Disqus.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/posativ/isso/blob/master/LICENSE
+  tags:
+  - software
+  - web
+Lemur:
+  uri:
+  - http://www.lemurproject.org/
+  description:
+  - The Lemur Project develops search engines, browser toolbars, text analysis tools, and data resources that support research and development of information retrieval and text mining software.  The project is best known for its Indri search engine, Lemur Toolbar, and ClueWeb09 dataset.
+  license:
+  - BSD Variant License
+  license_reference:
+  - https://sourceforge.net/p/lemur/code/HEAD/tree/indri/trunk/LICENSE.txt
+  - https://sourceforge.net/p/lemur/code/HEAD/tree/RankLib/trunk/LICENSE.txt
+  tags:
+  - database
+  - search
+  - software

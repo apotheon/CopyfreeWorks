@@ -2533,6 +2533,8 @@ Ruby On Rails:
   - http://rubyonrails.org/
   tags:
   - framework
+  - mvc
+  - ruby
   - software
   - web
   license:
@@ -9535,3 +9537,33 @@ Lemur:
   - database
   - search
   - software
+Laravel Cashier:
+  uri:
+  - https://github.com/laravel/cashier/tree/master
+  description:
+  - Laravel Cashier provides an expressive, fluent interface to Stripe's subscription billing services.  It handles almost all of the boilerplate subscription billing code you are dreading writing.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/laravel/cashier/blob/master/LICENSE.txt
+  tags:
+  - laravel
+  - library
+  - payment
+  - php
+  - software
+Laravel:
+  uri:
+  - https://laravel.com/
+  description:
+  - Laravel is a PHP web application framework with expressive, elegant syntax.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/laravel/laravel/blob/master/readme.md
+  tags:
+  - framework
+  - mvc
+  - php
+  - software
+  - web

@@ -9552,6 +9552,7 @@ Laravel Cashier:
   - payment
   - php
   - software
+  - web
 Laravel:
   uri:
   - https://laravel.com/
@@ -9567,3 +9568,33 @@ Laravel:
   - php
   - software
   - web
+Fugitive:
+  uri:
+  - https://github.com/xemasiv/fugitive
+  description:
+  - Fugitive is a self-orchestrating p2p delivery network using WebRTC.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/xemasiv/fugitive/blob/master/LICENSE
+  tags:
+  - file sharing
+  - network
+  - p2p
+  - software
+  - webrtc
+ZsHero:
+  uri:
+  - https://github.com/filipekiss/zshero
+  description:
+  - ZsHero is a simple helper to manage dotfiles configuration.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/filipekiss/zshero/blob/master/LICENSE.md
+  tags:
+  - cli
+  - configuration
+  - software
+  - unix
+  - utility

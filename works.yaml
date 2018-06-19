@@ -9598,3 +9598,17 @@ ZsHero:
   - software
   - unix
   - utility
+qr-filetransfer:
+  uri:
+  - https://github.com/claudiodangelis/qr-filetransfer
+  description:
+  - The qr-filetransfer project provides software to transfer files over Wi-Fi from your computer to a mobile device by scanning a QR code without leaving the terminal.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/claudiodangelis/qr-filetransfer
+  tags:
+  - cli
+  - file management
+  - mobile
+  - software

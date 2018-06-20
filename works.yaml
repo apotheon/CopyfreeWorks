@@ -2818,7 +2818,8 @@ X.Org:
   - software
   license:
   - MIT/X11 License
-  license_reference: []
+  license_reference:
+  - https://www.x.org/releases/current/doc/xorg-docs/License.html
 XtreemFS:
   uri:
   - http://www.xtreemfs.org/
@@ -2860,6 +2861,7 @@ mlterm:
   uri:
   - http://mlterm.sourceforge.net/
   tags:
+  - cli
   - software
   - terminal emulator
   license:
@@ -2884,6 +2886,7 @@ Terminology:
   uri:
   - http://www.enlightenment.org/p.php?p=about/terminology
   tags:
+  - cli
   - software
   - terminal emulator
   license:
@@ -5803,6 +5806,7 @@ st:
   uri:
   - http://st.suckless.org
   tags:
+  - cli
   - software
   - terminal emulator
   license:
@@ -6724,6 +6728,7 @@ STerm:
   license_reference:
   - https://github.com/flocke/sterm/blob/master/LICENSE
   tags:
+  - cli
   - software
   - terminal emulator
 ProtonMail Web Client:
@@ -9653,3 +9658,44 @@ Hephy Workflow:
   - paas
   - platform
   - software
+Hyper:
+  uri:
+  - https://hyper.is/
+  description:
+  - Hyper is a terminal emulator built on web technologies.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/zeit/hyper/blob/canary/license.md
+  tags:
+  - cli
+  - software
+  - terminal emulator
+PuTTY:
+  uri:
+  - https://www.chiark.greenend.org.uk/~sgtatham/putty/
+  description:
+  - PuTTY is a free implementation of SSH and Telnet for Windows and Unix platforms, along with an XTerm terminal emulator.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html
+  tags:
+  - cli
+  - client
+  - network
+  - software
+  - terminal emulator
+XTerm:
+  uri:
+  - https://invisible-island.net/xterm/
+  description:
+  - The xterm program is the default terminal emulator for the X Window System.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://www.x.org/releases/current/doc/xorg-docs/License.html
+  tags:
+  - cli
+  - software
+  - terminal emulator

@@ -9612,3 +9612,31 @@ qr-filetransfer:
   - file management
   - mobile
   - software
+BotUI:
+  uri:
+  - https://botui.org/
+  description:
+  - BotUI is a JavaScript framework for creating conversational UIs.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/botui/botui/blob/master/LICENSE
+  tags:
+  - framework
+  - javascript
+  - software
+  - ui
+Sherlock:
+  uri:
+  - https://github.com/neilgupta/Sherlock
+  description:
+  - Sherlock parses events written in plain English and returns an object defining a basic event.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/neilgupta/Sherlock/blob/master/LICENSE
+  tags:
+  - javascript
+  - parser
+  - library
+  - software

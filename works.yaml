@@ -6817,7 +6817,7 @@ OpenAI Universe:
   uri:
   - https://universe.openai.com/
   description:
-  - Universe is a software platform for evaluating and training intelligent agents across the world’s supply of games, websites, and other applications.
+  - Universe is a software platform for evaluating and training intelligent agents across the world's supply of games, websites, and other applications.
   license:
   - MIT/X11 License
   license_reference:
@@ -9639,4 +9639,17 @@ Sherlock:
   - javascript
   - parser
   - library
+  - software
+Hephy Workflow:
+  uri:
+  - https://github.com/teamhephy/workflow
+  description:
+  - Deis Workflow is an open source Platform as a Service (PaaS) that adds a developer-friendly layer to any Kubernetes cluster, making it easy to deploy and manage applications.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/teamhephy/workflow/blob/master/LICENSE
+  tags:
+  - paas
+  - platform
   - software

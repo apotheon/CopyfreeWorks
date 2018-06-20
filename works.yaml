@@ -9699,3 +9699,29 @@ XTerm:
   - cli
   - software
   - terminal emulator
+ConEmu:
+  uri:
+  - https://conemu.github.io/
+  description:
+  - ConEmu-Maximus5 aims to be a handy, comprehensive, fast, and reliable terminal window where you may host any console application developed for either WinAPI (cmd, powershell, far) or Unix PTY (cygwin, msys, wsl bash).  As a Windows console window enhancement (local terminal emulator), ConEmu presents multiple consoles and simple GUI applications (like PuTTY for example) as one customizable, tabbed GUI window with various features.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/Maximus5/ConEmu/blob/master/LICENSE
+  tags:
+  - cli
+  - gui
+  - software
+  - terminal emulator
+Far Manager:
+  uri:
+  - https://farmanager.com/
+  description:
+  - Far Manager is a program for managing files and archives in Windows operating systems.  Far Manager works in text mode and provides a simple and intuitive interface for performing most necessary file management actions.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/FarGroup/FarManager/blob/master/LICENSE
+  tags:
+  - file management
+  - software

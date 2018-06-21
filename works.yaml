@@ -9738,3 +9738,17 @@ AfterStep:
   - floating
   - software
   - window manager
+FreeGLUT:
+  uri:
+  - http://freeglut.sourceforge.net/
+  description:
+  - FreeGLUT is a free-software/open-source window system independent toolkit for writing OpenGL programs, an alternative to the restrictively licensed OpenGL Utility Toolkit (GLUT) library.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://sourceforge.net/p/freeglut/code/HEAD/tree/trunk/freeglut/freeglut/COPYING
+  tags:
+  - gui
+  - library
+  - software
+  - toolkit

@@ -9764,3 +9764,16 @@ Neofetch:
   tags:
   - console
   - software
+MapSCII:
+  uri:
+  - https://github.com/rastapasta/mapscii
+  description:
+  - MapSCII is the whole world in your console, a Braille & ASCII world map renderer for your console.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/rastapasta/mapscii/blob/master/LICENSE
+  tags:
+  - console
+  - mapping
+  - software

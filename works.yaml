@@ -4346,29 +4346,29 @@ Textadept:
 Diakonos:
   uri:
   - http://diakonos.pist0s.ca/
-  tags:
-  - console
-  - editor
-  - software
+  description:
+  - Diakonos is the Linux console text editor with a key mapping you practically already know. Easy to use and easy to configure, but potent in the hands of power users.
   license:
   - MIT/X11 License
   license_reference:
   - https://github.com/Pistos/diakonos/blob/master/LICENCE
-  description:
-  - Diakonos is the Linux console text editor with a key mapping you practically already know. Easy to use and easy to configure, but potent in the hands of power users.
-sandy:
-  uri:
-  - http://tools.suckless.org/sandy
   tags:
   - console
   - editor
   - software
+sandy:
+  uri:
+  - http://tools.suckless.org/sandy
+  description:
+  - Sandy is an ncurses text editor with an easy-to-read, hackable C source that tries to maximize screen real estate, minimize the SLOC used, and not get in your way too much.
   license:
   - MIT/X11 License
   license_reference:
   - http://git.suckless.org/sandy/tree/LICENSE
-  description:
-  - Sandy is an ncurses text editor with an easy-to-read, hackable C source that tries to maximize screen real estate, minimize the SLOC used, and not get in your way too much.
+  tags:
+  - console
+  - editor
+  - software
 Scintilla:
   uri:
   - http://www.scintilla.org/
@@ -4396,16 +4396,16 @@ Aegisub:
 Screen Editor:
   uri:
   - http://se-editor.org/index.html
-  tags:
-  - console
-  - editor
-  - software
+  description:
+  - Screen Editor, or se for short, is a screen oriented version of the classic UNIX text editor ed.  It's similar to vi as both are modal editors with curses interfaces.  However, it differs from vi in that it has the same command syntax as ed.
   license:
   - public domain
   license_reference:
   - https://github.com/screen-editor/se/blob/master/COPYING
-  description:
-  - Screen Editor, or se for short, is a screen oriented version of the classic UNIX text editor ed.  It's similar to vi as both are modal editors with curses interfaces.  However, it differs from vi in that it has the same command syntax as ed.
+  tags:
+  - console
+  - editor
+  - software
 Atom:
   uri:
   - https://atom.io/
@@ -4421,30 +4421,30 @@ Atom:
 FreeBSD ee:
   uri:
   - https://www.freebsd.org/cgi/man.cgi?query=ee&sektion=1
-  tags:
-  - console
-  - editor
-  - software
+  description:
+  - The command ee is a simple screen oriented text editor.  It is always in text insertion mode unless there is a prompt at the bottom of the terminal, or a menu present (in a box in the middle of the terminal).
   license:
   - Simplified BSD License
   license_reference:
   - https://github.com/freebsd/freebsd/tree/master/contrib/ee
-  description:
-  - The command ee is a simple screen oriented text editor.  It is always in text insertion mode unless there is a prompt at the bottom of the terminal, or a menu present (in a box in the middle of the terminal).
+  tags:
+  - console
+  - editor
+  - software
 cpdup:
   uri:
   - http://apollo.backplane.com/FreeBSDPorts/
+  description:
+  - CPDup is a filesystem mirroring utility that attempts to retain permissions, flags, ownership, and utimes. It will create and delete files/directories on the destination as necessary to synchronize it with the source. CPDup attempts to avoid unnecssary copies (by default) by assuming that files are the same if their size and mtime (and other parameters) match. CPDup also has the ability to run MD5 checks between the source and destination and optimizes to avoid unnecessary data reads from the source by generating and maintaining MD5 checkfiles.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - http://linux.die.net/man/1/cpdup
   tags:
   - backup
   - console
   - network
   - software
-  license:
-  - Simplified BSD License
-  license_reference:
-  - http://linux.die.net/man/1/cpdup
-  description:
-  - CPDup is a filesystem mirroring utility that attempts to retain permissions, flags, ownership, and utimes. It will create and delete files/directories on the destination as necessary to synchronize it with the source. CPDup attempts to avoid unnecssary copies (by default) by assuming that files are the same if their size and mtime (and other parameters) match. CPDup also has the ability to run MD5 checks between the source and destination and optimizes to avoid unnecessary data reads from the source by generating and maintaining MD5 checkfiles.
 xdotool:
   uri:
   - http://www.semicomplete.com/projects/xdotool/
@@ -5722,17 +5722,17 @@ Redox:
 vis:
   uri:
   - https://github.com/martanne/vis
+  description:
+   - Vis aims to be a modern, legacy free, simple, efficient vim-like editor.  It extends vim's modal editing with built-in support for multiple cursors/selections and combines it with sam's structural regular expression based command language.
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/martanne/vis/blob/master/LICENSE
   tags:
   - console
   - editor
   - software
   - vi
-  license:
-  - ISC License
-  license_reference:
-  - https://github.com/martanne/vis/blob/master/LICENSE
-  description:
-   - Vis aims to be a modern, legacy free, simple, efficient vim-like editor.  It extends vim's modal editing with built-in support for multiple cursors/selections and combines it with sam's structural regular expression based command language.
 Mono:
   uri:
   - http://www.mono-project.com/
@@ -6183,17 +6183,17 @@ noice:
   uri:
   - http://git.2f30.org/noice/
   - http://git.2f30.org/noice/file/README.html
+  description:
+  - This project provides a small curses-based file browser, initially developed for use with a TV remote control for a media center system.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - http://git.2f30.org/noice/file/LICENSE.html
   tags:
   - console
   - file management
   - software
   - utility
-  license:
-  - Simplified BSD License
-  license_reference:
-  - http://git.2f30.org/noice/file/LICENSE.html
-  description:
-  - This project provides a small curses-based file browser, initially developed for use with a TV remote control for a media center system.
 Let's Chat:
   uri:
   - http://sdelements.github.io/lets-chat/
@@ -6513,16 +6513,16 @@ runit:
 Micro:
   uri:
   - https://github.com/zyedidia/micro
-  tags:
-  - console
-  - editor
-  - software
+  description:
+  - Micro is a terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals. It comes as one single, batteries-included, static binary with no dependencies, and you can download and use it right now.
   license:
   - MIT/X11 License
   license_reference:
   - https://github.com/zyedidia/micro/blob/master/LICENSE
-  description:
-  - Micro is a terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals. It comes as one single, batteries-included, static binary with no dependencies, and you can download and use it right now.
+  tags:
+  - console
+  - editor
+  - software
 lbry:
   uri:
   - https://lbry.io/
@@ -9752,3 +9752,15 @@ FreeGLUT:
   - library
   - software
   - toolkit
+Neofetch:
+  uri:
+  - https://github.com/dylanaraps/neofetch
+  description:
+  - Neofetch is a command-line system information tool that displays information about your operating system, software, and hardware, hopefully in a visually pleasing way.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/dylanaraps/neofetch/blob/master/LICENSE.md
+  tags:
+  - console
+  - software

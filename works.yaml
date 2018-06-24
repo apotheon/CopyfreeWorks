@@ -9777,3 +9777,16 @@ MapSCII:
   - console
   - mapping
   - software
+OpenMPT:
+  uri:
+  - https://openmpt.org/
+  description:
+  - OpenMPT (short for Open ModPlug Tracker) is a powerful audio application that makes writing music fun, easy and efficient.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://source.openmpt.org/browse/openmpt/trunk/OpenMPT/LICENSE
+  tags:
+  - audio
+  - software
+  - tracker

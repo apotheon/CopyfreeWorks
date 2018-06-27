@@ -1590,14 +1590,14 @@ check_postgres:
   - https://github.com/bucardo/check_postgres
 LevelDB:
   uri:
-  - http://code.google.com/p/leveldb/
+  - https://github.com/google/leveldb
   tags:
   - database
   - software
   license:
   - Revised BSD License
   license_reference:
-  - https://code.google.com/p/leveldb/source/browse/LICENSE
+  - https://github.com/google/leveldb/blob/master/LICENSE
 libpqxx:
   uri:
   - http://pqxx.org/development/libpqxx/

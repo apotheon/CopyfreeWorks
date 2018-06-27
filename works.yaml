@@ -9790,3 +9790,18 @@ OpenMPT:
   - audio
   - software
   - tracker
+Gitter:
+  uri:
+  - https://gitter.im/
+  description:
+  - Gitter is a chat and networking platform that helps to manage and connect communities, and help them grow, through messaging, content, and discovery.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/gitterHQ/services/blob/master/package.json
+  tags:
+  - chat
+  - messaging
+  - software
+  - team integration
+  - web

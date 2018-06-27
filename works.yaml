@@ -3448,16 +3448,20 @@ VIGRA:
   - http://ukoethe.github.io/vigra/LICENSE.txt
 Bitcloud:
   uri:
+  - https://github.com/wetube/bitcloud
   - http://bitcloudproject.org/
+  - https://web.archive.org/web/20161102193629/http://bitcloudproject.org/
+  description:
+  - Bitcloud is a universal protocol aiming to provide a massive distributed database and filesystem, or "virtual hard disk", capable of storing data encrypted and signed across all connected nodes, protecting privacy, and guaranteeing quality of service (QoS).
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/wetube/bitcloud/blob/master/License
   tags:
   - database
   - distributed
   - network
   - software
-  license:
-  - MIT/X11 License
-  license_reference:
-  - https://github.com/wetube/bitcloud/blob/master/License
 beets:
   uri:
   - http://beets.radbox.org/

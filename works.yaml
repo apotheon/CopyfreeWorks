@@ -9809,3 +9809,53 @@ Gitter:
   - software
   - team integration
   - web
+Cello:
+  uri:
+  - http://libcello.org/
+  description:
+  - Cello is a library that brings higher level programming to C by acting as a modern, powerful runtime system, making things previously impractical or awkward in C easier.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/orangeduck/Cello/blob/master/LICENSE.md
+  tags:
+  - c
+  - library
+  - programming
+  - software
+Sglib:
+  uri:
+  - http://sglib.sourceforge.net/
+  description:
+  - Sglib is a C library defining useful macros for manipulating common data structures.
+  license:
+  - any OSI license
+  license_reference:
+  - http://sglib.sourceforge.net/#license
+  tags:
+  - c
+  - library
+  - programming
+  - software
+#libbsd:
+#  uri:
+#    - https://libbsd.freedesktop.org/wiki/
+#  description:
+#    - The libbsd library provides useful (and often more secure) functions commonly found on BSD Unix systems, and lacking on others, making it easier to port projects with BSD Unix origins without needing to embed the same code.
+#  license:
+#    - 
+cloudlibc:
+  uri:
+  - https://github.com/NuxiNL/cloudlibc
+  description:
+  - Nuxi CloudABI is an application binary interface for UNIX-like operating systems built around the concept of capability-based security, and cloudlibc is a standard C library built on top of CloudABI.  It implements almost all features of the C11 standard, but also a large part of POSIX.1-2008.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/NuxiNL/cloudlibc/blob/master/LICENSE
+  tags:
+  - c
+  - library
+  - networking
+  - programming
+  - software

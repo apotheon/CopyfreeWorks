@@ -9859,3 +9859,16 @@ cloudlibc:
   - networking
   - programming
   - software
+keynav:
+  uri:
+  - https://www.semicomplete.com/projects/keynav/
+  description:
+  - Keynav is a piece of an on-going experiment to make pointer-driven interfaces easier and faster for users to operate.  It lets you move the pointer quickly to most points on the screen with only a few key strokes.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/jordansissel/keynav/blob/master/COPYRIGHT
+  tags:
+  - keyboard
+  - software
+  - ui

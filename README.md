@@ -55,6 +55,26 @@ This is an example of the general format of works list datafile entries:
       - network
       - software
 
+In cases of complicated licensing, there are particular guidelines for how to
+handle specifying all relevant licenses.
+
+For straightforward disjunctive multi-licensing, where there are several
+options for license terms a recipient can accept, such as a dual-license
+MIT/X11 License and Detachable Public License, include them as a set of list
+items under the `license:` part of the project data:
+
+      license:
+      - Detachable Public License
+      - MIT/X11 License
+
+In some cases, there may be multiple licenses that *all* apply (there is no
+choice between options; you must accept all of them) in a manner that does not
+yield a single official "project license".  In that case, all applicable
+licenses must be listed on one line with plus signs:
+
+      license:
+      - Beerware License + ISC License + MIT/X11 License
+
 Any comments asking for changes -- no matter how trivial they may seem -- are
 not intended to carry any negative emotional baggage, unless you are trolling
 us.  They are intended to help you get used to how we do things, and to help us

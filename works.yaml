@@ -3247,7 +3247,6 @@ I2P:
   - software
   license:
   - public domain + MIT/X11 License + Simplified BSD License
-  license_alternate:
   - GPL
   license_reference:
   - http://www.i2p2.de/licenses

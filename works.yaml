@@ -9837,13 +9837,19 @@ Sglib:
   - library
   - programming
   - software
-#libbsd:
-#  uri:
-#    - https://libbsd.freedesktop.org/wiki/
-#  description:
-#    - The libbsd library provides useful (and often more secure) functions commonly found on BSD Unix systems, and lacking on others, making it easier to port projects with BSD Unix origins without needing to embed the same code.
-#  license:
-#    - 
+libbsd:
+  uri:
+  - https://libbsd.freedesktop.org/wiki/
+  description:
+  - The libbsd library provides useful (and often more secure) functions commonly found on BSD Unix systems, and lacking on others, making it easier to port projects with BSD Unix origins without needing to embed the same code.  It includes code under a number of copyfree licenses, plus some function manpage documentation under (non-copyfree) 4-clause "Original" BSD License terms.
+  license:
+  - Beerware License + ISC License + MIT/X11 License + Revised BSD License + Simplified BSD License
+  tags:
+  - c
+  - library
+  - portability
+  - programming
+  - software
 cloudlibc:
   uri:
   - https://github.com/NuxiNL/cloudlibc

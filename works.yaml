@@ -9843,6 +9843,8 @@ libbsd:
   - The libbsd library provides useful (and often more secure) functions commonly found on BSD Unix systems, and lacking on others, making it easier to port projects with BSD Unix origins without needing to embed the same code.  It includes code under a number of copyfree licenses, plus some function manpage documentation under (non-copyfree) 4-clause "Original" BSD License terms.
   license:
   - Beerware License + ISC License + MIT/X11 License + Revised BSD License + Simplified BSD License
+  license_reference:
+  - https://gitlab.freedesktop.org/libbsd/libbsd/blob/master/COPYING
   tags:
   - c
   - library

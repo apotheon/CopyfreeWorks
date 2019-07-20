@@ -9879,3 +9879,18 @@ keynav:
   - keyboard
   - software
   - ui
+Mumble:
+  uri:
+  - https://wiki.mumble.info/wiki/Main_Page
+  description:
+  - Mumble is open source, low-latency, high quality voice chat software primarily intended for use while gaming.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/mumble-voip/mumble/blob/master/LICENSE
+  tags:
+  - chat
+  - network
+  - software
+  - voice
+  - voip

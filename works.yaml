@@ -2377,39 +2377,6 @@ Julia:
   - https://github.com/JuliaLang/julia/blob/master/LICENSE.md
   description:
   - Julia is a high-level, high-performance dynamic programming language for technical computing, with syntax that is familiar to users of other technical computing environments. It provides a sophisticated compiler, distributed parallel execution, numerical accuracy, and an extensive mathematical function library.
-LLVM:
-  uri:
-  - http://llvm.org/
-  tags:
-  - compiler
-  - programming
-  - software
-  - virtual machine
-  license:
-  - University of Illinois/NCSA Open Source License
-  license_reference:
-  - http://llvm.org/docs/DeveloperPolicy.html#license
-Clang:
-  uri:
-  - http://clang.llvm.org/
-  tags:
-  - c
-  - c++
-  - compiler
-  - programming
-  - software
-  license:
-  - University of Illinois/NCSA Open Source License
-  license_reference: []
-LLDB:
-  uri:
-  - http://lldb.llvm.org/
-  tags:
-  - debugger
-  - software
-  license:
-  - University of Illinois/NCSA Open Source License
-  license_reference: []
 VMKit:
   uri:
   - http://vmkit.llvm.org/
@@ -9894,3 +9861,15 @@ Mumble:
   - software
   - voice
   - voip
+os-tutorial:
+  uri:
+  - https://github.com/cfenollosa/os-tutorial
+  description:
+  - The os-tutorial project aims to explain how to create an OS from scratch.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/cfenollosa/os-tutorial/blob/master/LICENSE
+  tags:
+  - os
+  - tutorial

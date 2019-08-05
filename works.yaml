@@ -1944,6 +1944,7 @@ newsbeuter:
   license_reference:
   - https://github.com/akrennmair/newsbeuter/blob/master/LICENSE
 newsboat:
+  description: Newsboat is an actively maintained fork of Newsbeuter, an RSS/Atom feed reader for the text console.
   uri:
   - http://newsboat.org/
   tags:

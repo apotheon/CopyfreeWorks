@@ -1943,6 +1943,16 @@ newsbeuter:
   - MIT/X11 License
   license_reference:
   - https://github.com/akrennmair/newsbeuter/blob/master/LICENSE
+newsboat:
+  uri:
+  - http://newsboat.org/
+  tags:
+  - news
+  - software
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/newsboat/newsboat/blob/master/LICENSE
 nmh:
   uri:
   - http://www.nongnu.org/nmh/

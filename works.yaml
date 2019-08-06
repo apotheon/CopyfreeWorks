@@ -9889,7 +9889,7 @@ Reline:
   uri:
   - https://github.com/ruby/reline
   description:
-  - Reline is compatible with the API of Ruby's stdlib 'readline', GNU Readline and Editline by pure Ruby implementation.
+  - Reline is is a pure Ruby implementation compatible with the API of Ruby's stdlib "readline", GNU Readline, and Editline.
   license:
   - Simplified BSD License
   license_reference:

@@ -9885,3 +9885,17 @@ os-tutorial:
   tags:
   - os
   - tutorial
+Reline:
+  uri:
+  - https://github.com/ruby/reline
+  description:
+  - Reline is compatible with the API of Ruby's stdlib 'readline', GNU Readline and Editline by pure Ruby implementation.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/ruby/reline/blob/master/BSDL
+  tags:
+  - cli
+  - editor
+  - library
+  - software

@@ -9899,3 +9899,15 @@ Reline:
   - editor
   - library
   - software
+Game Of Trees:
+  uri:
+  - https://gameoftrees.org
+  description:
+  - Game of Trees (Got) is a version control system which prioritizes ease of use and simplicity over flexibility.  Got uses Git repositories to store versioned data, and it should always remain possible to work with both Got and Git on the same repository.
+  license:
+  - BSD License
+  license_reference: []
+  tags:
+  - dvcs
+  - scm
+  - software

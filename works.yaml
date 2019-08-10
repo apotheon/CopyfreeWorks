@@ -9911,3 +9911,15 @@ Game Of Trees:
   - dvcs
   - scm
   - software
+tabbed:
+  uri:
+  - http://tools.suckless.org/tabbed/
+  description:
+  - The tabbed project provides a simple tabbed-window front end wrapper for xembed-aware applications.  It was originally designed for use with the Surf browser, but works with a variety of other programs such as st, urxvt, uzbl, vimb, and xterm.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://git.suckless.org/tabbed/file/LICENSE.html
+  tags:
+  - software
+  - wrapper

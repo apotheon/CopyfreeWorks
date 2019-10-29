@@ -7667,7 +7667,7 @@ bricktick:
   uri:
   - https://github.com/Subsentient/bricktick
   description:
-  - Bricktick is an curses based Arkanoid/Brickbreaker clone for UNIX.
+  - Bricktick is a curses based Arkanoid/Brickbreaker clone for UNIX.
   license:
   - Unlicense
   license_reference:

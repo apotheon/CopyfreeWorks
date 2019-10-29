@@ -9923,3 +9923,18 @@ tabbed:
   tags:
   - software
   - wrapper
+ncurses:
+  uri:
+  - https://www.gnu.org/software/ncurses/
+  description:
+  - The ncurses (new curses) library is a free software emulation of curses in System V Release 4.0 (SVr4), and more.
+  license:
+  - NCurses License
+  license_reference:
+  - https://invisible-island.net/ncurses/ncurses-license.html
+  tags:
+  - console
+  - gui
+  - library
+  - software
+  - toolkit

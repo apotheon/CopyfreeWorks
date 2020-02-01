@@ -9938,3 +9938,19 @@ ncurses:
   - library
   - software
   - toolkit
+Vanadium:
+  uri:
+  - https://github.com/GrapheneOS/Vanadium
+  description:
+  - Vanadium is a privacy and security enhanced release of Chromium for GrapheneOS.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/GrapheneOS/Vanadium/blob/10/LICENSE
+  tags:
+  - android
+  - browser
+  - privacy
+  - security
+  - software
+  - web

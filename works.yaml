@@ -9954,3 +9954,46 @@ Vanadium:
   - security
   - software
   - web
+Julius:
+  uri:
+  - https://github.com/julius-speech/julius
+  description:
+  - Julius is an open-source large vocabulary continuous speech recognition engine.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/julius-speech/julius/blob/master/LICENSE
+  tags:
+  - software
+  - speech
+py_cui:
+  uri:
+  - https://jwlodek.github.io/py_cui-docs/
+  description:
+  - The py_cui project provides a Python library for creating command line user interfaces.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/jwlodek/py_cui/blob/master/LICENSE
+  tags:
+  - curses
+  - library
+  - python
+  - software
+  - tui
+commute-deck:
+  uri:
+  - https://github.com/borgel/commute-deck
+  description:
+  - The commute deck is "a computer built into a mechanical keyboard", or a mechanical keyboard, Raspberry Pi, battery, and display, all in one 24" wide box, inspired by cyberspace decks from William Gibson's sprawl trilogy.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/borgel/commute-deck/blob/master/LICENSE
+  tags:
+  - computer
+  - cyberdeck
+  - hardware
+  - mobile
+  - portable
+  - rpi

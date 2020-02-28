@@ -9994,6 +9994,21 @@ commute-deck:
   - computer
   - cyberdeck
   - hardware
+  - keyboard
   - mobile
   - portable
   - rpi
+MicroMechBoard:
+  uri:
+  - https://github.com/wyager/MicroMechBoard
+  - http://yager.io/keyboard/keyboard.html
+  description:
+  - MicroMechBoard is the teensy code for Will Yager's custom mechanical keyboard project.
+  license:
+  - Revised BSD License + MIT/X11 License + LGPL
+  license_reference:
+  - https://github.com/wyager/MicroMechBoard/blob/master/LICENSE.txt
+  tags:
+  - contaminated
+  - hardware
+  - keyboard

@@ -10012,3 +10012,16 @@ MicroMechBoard:
   - contaminated
   - hardware
   - keyboard
+Miranda:
+  uri:
+  - http://miranda.org.uk/
+  description:
+  - Miranda is a pure, non-strict, polymorphic, higher order functional programming language.  A simpler language than Haskell, it inspired some of the design of that language.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://www.cs.kent.ac.uk/people/staff/dat/miranda/downloads/COPYING
+  tags:
+  - language
+  - programming
+  - software

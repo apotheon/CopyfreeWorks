@@ -10025,3 +10025,31 @@ Miranda:
   - language
   - programming
   - software
+FTLTools:
+  uri:
+  - https://github.com/makhidkarun/ftl_tools
+  description:
+  - FTLTools provides Ruby tools for Traveller, 2d6 OGL, Cepheus Engine, etc.
+  license:
+  - Open Works License
+  license_reference:
+  - https://github.com/makhidkarun/ftl_tools/blob/master/LICENSE
+  tags:
+  - cli
+  - game
+  - roleplaying
+  - ruby
+  - software
+90 Day Wonder Mentoring:
+  uri:
+  - https://github.com/LeamHall/90DW_mentoring
+  description:
+  - 90 Day Wonder Mentoring is a collection of tips and thoughts on a structured mentoring system for software development.
+  license:
+  - Open Works License
+  license_reference:
+  - https://github.com/LeamHall/90DW_mentoring/blob/master/LICENSE
+  tags:
+  - documentation
+  - instruction
+  - mentoring

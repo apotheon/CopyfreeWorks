@@ -10069,3 +10069,32 @@ GrapheneOS/hardened_malloc:
   - linux
   - security
   - software
+AttestationServer:
+  uri:
+  - https://attestation.app/
+  description:
+  - AttestationServer is a GrapheneOS project that provides the server code for running an attestation service for use by the Auditor app.  The Auditor app uses hardware-based security features to validate the identity of a device along with authenticity and integrity of the operating system
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/GrapheneOS/AttestationServer
+  tags:
+  - android
+  - authentication
+  - security
+  - server
+  - software
+Attestation Auditor:
+  uri:
+  - https://play.google.com/store/apps/details?id=app.attestation.auditor
+  description:
+  - The Attestation Auditor is a hardware-based attestation / intrusion detection app for Android devices.  It provides both local verification with another Android device via QR codes and optional scheduled server-based verification with support for alert emails.  It uses hardware-backed keys and attestation support as the foundation and chains trust to the app for software checks.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/GrapheneOS/Auditor/blob/master/LICENSE
+  tags:
+  - android
+  - authentication
+  - security
+  - software

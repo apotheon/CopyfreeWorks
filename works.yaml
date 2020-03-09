@@ -10053,3 +10053,19 @@ FTLTools:
   - documentation
   - instruction
   - mentoring
+GrapheneOS/hardened_malloc:
+  uri:
+  - https://github.com/GrapheneOS/hardened_malloc
+  description:
+  - GrapheneOS hardened_malloc is a hardened allocator designed for modern systems, with integration into Android's Bionic libc.  It can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms, with more portability / integration as a project goal.
+  license:
+    - MIT/X11 License
+  license_reference:
+    - https://github.com/GrapheneOS/hardened_malloc/blob/master/LICENSE
+  tags:
+  - android
+  - c
+  - library
+  - linux
+  - security
+  - software

@@ -10098,3 +10098,16 @@ Attestation Auditor:
   - authentication
   - security
   - software
+Moksha Desktop:
+  uri:
+  - http://www.bodhilinux.com/moksha-desktop/
+  description:
+  - Moksha is a continuation of the Enlightenment 17 desktop.  It consists of the back porting of bug fixes and features from future Enlightenment releases, as well as the removal of half finished / broken things E17 contained.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/JeffHoogland/moksha/blob/master/COPYING
+  tags:
+  - desktop environment
+  - software
+  - window manager

@@ -10122,6 +10122,7 @@ kovid:
   - https://github.com/siaw23/kovid/blob/master/LICENSE.txt
   tags:
   - cli
+  - epidemiology
   - software
   - visualization
 whitequark/irclogger:
@@ -10138,3 +10139,17 @@ whitequark/irclogger:
   - logging
   - software
   - web
+sarskov:
+  uri:
+  - https://github.com/siaw23/sarskov
+  description:
+  - Sarskov returns statistics on the COVID-19 pandemic in a JSON format or array of hashes that you can use in your Ruby/Rails apps.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/siaw23/sarskov/blob/master/LICENSE.txt
+  tags:
+  - epidemiology
+  - json
+  - library
+  - software

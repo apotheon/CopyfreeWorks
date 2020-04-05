@@ -10124,3 +10124,17 @@ kovid:
   - cli
   - software
   - visualization
+whitequark/irclogger:
+  uri:
+  - https://freenode.irclog.whitequark.org/
+  description:
+  - The whitequark irclogger is a simple and good-looking IRC log viewer.  A logger is included.  No strings are attached.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/whitequark/irclogger/blob/master/MIT-LICENSE
+  tags:
+  - irc
+  - logging
+  - software
+  - web

@@ -10111,3 +10111,16 @@ Moksha Desktop:
   - desktop environment
   - software
   - window manager
+kovid:
+  uri:
+  - https://github.com/siaw23/kovid
+  description:
+  - Kovid is a CLI app that fetches and compares 2019 coronavirus pandemic statistics.  It also fetches historical data and attempts to draw histograms of it to visualise the rate of infections.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/siaw23/kovid/blob/master/LICENSE.txt
+  tags:
+  - cli
+  - software
+  - visualization

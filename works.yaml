@@ -10153,3 +10153,19 @@ sarskov:
   - json
   - library
   - software
+pForth:
+  uri:
+  - http://www.softsynth.com/pforth/index.php
+  - https://github.com/philburk/pforth
+  description:
+  - Portable Forth, or pForth, is a public domain, portable ANS Forth based on a kernel written in ANSI C.
+  license:
+  - public domain
+  license_reference:
+  - https://github.com/philburk/pforth/blob/master/readme.txt
+  - http://www.softsynth.com/pforth/index.php
+  tags:
+  - compiler
+  - forth
+  - programming
+  - software

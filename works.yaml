@@ -10187,6 +10187,7 @@ Clean:
 A Tutorial On Pointers And Arrays In C:
   uri:
   - https://web.archive.org/web/20190130112200/http://pweb.netcom.com/~tjensen/ptr/cpoint.htm
+  - https://sites.cs.ucsb.edu/~mikec/cs16/misc/ptrtut12/pointers.htm
   description:
   - A Tutorial On Pointers And Arrays In C by Ted Jensen (the programmer, not the music recording mastering engineer) is intended to introduce pointers to beginning programmers in the C programming language, explained in plain language with lots of examples.
   license:

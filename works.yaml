@@ -10184,3 +10184,18 @@ Clean:
   - language
   - programming
   - software
+A Tutorial On Pointers And Arrays In C:
+  uri:
+  - https://web.archive.org/web/20190130112200/http://pweb.netcom.com/~tjensen/ptr/cpoint.htm
+  description:
+  - A Tutorial On Pointers And Arrays In C is intended to introduce pointers to beginning programmers in the C programming language, explained in plain language with lots of examples.
+  license:
+  - public domain
+  license_reference:
+  - https://web.archive.org/web/20171005145251/http://pweb.netcom.com/~tjensen/ptr/prefacex.htm
+  - https://web.archive.org/web/20181011214331/http://pweb.netcom.com/~tjensen/ptr/pointers.htm
+  tags:
+  - c
+  - book
+  - nonfiction
+  - programming

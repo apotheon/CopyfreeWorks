@@ -10291,3 +10291,19 @@ lacc:
   - language
   - programming
   - software
+Yabasic:
+  uri:
+  - http://www.yabasic.de/
+  description:
+  - Yabasic is a traditional BASIC interpreter that comes with goto and various loops, and allows you to define subroutines and libraries.  It supports simple graphics and printing.  Yabasic can call out to libraries written in C, and allows you to create standalone programs.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - http://www.yabasic.de/content_copyright.html
+  - http://www.yabasic.de/content_mit.html
+  tags:
+  - basic
+  - interpreter
+  - language
+  - programming
+  - software

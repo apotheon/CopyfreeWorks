@@ -856,6 +856,8 @@ Portable C Compiler:
   - http://pcc.ludd.ltu.se/
   tags:
   - c
+  - compiler
+  - language
   - programming
   - software
   license:
@@ -8703,7 +8705,7 @@ C:
   uri:
   - https://github.com/ryanmjacobs/c
   description:
-  - With the C shell script, you can compile and execute C "scripts" in one go!
+  - With the C shell script, you can compile and execute C "scripts" with one simple command.
   license:
   - MIT/X11 License
   license_reference:

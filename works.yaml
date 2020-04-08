@@ -2410,6 +2410,7 @@ Nim:
   - nim
   - programming
   - software
+  - transpiler
   license:
   - MIT/X11 License
   license_reference:
@@ -10073,9 +10074,9 @@ GrapheneOS/hardened_malloc:
   description:
   - GrapheneOS hardened_malloc is a hardened allocator designed for modern systems, with integration into Android's Bionic libc.  It can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms, with more portability / integration as a project goal.
   license:
-    - MIT/X11 License
+  - MIT/X11 License
   license_reference:
-    - https://github.com/GrapheneOS/hardened_malloc/blob/master/LICENSE
+  - https://github.com/GrapheneOS/hardened_malloc/blob/master/LICENSE
   tags:
   - android
   - c
@@ -10229,6 +10230,7 @@ V Programming Language:
   - language
   - programming
   - software
+  - transpiler
   - vlang
 nwcc:
   uri:
@@ -10307,3 +10309,22 @@ Yabasic:
   - language
   - programming
   - software
+11l:
+  uri:
+  - https://11l-lang.org/
+  description:
+  - 11l is a semi-esoteric high-level general-purpose programming language, which provides a simple and direct mapping to hardware and aims to follow a zero-overhead principle.  11l is statically typed, but feels very much like a dynamically typed language.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/11l-lang/11l/blob/master/LICENSE.txt
+  - https://github.com/11l-lang/_11l_to_cpp/blob/master/LICENSE.txt
+  - https://github.com/11l-lang/python_to_11l/blob/master/LICENSE.txt
+  tags:
+  - 11l
+  - compiler
+  - esoteric
+  - language
+  - programming
+  - software
+  - transpiler

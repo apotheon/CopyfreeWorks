@@ -2161,6 +2161,7 @@ SML/NJ:
   - http://www.smlnj.org/
   tags:
   - compiler
+  - language
   - programming
   - sml
   - software
@@ -4445,6 +4446,7 @@ SubC:
   tags:
   - c
   - compiler
+  - language
   - programming
   - software
   license:
@@ -4940,6 +4942,7 @@ Idris LLVM:
   tags:
   - compiler
   - idris
+  - language
   - llvm
   - programming
   - software
@@ -8008,6 +8011,7 @@ CakeML:
   - https://github.com/CakeML/cakeml/blob/master/COPYING
   tags:
   - compiler
+  - language
   - programming
   - repl
   - sml
@@ -8024,6 +8028,7 @@ Checked C:
   tags:
   - c
   - compiler
+  - language
   - programming
   - software
 gps:
@@ -8052,6 +8057,7 @@ Pony:
   - https://github.com/ponylang/ponyc/blob/master/LICENSE
   tags:
   - compiler
+  - language
   - pony
   - programming
   - software
@@ -8067,6 +8073,7 @@ Quick C:
   tags:
   - c
   - compiler
+  - language
   - programming
   - software
 Zig:
@@ -8144,6 +8151,7 @@ HaMLet:
   license_reference: []
   tags:
   - compiler
+  - language
   - programming
   - sml
   - software
@@ -8158,6 +8166,7 @@ Alice ML:
   - https://github.com/aliceml/aliceml-alice/blob/master/COPYING
   tags:
   - compiler
+  - language
   - programming
   - alice ml
   - software
@@ -8488,6 +8497,7 @@ MLton:
   - https://github.com/MLton/mlton/blob/master/doc/license/MLton-LICENSE
   tags:
   - compiler
+  - language
   - programming
   - sml
   - software
@@ -8686,6 +8696,7 @@ DMD:
   tags:
   - dlang
   - compiler
+  - language
   - programming
   - software
 C:
@@ -9081,6 +9092,7 @@ Digital Mars C:
   - c
   - c++
   - compiler
+  - language
   - programming
   - software
 jdupes:
@@ -10167,6 +10179,7 @@ pForth:
   tags:
   - compiler
   - forth
+  - language
   - programming
   - software
 Clean:
@@ -10200,3 +10213,18 @@ A Tutorial On Pointers And Arrays In C:
   - book
   - nonfiction
   - programming
+V Programming Language:
+  uri:
+  - https://vlang.io/
+  description:
+  - The V programming language is a simple, fast, safe, compiled language for developing maintainable software.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/vlang/v/blob/master/LICENSE
+  tags:
+  - compiler
+  - language
+  - programming
+  - software
+  - vlang

@@ -10230,3 +10230,18 @@ V Programming Language:
   - programming
   - software
   - vlang
+nwcc:
+  uri:
+  - http://nwcc.sourceforge.net/
+  description:
+  - Nils Weller's C Compiler, or "nwcc", is a simple C compiler for Unix systems targeting a variety of architectures.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://sourceforge.net/p/nwcc/nwcc.git/ci/master/tree/develop/COPYING
+  tags:
+  - c
+  - compiler
+  - language
+  - programming
+  - software

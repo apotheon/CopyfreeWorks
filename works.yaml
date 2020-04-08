@@ -10261,3 +10261,18 @@ cproc:
   - programming
   - qbe
   - software
+lacc:
+  uri:
+  - https://github.com/larmel/lacc
+  description:
+  - The lcc project provides a small, self-hosting C compiler.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/larmel/lacc/blob/master/LICENSE.md
+  tags:
+  - c
+  - compiler
+  - language
+  - programming
+  - software

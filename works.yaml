@@ -10276,3 +10276,18 @@ lacc:
   - language
   - programming
   - software
+8cc:
+  uri:
+  - https://github.com/rui314/8cc
+  description:
+  - 8cc is a compiler for the C programming language, intended to support all C11 language features while keeping the code as small and simple as possible.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/rui314/8cc/blob/master/LICENSE
+  tags:
+  - c
+  - compiler
+  - language
+  - programming
+  - software

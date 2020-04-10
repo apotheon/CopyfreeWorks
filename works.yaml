@@ -10328,3 +10328,18 @@ Yabasic:
   - programming
   - software
   - transpiler
+Ferret:
+  uri:
+  - https://github.com/dbalmain/ferret
+  description:
+  - Ferret is an information retrieval library in the vein of Apache Lucene.  It was originally a full Lucene port but now uses its own file format and indexing algorithm, though it is still very similar to Lucene.  It should still do everything you can do with Lucene.  It consists of Ruby bindings and a core C implementation easily used directly and portable to other language bindings.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/dbalmain/ferret/blob/master/MIT-LICENSE
+  tags:
+  - c
+  - library
+  - ruby
+  - search
+  - software

@@ -10343,3 +10343,17 @@ Ferret:
   - ruby
   - search
   - software
+Montezuma:
+  uri:
+  - https://github.com/skypher/montezuma
+  description:
+  - Montezuma is a text search engine library for Lisp based on the Ferret library for Ruby, which is itself based on the Lucene library for Java.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/skypher/montezuma/blob/master/LICENSE.txt
+  tags:
+  - library
+  - lisp
+  - search
+  - software

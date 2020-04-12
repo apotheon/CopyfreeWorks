@@ -10357,3 +10357,16 @@ Montezuma:
   - lisp
   - search
   - software
+SerenityOS:
+  uri:
+  - http://serenityos.org/
+  description:
+  - SerenityOS is a graphical Unix-like operating system for desktop computers.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - https://github.com/SerenityOS/serenity/blob/master/LICENSE
+  tags:
+  - os
+  - software
+  - unix

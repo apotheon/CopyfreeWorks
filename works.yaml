@@ -831,7 +831,7 @@ Lua:
   - lua
   - programming
   - software
-  - virtual machine
+  - vm
   license:
   - MIT/X11 License
   license_reference:
@@ -873,7 +873,7 @@ Reia:
   - programming
   - reia
   - software
-  - virtual machine
+  - vm
   license:
   - MIT/X11 License
   license_reference:
@@ -889,7 +889,6 @@ Scala:
   - programming
   - scala
   - software
-  - virtual machine
   license:
   - Revised BSD License
   license_reference:
@@ -905,7 +904,7 @@ Scheme 48:
   - programming
   - scheme
   - software
-  - virtual machine
+  - vm
   license:
   - BSD License
   license_reference:
@@ -920,7 +919,7 @@ Squeak:
   - programming
   - smalltalk
   - software
-  - virtual machine
+  - vm
   license:
   - MIT/X11 License
   license_reference:
@@ -980,7 +979,7 @@ V8:
   - language
   - programming
   - software
-  - virtual machine
+  - vm
   license:
   - Revised BSD License
   license_reference:
@@ -2249,7 +2248,7 @@ RScheme:
   - programming
   - scheme
   - software
-  - virtual machine
+  - vm
   license:
   - custom license
   license_reference:
@@ -2397,7 +2396,7 @@ VMKit:
   - http://vmkit.llvm.org/
   tags:
   - software
-  - virtual machine
+  - vm
   license:
   - University of Illinois/NCSA Open Source License
   license_reference: []
@@ -2453,7 +2452,7 @@ Pharo:
   - programming
   - smalltalk
   - software
-  - virtual machine
+  - vm
   license:
   - MIT/X11 License + Apache License 2.0
   license_reference:
@@ -2478,7 +2477,7 @@ PyPy:
   - programming
   - python
   - software
-  - virtual machine
+  - vm
   license:
   - MIT/X11 License
   license_reference:
@@ -2504,7 +2503,7 @@ Ruby:
   - programming
   - ruby
   - software
-  - virtual machine
+  - vm
   license:
   - Simplified BSD License
   license_reference:
@@ -2560,7 +2559,7 @@ Squirrel:
   - programming
   - software
   - squirrel
-  - virtual machine
+  - vm
   license:
   - MIT/X11 License
   license_reference:
@@ -2591,7 +2590,7 @@ OctaScript:
   - octascript
   - programming
   - software
-  - virtual machine
+  - vm
   license:
   - University of Illinois/NCSA Open Source License
   license_reference:
@@ -4595,7 +4594,7 @@ Io:
   - language
   - programming
   - software
-  - virtual machine
+  - vm
   license:
   - Revised BSD License
   license_reference:
@@ -4910,7 +4909,7 @@ CoffeeScript:
   - framework
   - programming
   - software
-  - virtual machine
+  - vm
   license:
   - MIT/X11 License
   license_reference:
@@ -4959,7 +4958,7 @@ Ioke:
   - language
   - programming
   - software
-  - virtual machine
+  - vm
   license:
   - MIT/X11 License
   license_reference:
@@ -5005,7 +5004,7 @@ Apricot:
   - programming
   - rubinius
   - software
-  - virtual machine
+  - vm
   license:
   - ISC License
   license_reference:
@@ -5021,7 +5020,7 @@ Huia:
   - programming
   - rubinius
   - software
-  - virtual machine
+  - vm
   license:
   - MIT/X11 License
   license_reference:
@@ -5037,7 +5036,7 @@ Fancy:
   - programming
   - rubinius
   - software
-  - virtual machine
+  - vm
   license:
   - Revised BSD License
   license_reference:
@@ -5053,7 +5052,7 @@ Fuby:
   - programming
   - rubinius
   - software
-  - virtual machine
+  - vm
   license:
   - MIT/X11 License
   license_reference:
@@ -5070,7 +5069,7 @@ Lambra:
   - programming
   - rubinius
   - software
-  - virtual machine
+  - vm
   license:
   - MIT/X11 License
   license_reference:
@@ -5086,7 +5085,7 @@ Avian:
   - library
   - programming
   - software
-  - virtual machine
+  - vm
   license:
   - ISC License
   license_reference:
@@ -5102,7 +5101,7 @@ Capuchin:
   - programming
   - rubinius
   - software
-  - virtual machine
+  - vm
   license:
   - MIT/X11 License
   license_reference:
@@ -5117,7 +5116,7 @@ ez-scheme:
   - programming
   - rubinius
   - software
-  - virtual machine
+  - vm
   license:
   - public domain
   license_reference:
@@ -5133,7 +5132,7 @@ Lupin:
   - programming
   - rubinius
   - software
-  - virtual machine
+  - vm
   license:
   - MIT/X11 License
   license_reference:
@@ -5149,7 +5148,7 @@ Noscript:
   - programming
   - rubinius
   - software
-  - virtual machine
+  - vm
   license:
   - MIT/X11 License
   license_reference:
@@ -5164,7 +5163,7 @@ Pegarus:
   - programming
   - rubinius
   - software
-  - virtual machine
+  - vm
   license:
   - Revised BSD License
   license_reference:
@@ -5180,7 +5179,7 @@ Poison:
   - programming
   - rubinius
   - software
-  - virtual machine
+  - vm
   license:
   - MIT/X11 License
   license_reference:
@@ -5196,7 +5195,7 @@ Rasp:
   - rubinius
   - software
   - vbscript
-  - virtual machine
+  - vm
   license:
   - MIT/X11 License
   license_reference:
@@ -5213,7 +5212,7 @@ Syme:
   - rubinius
   - software
   - smalltalk
-  - virtual machine
+  - vm
   license:
   - MIT/X11 License
   license_reference:
@@ -5229,7 +5228,7 @@ Typhon:
   - python
   - rubinius
   - software
-  - virtual machine
+  - vm
   license:
   - Revised BSD License
   license_reference:
@@ -5729,7 +5728,7 @@ Mono:
   - mono
   - programming
   - software
-  - virtual machine
+  - vm
   license:
   - MIT/X11 License
   - https://github.com/mono/mono/blob/master/LICENSE
@@ -6453,7 +6452,7 @@ Wren:
   - language
   - programming
   - software
-  - virtual machine
+  - vm
   license:
   - MIT/X11 License
   license_reference:
@@ -8871,7 +8870,7 @@ Neko:
   - language
   - programming
   - software
-  - virtual machine
+  - vm
 PostgreSQL Blockchain Extension:
   uri:
   - https://github.com/blkchain/pg_blkchain
@@ -10370,3 +10369,17 @@ SerenityOS:
   - os
   - software
   - unix
+SqueakJS:
+  uri:
+    - https://squeak.js.org/
+  description:
+    - SqueakJS executes Squeak in a web page without a plugin.  It is a fully capable virtual machine implemented in pure JavaScript running unmodified Squeak images.  Squeak is a modern implementation of Smalltalk, the original dynamic object-oriented programming environment.  It runs bit-identically on virtually any platform, and now in the web browser, too.
+  license:
+    - MIT/X11 License
+  license_reference:
+    - https://github.com/codefrau/SqueakJS/blob/master/LICENSE.md
+  tags:
+    - programming
+    - smalltalk
+    - software
+    - vm

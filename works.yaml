@@ -10371,15 +10371,15 @@ SerenityOS:
   - unix
 SqueakJS:
   uri:
-    - https://squeak.js.org/
+  - https://squeak.js.org/
   description:
-    - SqueakJS executes Squeak in a web page without a plugin.  It is a fully capable virtual machine implemented in pure JavaScript running unmodified Squeak images.  Squeak is a modern implementation of Smalltalk, the original dynamic object-oriented programming environment.  It runs bit-identically on virtually any platform, and now in the web browser, too.
+  - SqueakJS executes Squeak in a web page without a plugin.  It is a fully capable virtual machine implemented in pure JavaScript running unmodified Squeak images.  Squeak is a modern implementation of Smalltalk, the original dynamic object-oriented programming environment.  It runs bit-identically on virtually any platform, and now in the web browser, too.
   license:
-    - MIT/X11 License
+  - MIT/X11 License
   license_reference:
-    - https://github.com/codefrau/SqueakJS/blob/master/LICENSE.md
+  - https://github.com/codefrau/SqueakJS/blob/master/LICENSE.md
   tags:
-    - programming
-    - smalltalk
-    - software
-    - vm
+  - programming
+  - smalltalk
+  - software
+  - vm

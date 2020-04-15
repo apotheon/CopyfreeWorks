@@ -10410,3 +10410,17 @@ sblg:
   - cms
   - software
   - web
+sqlbox:
+  uri:
+  - https://learnbchs.org/sqlbox.html
+  description:
+  - The sqlbox project allows SQLite3 database access within a file-constrained application process (typically as enacted with pledge(2) on OpenBSD) via a separate process with file-system access.
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/kristapsdz/sqlbox/blob/master/LICENSE.md
+  tags:
+  - database
+  - library
+  - security
+  - software

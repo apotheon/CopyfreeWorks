@@ -10383,3 +10383,16 @@ SqueakJS:
   - smalltalk
   - software
   - vm
+PCRE2:
+  uri:
+  - https://www.pcre.org/
+  description:
+  - The PCRE2 library is a set of functions that implement regular expression pattern matching using the same syntax and semantics as Perl 5.  PCRE2 has its own native API, as well as a set of wrapper functions that correspond to the POSIX regular expression API.  The older PCRE version is not copyfree and no longer receives feature updates.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://www.pcre.org/licence.txt
+  tags:
+  - library
+  - regex
+  - software

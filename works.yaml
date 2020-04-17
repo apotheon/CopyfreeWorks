@@ -10460,3 +10460,19 @@ Janet:
   - programming
   - software
   - vm
+libpwquality:
+  uri:
+  - https://github.com/libpwquality/libpwquality
+  description:
+  - The libpwquality library provides functions for password quality checking and scoring.  It also provides a password generation function, and supports a configuration file.  The project's reference utilities include pwmake (CLI password generator) and pwscore (CLI password scoring).
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/libpwquality/libpwquality/blob/master/COPYING
+  tags:
+  - c
+  - cli
+  - library
+  - password
+  - security
+  - software

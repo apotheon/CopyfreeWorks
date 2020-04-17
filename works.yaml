@@ -10476,3 +10476,17 @@ libpwquality:
   - password
   - security
   - software
+Rubywarden:
+  uri:
+  - https://github.com/jcs/rubywarden
+  description:
+  - Rubywarden is a small, self-contained API server written in Ruby and Sinatra to provide a private backend for the open-source Bitwarden apps.
+  license:
+  - ISC License
+  license_reference:
+  - https://github.com/jcs/rubywarden/blob/master/LICENSE
+  tags:
+  - password
+  - security
+  - server
+  - software

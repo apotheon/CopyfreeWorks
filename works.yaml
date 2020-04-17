@@ -10444,3 +10444,19 @@ mruby:
   - ruby
   - software
   - vm
+Janet:
+  uri:
+  - https://janet-lang.org/
+  description:
+  - Janet is a functional and imperative programming language and bytecode interpreter, that makes a good system scripting language, or a language to embed in other programs.  It is a modern lisp, but lists are replaced by other data structures (arrays, tables (hash table), struct (immutable hash table), tuples).  The language also supports bridging to native code written in C, meta-programming with macros, and bytecode assembly.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/janet-lang/janet/blob/master/LICENSE
+  tags:
+  - embedded
+  - janet
+  - language
+  - programming
+  - software
+  - vm

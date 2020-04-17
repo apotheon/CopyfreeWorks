@@ -10490,3 +10490,16 @@ Rubywarden:
   - security
   - server
   - software
+trayer-srg:
+  uri:
+  - https://github.com/sargon/trayer-srg
+  description:
+  - The trayer-srg provides a lightweight, GTK2-based, window manager agnostic systray for UNIX desktop.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/sargon/trayer-srg/blob/master/COPYING
+  tags:
+  - gui
+  - software
+  - systray

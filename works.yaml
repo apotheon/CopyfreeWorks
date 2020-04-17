@@ -10425,3 +10425,19 @@ sqlbox:
   - library
   - security
   - software
+mruby:
+  uri:
+  - https://mruby.org/
+  description:
+  - Ruby creator Matsumoto Yukihiro's mruby is the lightweight, embeddable implementation of the Ruby language complying with part of the ISO standard.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/mruby/mruby/blob/master/LICENSE
+  tags:
+  - embedded
+  - language
+  - programming
+  - ruby
+  - software
+  - vm

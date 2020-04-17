@@ -10503,3 +10503,16 @@ trayer-srg:
   - gui
   - software
   - systray
+git-issues:
+  uri:
+  - https://github.com/jwiegley/git-issues
+  description:
+  - The git-issues project implements distributed bug tracking for Git repositories.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/jwiegley/git-issues/blob/master/LICENSE
+  tags:
+  - git
+  - scm
+  - software

@@ -10516,3 +10516,19 @@ git-issues:
   - git
   - scm
   - software
+Ganeti:
+  uri:
+  - http://www.ganeti.org/
+  description:
+  - Ganeti is a virtual machine cluster management tool built on top of existing virtualization technologies such as Xen or KVM and other open source software.
+  license:
+  - Simplified BSD License
+  license_reference:
+  - http://git.ganeti.org/?p=ganeti.git;a=blob_plain;f=COPYING;hb=HEAD
+  tags:
+  - cloud
+  - cluster
+  - configuration management
+  - deployment
+  - software
+  - virtualization

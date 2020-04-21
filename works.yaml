@@ -10549,3 +10549,20 @@ CINT:
   - programming
   - repl
   - software
+ccons:
+  uri:
+  - https://github.com/asvitkine/ccons
+  description:
+  - The goal of ccons is to provide an interactive console for the C programming language, similar to what irb is for Ruby.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/asvitkine/ccons/blob/master/LICENSE
+  tags:
+  - c
+  - interpreter
+  - language
+  - llvm
+  - programming
+  - repl
+  - software

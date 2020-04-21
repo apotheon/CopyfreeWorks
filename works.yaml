@@ -10566,3 +10566,19 @@ ccons:
   - programming
   - repl
   - software
+Cling:
+  uri:
+  - https://root.cern.ch/cling
+  description:
+  - Cling is an interactive C++ interpreter, built on the top of LLVM and Clang libraries.
+  license:
+  - University of Illinois/NCSA Open Source License
+  license_reference:
+  - https://root.cern.ch/gitweb/?p=root.git;a=blob;f=interpreter/cling/LICENSE.TXT
+  tags:
+  - c++
+  - interpreter
+  - language
+  - programming
+  - repl
+  - software

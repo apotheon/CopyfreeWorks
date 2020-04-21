@@ -10532,3 +10532,20 @@ Ganeti:
   - deployment
   - software
   - virtualization
+CINT:
+  uri:
+  - http://www.hanno.jp/gotom/Cint.html
+  description:
+  - CINT is a C and C++ interpreter with built-in debugger and class browser.
+  license:
+  - variant HPND License
+  license_reference:
+  - http://www.hanno.jp/gotom/Cint.html
+  tags:
+  - c
+  - c++
+  - interpreter
+  - language
+  - programming
+  - repl
+  - software

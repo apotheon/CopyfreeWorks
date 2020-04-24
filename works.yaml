@@ -10582,3 +10582,18 @@ Cling:
   - programming
   - repl
   - software
+particles.js:
+  uri:
+  - https://vincentgarreau.com/particles.js/
+  description:
+  - The particles.js library creates graphical particle effects.
+  license:
+  - MIT/X11 License
+  license_reference:
+  - https://github.com/VincentGarreau/particles.js/blob/master/LICENSE.md
+  tags:
+  - graphics
+  - javascript
+  - library
+  - programming
+  - software

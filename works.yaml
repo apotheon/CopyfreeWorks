@@ -10597,3 +10597,18 @@ particles.js:
   - library
   - programming
   - software
+elm-abc-player:
+  uri:
+  - https://github.com/newlandsvalley/elm-abc-player
+  description:
+  - The elm-abc-player projects explore the possibilities of playing ABC notation directly in the browser within an Elm application.  They include players, an editor, and a tutorial.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/newlandsvalley/elm-abc-player/blob/master/LICENCE
+  tags:
+  - abc
+  - editor
+  - media player
+  - software
+  - web

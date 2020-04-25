@@ -10610,5 +10610,22 @@ elm-abc-player:
   - abc
   - editor
   - media player
+  - midi
+  - music
   - software
   - web
+music21:
+  uri:
+  - http://web.mit.edu/music21/
+  description:
+  - Music21 is a set of tools for helping scholars and other active listeners answer questions about music quickly and simply. If you've ever asked yourself a question like, "I wonder how often Bach does that" or "I wish I knew which band was the first to use these chords in this order," or "I'll bet we'd know more about Renaissance counterpoint (or Indian ragas or post-tonal pitch structures or the form of minuets) if I could write a program to automatically write more of them," then music21 can help you with your work.
+  license:
+  - Revised BSD License
+  license_reference:
+  - https://github.com/cuthbertLab/music21/blob/master/music21/license.txt
+  tags:
+  - analysis
+  - music
+  - musicology
+  - musicxml
+  - software

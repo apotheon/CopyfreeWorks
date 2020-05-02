@@ -1,3 +1,8 @@
+**This project, due to lack of ongoing reason to actually keep it on GitHub
+(with no contributions for quite some time now), has been moved to a repository
+on FossRec.  See [`cfworks`][repository] instead.  Any new issues or
+other contributions should target that repository instead of this.**
+
 # Copyfree Works
 
 Copyfree works -- quite well, in fact.  As evidence, we maintain a [list of
@@ -127,3 +132,4 @@ certified licenses][licenses] list for some license options.
 [ci]: http://copyfree.org
 [licenses]: http://copyfree.org/standard/licenses
 [list]: http://copyfree.org/resources/works
+[repository]: https://fossrec.com/u/apotheon/cfworks
